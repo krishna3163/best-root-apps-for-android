@@ -266,10 +266,61 @@ The table below is updated automatically from daily GitHub searches for new Andr
 
 | App / Module | Developer | Version | Updated | Download | Source |
 |:---|:---|:---|:---|:---|:---|
-| _No packages synced yet._ | — | — | — | — | — |
+| **Always Strong** | evoker0 | `v1.0.3` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/always-strong-v1.0.3) | [GitHub](https://github.com/evoker0/AlwaysStrong) |
+| **Android-Native-Root-Detector** | reveny | `v7.7.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/android-native-root-detector-v7.7.0) | [GitHub](https://github.com/reveny/Android-Native-Root-Detector) |
+| **Anti bootloop** | Magisk-Modules-Alt-Repo | `v1.3.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/anti-bootloop-v1.3.4) | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/abootloop) |
+| **APatch** | bmax121 | `11224` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/apatch-11224) | [GitHub](https://github.com/bmax121/APatch) |
+| **App Manager** | MuntashirAkon | `v4.1.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/app-manager-v4.1.0) | [GitHub](https://github.com/MuntashirAkon/AppManager) |
+| **AshReXcue - Bootloop Protector** | RipperHybrid | `v9.9` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ashrexcue-bootloop-protector-v9.9) | [GitHub](https://github.com/RipperHybrid/AshLooper) |
+| **BRENE** | rrr333nnn333 | `v0.0.62` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/brene-v0.0.62) | [GitHub](https://github.com/rrr333nnn333/BRENE) |
+| **Cromite SystemWebView** | hddq | `v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/cromite-systemwebview-v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79) | [GitHub](https://github.com/hddq/magisk-cromite-webview) |
+| **DirtySepolicy Bypass** | flipphoneguy | `v3.0.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/dirtysepolicy-bypass-v3.0.0) | [GitHub](https://github.com/flipphoneguy/DirtySepolicy_Bypass) |
+| **Disable Low Ram Flag** | Magisk-Modules-Alt-Repo | `1.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/disable-low-ram-flag-1.0) | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram) |
+| **FolkPatch** | LyraVoid | `kp-load` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/folkpatch-kp-load) | [GitHub](https://github.com/LyraVoid/FolkPatch) |
+| **Hide My Applist** | Dr-TSNG | `v3.8.3` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hide-my-applist-v3.8.3) | [GitHub](https://github.com/Dr-TSNG/Hide-My-Applist) |
+| **HMA-OSS** | frknkrc44 | `oss-166` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hma-oss-oss-166) | [GitHub](https://github.com/frknkrc44/HMA-OSS) |
+| **HyperOS Accessibility Fix** | chickendrop89 | `1.0.5` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hyperos-accessibility-fix-1.0.5) | [GitHub](https://github.com/chickendrop89/hyperos-accessibility-fix) |
+| **HyperOS Security Center** | Mods-Center | `V7` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hyperos-security-center-V7) | [GitHub](https://github.com/Mods-Center/HyperOS-Security-Center) |
+| **KernelSU** | tiann | `v3.2.5` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kernelsu-v3.2.5) | [GitHub](https://github.com/tiann/KernelSU) |
+| **KernelSU-next** | KernelSU-Next | `v3.3.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kernelsu-next-v3.3.0) | [GitHub](https://github.com/KernelSU-Next/KernelSU-Next) |
+| **Komodo Build Props** | Elcapitanoe | `20260817` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/komodo-build-props-20260817) | [GitHub](https://github.com/Elcapitanoe/Komodo-Build-Prop) |
+| **KPatch Next Module** | KernelSU-Next | `v0.0.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kpatch-next-module-v0.0.1) | [GitHub](https://github.com/KernelSU-Next/KPatch-Next-Module) |
+| **Magisk** | topjohnwu | `v30.7` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/magisk-v30.7) | [GitHub](https://github.com/topjohnwu/Magisk) |
+| **Magisk Manager for Recovery Mode** | Rikj000 | `2026.02.28` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/magisk-manager-for-recovery-mode-2026.02.28) | [GitHub](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode) |
+| **Meta-hybrid_mount** | YuzakiKokuban | `v4.2.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-hybrid-mount-v4.2.0) | [GitHub](https://github.com/YuzakiKokuban/meta-hybrid_mount) |
+| **meta-mm** | KernelSU-Modules-Repo | `v1.0.1-sprout` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-mm-v1.0.1-sprout) | [GitHub](https://github.com/KernelSU-Modules-Repo/meta-mm) |
+| **Meta-overlayfs** | KernelSU-Modules-Repo | `v1.3.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-overlayfs-v1.3.1) | [GitHub](https://github.com/KernelSU-Modules-Repo/meta-overlayfs) |
+| **MMRL** | DerGoogler | `v34296` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/mmrl-v34296) | [GitHub](https://github.com/DerGoogler/MMRL) |
+| **Mountify** | backslashxx | `203` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/mountify-203) | [GitHub](https://github.com/backslashxx/mountify) |
+| **Multi Userui Enabler** | InsertX2k | `v1.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/multi-userui-enabler-v1.0) | [GitHub](https://github.com/InsertX2k/multiuseruienabler) |
+| **NeoZygisk** | JingMatrix | `v2.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/neozygisk-v2.4) | [GitHub](https://github.com/JingMatrix/NeoZygisk) |
+| **NoHello** | MhmRdd | `0.0.7` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/nohello-0.0.7) | [GitHub](https://github.com/MhmRdd/NoHello) |
+| **Noogle Magisk** | SelfRef | `v2.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/noogle-magisk-v2.1) | [GitHub](https://github.com/SelfRef/noogle-magisk) |
+| **OhMyKeymint** | qwq233 | `v1.2.0-67dc5e7` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-v1.2.0-67dc5e7) | [GitHub](https://github.com/qwq233/OhMyKeymint) |
+| **Play Integrity Alert** | Xiddoc | `v1.0.9` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-alert-v1.0.9) | [GitHub](https://github.com/Xiddoc/PlayIntegrityAlert) |
+| **Play Integrity Fix (inject)** | KOWX712 | `v4.7-inject-s` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fix-inject-v4.7-inject-s) | [GitHub](https://github.com/KOWX712/PlayIntegrityFix) |
+| **Play Integrity Fork (PIF)** | osm0sis | `v17` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fork-pif-v17) | [GitHub](https://github.com/osm0sis/PlayIntegrityFork) |
+| **PlaycurlNEXT** | daboynb | `v1.19` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/playcurlnext-v1.19) | [GitHub](https://github.com/daboynb/playcurlNEXT) |
+| **ReZygisk** | PerformanC | `v1.0.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/rezygisk-v1.0.0) | [GitHub](https://github.com/PerformanC/ReZygisk) |
+| **ReZygisk's Treat Wheel** | PerformanC | `0.0.10` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/rezygisk-s-treat-wheel-0.0.10) | [GitHub](https://github.com/PerformanC/Treat-Wheel-Zygisk) |
+| **Secure Element Access** | jqssun | `v0.0.3` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/secure-element-access-v0.0.3) | [GitHub](https://github.com/jqssun/android-se-access) |
+| **Securify** | RabehX | `v1.4.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/securify-v1.4.0) | [GitHub](https://github.com/RabehX/Securify) |
+| **Specter** | dpejoh | `v1.4.5` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v1.4.5) | [GitHub](https://github.com/dpejoh/specter) |
+| **SukiSU-Ultra** | SukiSU-Ultra | `v4.1.3` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.1.3) | [GitHub](https://github.com/SukiSU-Ultra/SukiSU-Ultra) |
+| **SUSFS for KernelSU** | sidex15 | `v1.5.2+_R28` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/susfs-for-kernelsu-v1.5.2-_R28) | [GitHub](https://github.com/sidex15/susfs4ksu-module) |
+| **TEESimulator** | JingMatrix | `v4.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/teesimulator-v4.0) | [GitHub](https://github.com/JingMatrix/TEESimulator) |
+| **TEESimulator-RS** | Enginex0 | `v6.0.1-282` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/teesimulator-rs-v6.0.1-282) | [GitHub](https://github.com/Enginex0/TEESimulator-RS) |
+| **Tricky Addon – Update Target List** | KOWX712 | `v4.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/tricky-addon-update-target-list-v4.4) | [GitHub](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) |
+| **TrickyStore** | 5ec1cff | `1.4.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/trickystore-1.4.1) | [GitHub](https://github.com/5ec1cff/TrickyStore) |
+| **TrickyStore OSS** | beakthoven | `v3.0.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/trickystore-oss-v3.0.0) | [GitHub](https://github.com/beakthoven/TrickyStoreOSS) |
+| **Vector** | JingMatrix | `v2.2` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/vector-v2.2) | [GitHub](https://github.com/JingMatrix/Vector) |
+| **YetAnotherBootloopProtector** | Magisk-Modules-Alt-Repo | `v8.138-6537c16` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/yetanotherbootloopprotector-v8.138-6537c16) | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector) |
+| **YuriKey** | dpejoh | `v3.0.6` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/yurikey-v3.0.6) | [GitHub](https://github.com/dpejoh/yurikey) |
+| **ZeroMount** | Enginex0 | `v2.0.216-dev` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zeromount-v2.0.216-dev) | [GitHub](https://github.com/Enginex0/zeromount) |
+| **Zygisk Assistant** | snake-4 | `v2.1.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-assistant-v2.1.4) | [GitHub](https://github.com/snake-4/Zygisk-Assistant) |
+| **Zygisk Next** | Dr-TSNG | `v1.4.5` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-next-v1.4.5) | [GitHub](https://github.com/Dr-TSNG/ZygiskNext) |
 
 </details>
-
 <!-- AUTO-GENERATED-APPS-END -->
 
 <div class="readme-guides-steps">

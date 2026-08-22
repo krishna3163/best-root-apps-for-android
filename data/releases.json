@@ -1,1 +1,1057 @@
-{}
+{
+  "magisk": {
+    "source_repository": "topjohnwu/Magisk",
+    "source_release_id": 289304729,
+    "source_tag": "v30.7",
+    "source_published_at": "2026-02-23T08:07:01Z",
+    "synced_at": "2026-08-22T12:40:47.993949+00:00",
+    "assets": [
+      {
+        "source_asset_id": 360657866,
+        "filename": "Magisk-v30.7.apk",
+        "original_filename": "Magisk-v30.7.apk",
+        "sha256": "e0d32d2123532860f97123d927b1bb86c4e08e6fd8a48bfc6b5bee0afae9ebd5",
+        "file_size": 11613864,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "magisk-v30.7",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/magisk-v30.7"
+  },
+  "app-manager": {
+    "source_repository": "MuntashirAkon/AppManager",
+    "source_release_id": 345849712,
+    "source_tag": "v4.1.0",
+    "source_published_at": "2026-06-29T01:43:57Z",
+    "synced_at": "2026-08-22T12:40:52.585253+00:00",
+    "assets": [
+      {
+        "source_asset_id": 460655801,
+        "filename": "AppManager_v4.1.0.apk",
+        "original_filename": "AppManager_v4.1.0.apk",
+        "sha256": "9da22ecf7f84cc8bdfbeb97acffc1a581515ee255ccfedd2c15dee76b6781b6c",
+        "file_size": 28225028,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "app-manager-v4.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/app-manager-v4.1.0"
+  },
+  "kernelsu": {
+    "source_repository": "tiann/KernelSU",
+    "source_release_id": 343546341,
+    "source_tag": "v3.2.5",
+    "source_published_at": "2026-06-23T14:17:14Z",
+    "synced_at": "2026-08-22T12:40:58.319341+00:00",
+    "assets": [
+      {
+        "source_asset_id": 455691979,
+        "filename": "KernelSU_v3.2.5_32525-release.apk",
+        "original_filename": "KernelSU_v3.2.5_32525-release.apk",
+        "sha256": "1417081413bf7ab1de8e440ecbcb62685037c8f28f048f0f8b79e305b31ab916",
+        "file_size": 9083665,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "kernelsu-v3.2.5",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kernelsu-v3.2.5"
+  },
+  "apatch": {
+    "source_repository": "bmax121/APatch",
+    "source_release_id": 366555092,
+    "source_tag": "11224",
+    "source_published_at": "2026-08-07T06:17:03Z",
+    "synced_at": "2026-08-22T12:41:01.546204+00:00",
+    "assets": [
+      {
+        "source_asset_id": 504754051,
+        "filename": "APatch_11224_9a63e0f_HEAD-release-signed.apk",
+        "original_filename": "APatch_11224_9a63e0f_HEAD-release-signed.apk",
+        "sha256": "f1986f9a9c3b2b2d5ca09aa6b9ef24226fef662f8faf5677ce1447ffcae68590",
+        "file_size": 6569091,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "apatch-11224",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/apatch-11224"
+  },
+  "folkpatch": {
+    "source_repository": "LyraVoid/FolkPatch",
+    "source_release_id": 374648686,
+    "source_tag": "kp-load",
+    "source_published_at": "2026-08-21T20:10:43Z",
+    "synced_at": "2026-08-22T12:41:05.150815+00:00",
+    "assets": [
+      {
+        "source_asset_id": 524202434,
+        "filename": "FolkPatch_115026_5.0_on_main-release.apk",
+        "original_filename": "FolkPatch_115026_5.0_on_main-release.apk",
+        "sha256": "de865ae3bd359a755e2b3cfc1d31d521cbf0bf36625c7289541f95833d960cfe",
+        "file_size": 12462555,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "folkpatch-kp-load",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/folkpatch-kp-load"
+  },
+  "kernelsu-next": {
+    "source_repository": "KernelSU-Next/KernelSU-Next",
+    "source_release_id": 348647985,
+    "source_tag": "v3.3.0",
+    "source_published_at": "2026-07-03T14:09:49Z",
+    "synced_at": "2026-08-22T12:41:11.632315+00:00",
+    "assets": [
+      {
+        "source_asset_id": 465488636,
+        "filename": "KernelSU_Next_v3.3.0-spoofed_33214-release.apk",
+        "original_filename": "KernelSU_Next_v3.3.0-spoofed_33214-release.apk",
+        "sha256": "773d99e256563d36f8543235c96274021c59cf65efed783170bbc7effdf24ee3",
+        "file_size": 10209878,
+        "architecture": "arm64-v8a, x86_64"
+      },
+      {
+        "source_asset_id": 465488634,
+        "filename": "KernelSU_Next_v3.3.0_33214-release.apk",
+        "original_filename": "KernelSU_Next_v3.3.0_33214-release.apk",
+        "sha256": "fd0b12385c98fe9d5f4f1257b5f184e55c74c1376637507df0718305f5d7a924",
+        "file_size": 10209942,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "kernelsu-next-v3.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kernelsu-next-v3.3.0"
+  },
+  "sukisu-ultra": {
+    "source_repository": "SukiSU-Ultra/SukiSU-Ultra",
+    "source_release_id": 332957968,
+    "source_tag": "v4.1.3",
+    "source_published_at": "2026-06-02T07:33:28Z",
+    "synced_at": "2026-08-22T12:41:15.231025+00:00",
+    "assets": [
+      {
+        "source_asset_id": 435997563,
+        "filename": "SukiSU_v4.1.3_40796-release.apk",
+        "original_filename": "SukiSU_v4.1.3_40796-release.apk",
+        "sha256": "1b1e837c0a5b6aa34554882fad67cef6db6ca1a84d43e07dd904cf54f8d261ae",
+        "file_size": 12148312,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "sukisu-ultra-v4.1.3",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.1.3"
+  },
+  "mmrl": {
+    "source_repository": "DerGoogler/MMRL",
+    "source_release_id": 294473037,
+    "source_tag": "v34296",
+    "source_published_at": "2026-03-08T22:24:34Z",
+    "synced_at": "2026-08-22T12:41:20.397069+00:00",
+    "assets": [
+      {
+        "source_asset_id": 369665648,
+        "filename": "MMRL-v34296-release-official.apk",
+        "original_filename": "MMRL-v34296-release-official.apk",
+        "sha256": "ec259dae03336bd93b97c52198a4a6ab3ac8de8f76fa50b36522b569eb00dd3b",
+        "file_size": 7493186,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64, x86, x86_64"
+      },
+      {
+        "source_asset_id": 369665652,
+        "filename": "MMRL-v34296-release-spoofed.apk",
+        "original_filename": "MMRL-v34296-release-spoofed.apk",
+        "sha256": "48a2036cdf4f865907db9db2894625dcf23b2e9955b9b86e866fa38305cee3bd",
+        "file_size": 7493354,
+        "architecture": "arm64-v8a, armeabi, armeabi-v7a, mips, mips64, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "mmrl-v34296",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/mmrl-v34296"
+  },
+  "kpatch-next-module": {
+    "source_repository": "KernelSU-Next/KPatch-Next-Module",
+    "source_release_id": 278188079,
+    "source_tag": "v0.0.1",
+    "source_published_at": "2026-01-20T09:48:22Z",
+    "synced_at": "2026-08-22T12:41:23.012939+00:00",
+    "assets": [
+      {
+        "source_asset_id": 350677836,
+        "filename": "KPatch-Next-Module.zip",
+        "original_filename": "KPatch-Next-Module.zip",
+        "sha256": "ad4802ef34dd564d3935f07f5d4c8298535ffe2dd8b64dfd30e2036709995039",
+        "file_size": 1042014,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "kpatch-next-module-v0.0.1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kpatch-next-module-v0.0.1"
+  },
+  "magisk-manager-for-recovery-mode": {
+    "source_repository": "Rikj000/Magisk-Manager-for-Recovery-Mode",
+    "source_release_id": 291643590,
+    "source_tag": "2026.02.28",
+    "source_published_at": "2026-02-28T14:45:25Z",
+    "synced_at": "2026-08-22T12:41:25.590881+00:00",
+    "assets": [
+      {
+        "source_asset_id": 364132560,
+        "filename": "MagiskManagerForRecovery_v12_202602280.zip",
+        "original_filename": "MagiskManagerForRecovery_v12_202602280.zip",
+        "sha256": "6942e3a423219dca58f8a486cb6350c29f731cbeb4a12ddcaa5f4b37d0526c08",
+        "file_size": 24535,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "magisk-manager-for-recovery-mode-2026.02.28",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/magisk-manager-for-recovery-mode-2026.02.28"
+  },
+  "meta-overlayfs": {
+    "source_repository": "KernelSU-Modules-Repo/meta-overlayfs",
+    "source_release_id": 266718219,
+    "source_tag": "v1.3.1",
+    "source_published_at": "2025-12-02T12:57:14Z",
+    "synced_at": "2026-08-22T12:41:28.107322+00:00",
+    "assets": [
+      {
+        "source_asset_id": 323386708,
+        "filename": "meta-overlayfs-13100-1.3.1.zip",
+        "original_filename": "meta-overlayfs-13100-1.3.1.zip",
+        "sha256": "279d85a6a35724dfcf8aa1137a9630c7e989e154b94543517c539ee70f9b8811",
+        "file_size": 451415,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "meta-overlayfs-v1.3.1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-overlayfs-v1.3.1"
+  },
+  "mountify": {
+    "source_repository": "backslashxx/mountify",
+    "source_release_id": 344801481,
+    "source_tag": "203",
+    "source_published_at": "2026-06-25T15:03:16Z",
+    "synced_at": "2026-08-22T12:41:30.690490+00:00",
+    "assets": [
+      {
+        "source_asset_id": 457735701,
+        "filename": "mountify.zip",
+        "original_filename": "mountify.zip",
+        "sha256": "4f886764d519de35c53e1f64f26a738002dd9a5041278caad9d0355a921cdcb9",
+        "file_size": 555271,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "mountify-203",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/mountify-203"
+  },
+  "meta-hybrid-mount": {
+    "source_repository": "YuzakiKokuban/meta-hybrid_mount",
+    "source_release_id": 345742020,
+    "source_tag": "v4.2.0",
+    "source_published_at": "2026-06-27T17:05:17Z",
+    "synced_at": "2026-08-22T12:41:36.345363+00:00",
+    "assets": [
+      {
+        "source_asset_id": 459609673,
+        "filename": "Hybrid-Mount-4.2.0-1815.zip",
+        "original_filename": "Hybrid-Mount-4.2.0-1815.zip",
+        "sha256": "938e1b2031345dfbe1fe43dacb555ec99d4b9d3dc8a20a1bcd74e08c9ba5456b",
+        "file_size": 2161504,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 459609674,
+        "filename": "Hybrid-Mount-Lite-4.2.0-1815.zip",
+        "original_filename": "Hybrid-Mount-Lite-4.2.0-1815.zip",
+        "sha256": "167f7e1da9faffbc3ba326e3a5c09ce83443f31df3343e5756dc92b8ebb68217",
+        "file_size": 1169728,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 459609675,
+        "filename": "Hybrid-Mount-Nano-4.2.0-1815.zip",
+        "original_filename": "Hybrid-Mount-Nano-4.2.0-1815.zip",
+        "sha256": "91d3d22bdf47ff442906ddc47d6feda9348ab8c2f7416f08caf13fdfc505bd53",
+        "file_size": 445997,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "meta-hybrid-mount-v4.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-hybrid-mount-v4.2.0"
+  },
+  "meta-mm": {
+    "source_repository": "KernelSU-Modules-Repo/meta-mm",
+    "source_release_id": 275808944,
+    "source_tag": "v1.0.1-sprout",
+    "source_published_at": "2026-01-11T11:02:55Z",
+    "synced_at": "2026-08-22T12:41:38.853911+00:00",
+    "assets": [
+      {
+        "source_asset_id": 339048897,
+        "filename": "meta-magic_mount-v1.0.1-sprout-release.zip",
+        "original_filename": "meta-magic_mount-v1.0.1-sprout-release.zip",
+        "sha256": "4e2bfbccd80b0d787223cc8fe36315e8b269514a28f6d7ffb8e6e1f855e6e92b",
+        "file_size": 141592,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "meta-mm-v1.0.1-sprout",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-mm-v1.0.1-sprout"
+  },
+  "zeromount": {
+    "source_repository": "Enginex0/zeromount",
+    "source_release_id": 309132804,
+    "source_tag": "v2.0.216-dev",
+    "source_published_at": "2026-04-15T02:44:54Z",
+    "synced_at": "2026-08-22T12:41:44.446842+00:00",
+    "assets": [
+      {
+        "source_asset_id": 396686408,
+        "filename": "zeromount-v2.0.216-dev.zip",
+        "original_filename": "zeromount-v2.0.216-dev.zip",
+        "sha256": "12f9fde9edde5317b86e3672b4b20981eaa16581d8e736ef781b7a628b1bd30f",
+        "file_size": 44400088,
+        "architecture": "arm64-v8a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "zeromount-v2.0.216-dev",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zeromount-v2.0.216-dev"
+  },
+  "vector": {
+    "source_repository": "JingMatrix/Vector",
+    "source_release_id": 364754868,
+    "source_tag": "v2.2",
+    "source_published_at": "2026-08-04T09:38:29Z",
+    "synced_at": "2026-08-22T12:41:47.630737+00:00",
+    "assets": [
+      {
+        "source_asset_id": 501156280,
+        "filename": "Vector-v2.2-3080-Release.zip",
+        "original_filename": "Vector-v2.2-3080-Release.zip",
+        "sha256": "9ee8323575d615f7b3f1076ff60b2a63a49390ef11881b52632311a37f6f79cc",
+        "file_size": 9316843,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "vector-v2.2",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/vector-v2.2"
+  },
+  "zygisk-next": {
+    "source_repository": "Dr-TSNG/ZygiskNext",
+    "source_release_id": 365293668,
+    "source_tag": "v1.4.5",
+    "source_published_at": "2026-08-05T04:54:20Z",
+    "synced_at": "2026-08-22T12:41:50.813972+00:00",
+    "assets": [
+      {
+        "source_asset_id": 502187701,
+        "filename": "Zygisk-Next-1.4.5-836-b13d58a-release.zip",
+        "original_filename": "Zygisk-Next-1.4.5-836-b13d58a-release.zip",
+        "sha256": "ac7be9b91c059586f268df73586752b2bd9eaeb3fac13b40cd85730c98428945",
+        "file_size": 7365185,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "zygisk-next-v1.4.5",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-next-v1.4.5"
+  },
+  "neozygisk": {
+    "source_repository": "JingMatrix/NeoZygisk",
+    "source_release_id": 367279392,
+    "source_tag": "v2.4",
+    "source_published_at": "2026-08-08T19:03:47Z",
+    "synced_at": "2026-08-22T12:41:53.595209+00:00",
+    "assets": [
+      {
+        "source_asset_id": 506669666,
+        "filename": "NeoZygisk-v2.4-289-release.zip",
+        "original_filename": "NeoZygisk-v2.4-289-release.zip",
+        "sha256": "93a1425c67bb89f58a0dcb9fc823ec93f6472214f221e667a70b67c6a6e061a1",
+        "file_size": 2401208,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "neozygisk-v2.4",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/neozygisk-v2.4"
+  },
+  "rezygisk": {
+    "source_repository": "PerformanC/ReZygisk",
+    "source_release_id": 320195646,
+    "source_tag": "v1.0.0",
+    "source_published_at": "2026-05-10T23:08:58Z",
+    "synced_at": "2026-08-22T12:41:56.276364+00:00",
+    "assets": [
+      {
+        "source_asset_id": 416906711,
+        "filename": "ReZygisk-v1.0.0-release.zip",
+        "original_filename": "ReZygisk-v1.0.0-release.zip",
+        "sha256": "7904649b8dcaf2b060c3432df4fee302aeb1258da199d2b425335e82d49510e6",
+        "file_size": 506334,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "rezygisk-v1.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/rezygisk-v1.0.0"
+  },
+  "brene": {
+    "source_repository": "rrr333nnn333/BRENE",
+    "source_release_id": 373939609,
+    "source_tag": "v0.0.62",
+    "source_published_at": "2026-08-20T18:18:31Z",
+    "synced_at": "2026-08-22T12:41:58.995321+00:00",
+    "assets": [
+      {
+        "source_asset_id": 522616231,
+        "filename": "BRENE-v0.0.62.zip",
+        "original_filename": "BRENE-v0.0.62.zip",
+        "sha256": "0b43debdeb715e063324acbb2a663ef1328dc0774e74a509022603eaea4bdb06",
+        "file_size": 118559,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "brene-v0.0.62",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/brene-v0.0.62"
+  },
+  "hma-oss": {
+    "source_repository": "frknkrc44/HMA-OSS",
+    "source_release_id": 367463485,
+    "source_tag": "oss-166",
+    "source_published_at": "2026-08-09T11:46:07Z",
+    "synced_at": "2026-08-22T12:42:02.408529+00:00",
+    "assets": [
+      {
+        "source_asset_id": 507458952,
+        "filename": "HMA-OSS-ZYGISK-oss-166-release.zip",
+        "original_filename": "HMA-OSS-ZYGISK-oss-166-release.zip",
+        "sha256": "fb4f845688c2a1d2a8880c6c68b40903e1aa1319dc8c2dd275e0f3162a9ce605",
+        "file_size": 2588471,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "hma-oss-oss-166",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hma-oss-oss-166"
+  },
+  "teesimulator": {
+    "source_repository": "JingMatrix/TEESimulator",
+    "source_release_id": 368439339,
+    "source_tag": "v4.0",
+    "source_published_at": "2026-08-11T09:02:26Z",
+    "synced_at": "2026-08-22T12:42:05.907171+00:00",
+    "assets": [
+      {
+        "source_asset_id": 509908484,
+        "filename": "TEESimulator-v4.0-34-Release.zip",
+        "original_filename": "TEESimulator-v4.0-34-Release.zip",
+        "sha256": "a1ff73f687d6e0341c023e3ea108fc31b7c5dc713175531c9848fa505ac6e0f1",
+        "file_size": 16702783,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "teesimulator-v4.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/teesimulator-v4.0"
+  },
+  "susfs-for-kernelsu": {
+    "source_repository": "sidex15/susfs4ksu-module",
+    "source_release_id": 359969440,
+    "source_tag": "v1.5.2+_R28",
+    "source_published_at": "2026-07-26T09:11:01Z",
+    "synced_at": "2026-08-22T12:42:08.720647+00:00",
+    "assets": [
+      {
+        "source_asset_id": 490214327,
+        "filename": "ksu_module_susfs_1.5.2.zip",
+        "original_filename": "ksu_module_susfs_1.5.2+.zip",
+        "sha256": "abcd6bf456ea8189298d9e496faa440201d90e4f0bd93b83c0527589001c9376",
+        "file_size": 911798,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "susfs-for-kernelsu-v1.5.2-_R28",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/susfs-for-kernelsu-v1.5.2-_R28"
+  },
+  "always-strong": {
+    "source_repository": "evoker0/AlwaysStrong",
+    "source_release_id": 366402496,
+    "source_tag": "v1.0.3",
+    "source_published_at": "2026-08-06T21:13:33Z",
+    "synced_at": "2026-08-22T12:42:13.281871+00:00",
+    "assets": [
+      {
+        "source_asset_id": 504237990,
+        "filename": "AlwaysStrong-v1.0.3-inject.zip",
+        "original_filename": "AlwaysStrong-v1.0.3-inject.zip",
+        "sha256": "74cf2179f6d5de777f1a5bccf5e1e88f0b8af0acd69b9dc71889c0800a8dd4f1",
+        "file_size": 4715165,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 504237989,
+        "filename": "AlwaysStrong-v1.0.3.zip",
+        "original_filename": "AlwaysStrong-v1.0.3.zip",
+        "sha256": "6f669a7f4dd438df3ede42c001cf24b24e78b42e85ed21f78fc842d25737a774",
+        "file_size": 4907254,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "always-strong-v1.0.3",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/always-strong-v1.0.3"
+  },
+  "dirtysepolicy-bypass": {
+    "source_repository": "flipphoneguy/DirtySepolicy_Bypass",
+    "source_release_id": 332043651,
+    "source_tag": "v3.0.0",
+    "source_published_at": "2026-05-31T01:35:28Z",
+    "synced_at": "2026-08-22T12:42:15.498276+00:00",
+    "assets": [
+      {
+        "source_asset_id": 434148126,
+        "filename": "dirtysepbypass.zip",
+        "original_filename": "dirtysepbypass.zip",
+        "sha256": "0b026e67178c5202dedbf9ee23d3aa039471e131ed1c7cf6d7b2a8b3faa19ca1",
+        "file_size": 11133,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "dirtysepolicy-bypass-v3.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/dirtysepolicy-bypass-v3.0.0"
+  },
+  "hide-my-applist": {
+    "source_repository": "Dr-TSNG/Hide-My-Applist",
+    "source_release_id": 363581106,
+    "source_tag": "v3.8.3",
+    "source_published_at": "2026-08-01T17:16:42Z",
+    "synced_at": "2026-08-22T12:42:18.435199+00:00",
+    "assets": [
+      {
+        "source_asset_id": 498093828,
+        "filename": "HMA-V3.8.3.r520.9605640-release.apk",
+        "original_filename": "HMA-V3.8.3.r520.9605640-release.apk",
+        "sha256": "3f86c0c35acf9558c4e17905ec64ab8939b595ec25df7fec07d29deec59300a3",
+        "file_size": 3494096,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      }
+    ],
+    "mirror_release_tag": "hide-my-applist-v3.8.3",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hide-my-applist-v3.8.3"
+  },
+  "komodo-build-props": {
+    "source_repository": "Elcapitanoe/Komodo-Build-Prop",
+    "source_release_id": 371502792,
+    "source_tag": "20260817",
+    "source_published_at": "2026-08-17T02:52:52Z",
+    "synced_at": "2026-08-22T12:42:21.034618+00:00",
+    "assets": [
+      {
+        "source_asset_id": 517521447,
+        "filename": "Komodo_beta_CP41.260731.005.B1.zip",
+        "original_filename": "Komodo_beta_CP41.260731.005.B1.zip",
+        "sha256": "0f81ddb34b862f49090c3d649144f16a207649649bc7336be46ab59d1af98925",
+        "file_size": 64884,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "komodo-build-props-20260817",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/komodo-build-props-20260817"
+  },
+  "nohello": {
+    "source_repository": "MhmRdd/NoHello",
+    "source_release_id": 222195186,
+    "source_tag": "0.0.7",
+    "source_published_at": "2025-05-31T03:11:57Z",
+    "synced_at": "2026-08-22T12:42:23.604731+00:00",
+    "assets": [
+      {
+        "source_asset_id": 259643502,
+        "filename": "Nohello-v0.0.7-53-4d53ecf-release.zip",
+        "original_filename": "Nohello-v0.0.7-53-4d53ecf-release.zip",
+        "sha256": "36d25e6870c336b1d79487a223b6885452a6a915b0e3033d76979e1002d2fa43",
+        "file_size": 568365,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "nohello-0.0.7",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/nohello-0.0.7"
+  },
+  "ohmykeymint": {
+    "source_repository": "qwq233/OhMyKeymint",
+    "source_release_id": 340393844,
+    "source_tag": "v1.2.0-67dc5e7",
+    "source_published_at": "2026-06-16T20:28:47Z",
+    "synced_at": "2026-08-22T12:42:26.619768+00:00",
+    "assets": [
+      {
+        "source_asset_id": 449565367,
+        "filename": "OhMyKeymint-release-arm64-v8a-1.2.0-67dc5e7.zip",
+        "original_filename": "OhMyKeymint-release-arm64-v8a-1.2.0-67dc5e7.zip",
+        "sha256": "d2ec87c830e26c6ef79a15069cbb73f068ea3291a33cd7e508a334e0e81f86ad",
+        "file_size": 3605406,
+        "architecture": "arm64-v8a"
+      }
+    ],
+    "mirror_release_tag": "ohmykeymint-v1.2.0-67dc5e7",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-v1.2.0-67dc5e7"
+  },
+  "play-integrity-fix-inject": {
+    "source_repository": "KOWX712/PlayIntegrityFix",
+    "source_release_id": 352483129,
+    "source_tag": "v4.7-inject-s",
+    "source_published_at": "2026-07-11T09:58:43Z",
+    "synced_at": "2026-08-22T12:42:30.616871+00:00",
+    "assets": [
+      {
+        "source_asset_id": 474280179,
+        "filename": "PlayIntegrityFix_v4.7-1-inject-s.zip",
+        "original_filename": "PlayIntegrityFix_v4.7-1-inject-s.zip",
+        "sha256": "10eec591735cafee437332871443a2fadf6632b1a58abb16fe2461d9df100ab1",
+        "file_size": 660329,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 473399370,
+        "filename": "PlayIntegrityFix_v4.7-inject-s.zip",
+        "original_filename": "PlayIntegrityFix_v4.7-inject-s.zip",
+        "sha256": "3a5fa1ac31154a1526af309ecd86b784c75a2c2f17a54e570369a3691a9ad9e6",
+        "file_size": 660502,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "play-integrity-fix-inject-v4.7-inject-s",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fix-inject-v4.7-inject-s"
+  },
+  "play-integrity-fork-pif": {
+    "source_repository": "osm0sis/PlayIntegrityFork",
+    "source_release_id": 342389885,
+    "source_tag": "v17",
+    "source_published_at": "2026-06-20T19:37:00Z",
+    "synced_at": "2026-08-22T12:42:32.942126+00:00",
+    "assets": [
+      {
+        "source_asset_id": 453184947,
+        "filename": "PlayIntegrityFork-v17.zip",
+        "original_filename": "PlayIntegrityFork-v17.zip",
+        "sha256": "69115acdeba904a3b82882851cf3cb6c27aef5bfb6aa57c1988ab3a4c0bb8c87",
+        "file_size": 285020,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "play-integrity-fork-pif-v17",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fork-pif-v17"
+  },
+  "playcurlnext": {
+    "source_repository": "daboynb/playcurlNEXT",
+    "source_release_id": 279353795,
+    "source_tag": "v1.19",
+    "source_published_at": "2026-01-23T12:57:50Z",
+    "synced_at": "2026-08-22T12:42:35.413969+00:00",
+    "assets": [
+      {
+        "source_asset_id": 344786241,
+        "filename": "playcurlNEXT.zip",
+        "original_filename": "playcurlNEXT.zip",
+        "sha256": "361c7c57bdd9e6549024c2eac316640ce72e529b2d0e9f42ed5ffcb9c983df7e",
+        "file_size": 18441,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "playcurlnext-v1.19",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/playcurlnext-v1.19"
+  },
+  "rezygisk-s-treat-wheel": {
+    "source_repository": "PerformanC/Treat-Wheel-Zygisk",
+    "source_release_id": 320205989,
+    "source_tag": "0.0.10",
+    "source_published_at": "2026-05-10T23:12:25Z",
+    "synced_at": "2026-08-22T12:42:37.819659+00:00",
+    "assets": [
+      {
+        "source_asset_id": 416951860,
+        "filename": "TreatWheel.zip",
+        "original_filename": "TreatWheel.zip",
+        "sha256": "e50922ccf4ba9cc08524476a9885d5e3440b787deccf6f5bd4fcadc07aad38e7",
+        "file_size": 225174,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "rezygisk-s-treat-wheel-0.0.10",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/rezygisk-s-treat-wheel-0.0.10"
+  },
+  "specter": {
+    "source_repository": "dpejoh/specter",
+    "source_release_id": 374776576,
+    "source_tag": "v1.4.5",
+    "source_published_at": "2026-08-22T02:27:49Z",
+    "synced_at": "2026-08-22T12:42:40.763229+00:00",
+    "assets": [
+      {
+        "source_asset_id": 524547898,
+        "filename": "specter-v1.4.5.zip",
+        "original_filename": "specter-v1.4.5.zip",
+        "sha256": "5b7312fdf60db85af4ba3fe8972c8031ea9ad585114d90da5ce224fc2001cc2f",
+        "file_size": 438412,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "specter-v1.4.5",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v1.4.5"
+  },
+  "teesimulator-rs": {
+    "source_repository": "Enginex0/TEESimulator-RS",
+    "source_release_id": 342022599,
+    "source_tag": "v6.0.1-282",
+    "source_published_at": "2026-06-19T15:54:47Z",
+    "synced_at": "2026-08-22T12:42:43.754599+00:00",
+    "assets": [
+      {
+        "source_asset_id": 452298809,
+        "filename": "TEESimulator-RS-v6.0.1-282-Release.zip",
+        "original_filename": "TEESimulator-RS-v6.0.1-282-Release.zip",
+        "sha256": "4cde854bdc6add7a3f587dae24d3cefff519206716b2d0dea7ff4c2772bb86ef",
+        "file_size": 2765128,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "teesimulator-rs-v6.0.1-282",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/teesimulator-rs-v6.0.1-282"
+  },
+  "tricky-addon-update-target-list": {
+    "source_repository": "KOWX712/Tricky-Addon-Update-Target-List",
+    "source_release_id": 342482467,
+    "source_tag": "v4.4",
+    "source_published_at": "2026-06-21T08:19:21Z",
+    "synced_at": "2026-08-22T12:42:46.778787+00:00",
+    "assets": [
+      {
+        "source_asset_id": 453569967,
+        "filename": "TrickyAddonModule-v4.4.zip",
+        "original_filename": "TrickyAddonModule-v4.4.zip",
+        "sha256": "b4a5f0397ce1dd06102223456c959e73d610cace58959b1afdca73ab7cdc0b10",
+        "file_size": 3203800,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "tricky-addon-update-target-list-v4.4",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/tricky-addon-update-target-list-v4.4"
+  },
+  "trickystore": {
+    "source_repository": "5ec1cff/TrickyStore",
+    "source_release_id": 259064898,
+    "source_tag": "1.4.1",
+    "source_published_at": "2025-11-02T09:56:37Z",
+    "synced_at": "2026-08-22T12:42:49.725259+00:00",
+    "assets": [
+      {
+        "source_asset_id": 311569068,
+        "filename": "Tricky-Store-v1.4.1-245-72b2e84-release.zip",
+        "original_filename": "Tricky-Store-v1.4.1-245-72b2e84-release.zip",
+        "sha256": "2f5e73fcba0e4e43b6e96b38f333cbe394873e3a81cf8fe1b831c2fbd6c46ea9",
+        "file_size": 2840600,
+        "architecture": "arm, arm64, x64"
+      }
+    ],
+    "mirror_release_tag": "trickystore-1.4.1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/trickystore-1.4.1"
+  },
+  "trickystore-oss": {
+    "source_repository": "beakthoven/TrickyStoreOSS",
+    "source_release_id": 364421443,
+    "source_tag": "v3.0.0",
+    "source_published_at": "2026-08-03T18:36:42Z",
+    "synced_at": "2026-08-22T12:42:52.399115+00:00",
+    "assets": [
+      {
+        "source_asset_id": 500399933,
+        "filename": "Tricky-Store-OSS-v3.0.0-155-f57cf4f-Release.zip",
+        "original_filename": "Tricky-Store-OSS-v3.0.0-155-f57cf4f-Release.zip",
+        "sha256": "03f744154c52fe25ef93de2afb2a25a3f4b4730caf7b67a63cfade020c1fc4da",
+        "file_size": 1286285,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "trickystore-oss-v3.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/trickystore-oss-v3.0.0"
+  },
+  "yurikey": {
+    "source_repository": "dpejoh/yurikey",
+    "source_release_id": 333484921,
+    "source_tag": "v3.0.6",
+    "source_published_at": "2026-06-03T04:06:06Z",
+    "synced_at": "2026-08-22T12:42:55.704960+00:00",
+    "assets": [
+      {
+        "source_asset_id": 436894096,
+        "filename": "Yurikey-v3.0.6.signed.zip",
+        "original_filename": "Yurikey-v3.0.6.signed.zip",
+        "sha256": "07eed0330fbc1c5020de23709a4856751dcbe1ba50f14964069bed88c255f6ad",
+        "file_size": 420143,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "yurikey-v3.0.6",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/yurikey-v3.0.6"
+  },
+  "zygisk-assistant": {
+    "source_repository": "snake-4/Zygisk-Assistant",
+    "source_release_id": 201870114,
+    "source_tag": "v2.1.4",
+    "source_published_at": "2025-02-23T00:18:35Z",
+    "synced_at": "2026-08-22T12:42:58.339260+00:00",
+    "assets": [
+      {
+        "source_asset_id": 231701216,
+        "filename": "Zygisk-Assistant-v2.1.4-1013f8a-release.zip",
+        "original_filename": "Zygisk-Assistant-v2.1.4-1013f8a-release.zip",
+        "sha256": "9eca30a269dc676a66f67a9339185dee55cccd47dc1fc8eeea5416124626d67a",
+        "file_size": 392961,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "zygisk-assistant-v2.1.4",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-assistant-v2.1.4"
+  },
+  "anti-bootloop": {
+    "source_repository": "Magisk-Modules-Alt-Repo/abootloop",
+    "source_release_id": 204652885,
+    "source_tag": "v1.3.4",
+    "source_published_at": "2025-03-10T06:10:12Z",
+    "synced_at": "2026-08-22T12:43:00.860462+00:00",
+    "assets": [
+      {
+        "source_asset_id": 236088095,
+        "filename": "abootloop.zip",
+        "original_filename": "abootloop.zip",
+        "sha256": "57507c2a58f7cab924cf775322d5850ef865ccb53d068656c13716e9d5174fe0",
+        "file_size": 5011,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "anti-bootloop-v1.3.4",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/anti-bootloop-v1.3.4"
+  },
+  "ashrexcue-bootloop-protector": {
+    "source_repository": "RipperHybrid/AshLooper",
+    "source_release_id": 370095709,
+    "source_tag": "v9.9",
+    "source_published_at": "2026-08-13T17:38:39Z",
+    "synced_at": "2026-08-22T12:43:03.339438+00:00",
+    "assets": [
+      {
+        "source_asset_id": 513296406,
+        "filename": "AshReXcue_Bootloop_Protector_9.9_199.zip",
+        "original_filename": "AshReXcue_Bootloop_Protector_9.9_199.zip",
+        "sha256": "54c4d70e1524d36ca0c8947f011f33c0dcd6e248035a608cc43bd0f1216464e3",
+        "file_size": 1032512,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "ashrexcue-bootloop-protector-v9.9",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ashrexcue-bootloop-protector-v9.9"
+  },
+  "yetanotherbootloopprotector": {
+    "source_repository": "Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector",
+    "source_release_id": 305959968,
+    "source_tag": "v8.138-6537c16",
+    "source_published_at": "2026-04-07T07:26:46Z",
+    "synced_at": "2026-08-22T12:43:06.207324+00:00",
+    "assets": [
+      {
+        "source_asset_id": 390621670,
+        "filename": "YetAnotherBootloopProtector-138-v8.138-6537c16.zip",
+        "original_filename": "YetAnotherBootloopProtector-138-v8.138-6537c16.zip",
+        "sha256": "eafc135bd9a9f7e0bc1b5f7859d4d558c1f7395ce2f7c83ae8500da7caddbf2d",
+        "file_size": 55023,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "yetanotherbootloopprotector-v8.138-6537c16",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/yetanotherbootloopprotector-v8.138-6537c16"
+  },
+  "android-native-root-detector": {
+    "source_repository": "reveny/Android-Native-Root-Detector",
+    "source_release_id": 307914865,
+    "source_tag": "v7.7.0",
+    "source_published_at": "2026-04-11T21:12:06Z",
+    "synced_at": "2026-08-22T12:43:09.596775+00:00",
+    "assets": [
+      {
+        "source_asset_id": 394283336,
+        "filename": "native-root-detector-v7.7.0.apk",
+        "original_filename": "native-root-detector-v7.7.0.apk",
+        "sha256": "1033d24102af2632fe5c379e28c9ea9a20bc1d570e171ac3e50f8afd35fc4bd6",
+        "file_size": 4659875,
+        "architecture": "arm64-v8a, armeabi-v7a"
+      }
+    ],
+    "mirror_release_tag": "android-native-root-detector-v7.7.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/android-native-root-detector-v7.7.0"
+  },
+  "play-integrity-alert": {
+    "source_repository": "Xiddoc/PlayIntegrityAlert",
+    "source_release_id": 348050925,
+    "source_tag": "v1.0.9",
+    "source_published_at": "2026-07-02T13:12:05Z",
+    "synced_at": "2026-08-22T12:43:13.707449+00:00",
+    "assets": [
+      {
+        "source_asset_id": 464334733,
+        "filename": "PlayIntegrityAlert-v1.0.9.apk",
+        "original_filename": "PlayIntegrityAlert-v1.0.9.apk",
+        "sha256": "e9a252d83953fe0073b828a69bdad4024dd8a9ca547f46e3568f1f18869fe7df",
+        "file_size": 2388109,
+        "architecture": "unknown"
+      }
+    ],
+    "mirror_release_tag": "play-integrity-alert-v1.0.9",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-alert-v1.0.9"
+  },
+  "securify": {
+    "source_repository": "RabehX/Securify",
+    "source_release_id": 332019017,
+    "source_tag": "v1.4.0",
+    "source_published_at": "2026-05-30T22:21:46Z",
+    "synced_at": "2026-08-22T12:43:17.888069+00:00",
+    "assets": [
+      {
+        "source_asset_id": 434043561,
+        "filename": "Securify-1.4.0-release.apk",
+        "original_filename": "Securify-1.4.0-release.apk",
+        "sha256": "2a275a05dd75437b32e826f1ce0d656246873abdc07aa41c043f7c760fc4185f",
+        "file_size": 17109547,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "securify-v1.4.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/securify-v1.4.0"
+  },
+  "cromite-systemwebview": {
+    "source_repository": "hddq/magisk-cromite-webview",
+    "source_release_id": 338330032,
+    "source_tag": "v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79",
+    "source_published_at": "2026-06-12T01:42:46Z",
+    "synced_at": "2026-08-22T12:43:30.506068+00:00",
+    "assets": [
+      {
+        "source_asset_id": 445237688,
+        "filename": "CromiteSystemWebView-v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79.zip",
+        "original_filename": "CromiteSystemWebView-v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79.zip",
+        "sha256": "483f0696a54b31a62d85c26ae04fddcabeb65bfcc8b242807a4b6f9cc7129f20",
+        "file_size": 146837768,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "cromite-systemwebview-v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/cromite-systemwebview-v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79"
+  },
+  "disable-low-ram-flag": {
+    "source_repository": "Magisk-Modules-Alt-Repo/disable-low-ram",
+    "source_release_id": 226838483,
+    "source_tag": "1.0",
+    "source_published_at": "2025-06-21T14:27:17Z",
+    "synced_at": "2026-08-22T12:43:32.837189+00:00",
+    "assets": [
+      {
+        "source_asset_id": 266012857,
+        "filename": "disable-low-ram_v1.0.zip",
+        "original_filename": "disable-low-ram_v1.0.zip",
+        "sha256": "8e11b5be1dd1b4056c74d327d49556ed49e8cc8c6c7542be3709650eeeb77219",
+        "file_size": 2144,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "disable-low-ram-flag-1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/disable-low-ram-flag-1.0"
+  },
+  "hyperos-accessibility-fix": {
+    "source_repository": "chickendrop89/hyperos-accessibility-fix",
+    "source_release_id": 356469610,
+    "source_tag": "1.0.5",
+    "source_published_at": "2026-07-20T01:49:07Z",
+    "synced_at": "2026-08-22T12:43:35.384833+00:00",
+    "assets": [
+      {
+        "source_asset_id": 482925428,
+        "filename": "hyperos-accessibility-fix.zip",
+        "original_filename": "hyperos-accessibility-fix.zip",
+        "sha256": "476a7ee8664f45a9147989f9bfea721aaf5bc6eadfad3a517ec2ee0306be23f9",
+        "file_size": 23459,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "hyperos-accessibility-fix-1.0.5",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hyperos-accessibility-fix-1.0.5"
+  },
+  "hyperos-security-center": {
+    "source_repository": "Mods-Center/HyperOS-Security-Center",
+    "source_release_id": 370325307,
+    "source_tag": "V7",
+    "source_published_at": "2026-08-14T03:09:26Z",
+    "synced_at": "2026-08-22T12:43:44.744102+00:00",
+    "assets": [
+      {
+        "source_asset_id": 513939776,
+        "filename": "hyperos_securityv7-kashis_cringey_stuffs.zip",
+        "original_filename": "HyperOS_SecurityV7@kashis_cringey_stuffs.zip",
+        "sha256": "b1722752144805f15e8e7d2d619403257594b05f123afb5ff61af004ba642d9c",
+        "file_size": 94570252,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "hyperos-security-center-V7",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hyperos-security-center-V7"
+  },
+  "multi-userui-enabler": {
+    "source_repository": "InsertX2k/multiuseruienabler",
+    "source_release_id": 201288643,
+    "source_tag": "v1.0",
+    "source_published_at": "2025-02-19T21:15:43Z",
+    "synced_at": "2026-08-22T12:43:47.151780+00:00",
+    "assets": [
+      {
+        "source_asset_id": 230751580,
+        "filename": "multiuseruienabler.zip",
+        "original_filename": "multiuseruienabler.zip",
+        "sha256": "e26fa5260de0009ffe746fd414e3195ae2fc2e8edafc46fe72ed1c26d4418627",
+        "file_size": 2252,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "multi-userui-enabler-v1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/multi-userui-enabler-v1.0"
+  },
+  "noogle-magisk": {
+    "source_repository": "SelfRef/noogle-magisk",
+    "source_release_id": 210321271,
+    "source_tag": "v2.1",
+    "source_published_at": "2025-04-04T09:46:00Z",
+    "synced_at": "2026-08-22T12:43:52.547025+00:00",
+    "assets": [
+      {
+        "source_asset_id": 243509167,
+        "filename": "noogle-microg-v2.1.zip",
+        "original_filename": "noogle-microg-v2.1.zip",
+        "sha256": "08a2c6d9d76aae10f9674f906578ede058a7b517f6c60291251bc328f9583032",
+        "file_size": 45155572,
+        "architecture": "universal"
+      }
+    ],
+    "mirror_release_tag": "noogle-magisk-v2.1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/noogle-magisk-v2.1"
+  },
+  "secure-element-access": {
+    "source_repository": "jqssun/android-se-access",
+    "source_release_id": 313653088,
+    "source_tag": "v0.0.3",
+    "source_published_at": "2026-04-25T22:05:13Z",
+    "synced_at": "2026-08-22T12:43:55.700217+00:00",
+    "assets": [
+      {
+        "source_asset_id": 405535857,
+        "filename": "app-release.apk",
+        "original_filename": "app-release.apk",
+        "sha256": "0bbd023a3b13558b7f64585c2bdf28379ab206dcd39e824cd630e294e090ea22",
+        "file_size": 1551716,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      }
+    ],
+    "mirror_release_tag": "secure-element-access-v0.0.3",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/secure-element-access-v0.0.3"
+  }
+}
