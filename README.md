@@ -26,6 +26,7 @@ Find the right tool faster with category-based recommendations, direct project l
 ### 📚 Overview
 - [Introduction](#introduction)
 - [Rooting Guides](#rooting-guides)
+- [No-Root Shizuku Alternative](#no-root-shizuku-alternative)
 - [Device-Specific Guides](#device-specific-guides)
 
 </div>
@@ -144,6 +145,19 @@ Find the right tool faster with category-based recommendations, direct project l
 
 ---
 
+## No-Root Shizuku Alternative
+
+Not ready to root your device? **Shizuku** lets compatible Android apps use selected system APIs through ADB or Wireless Debugging, without unlocking the bootloader or installing root.
+
+| Option | Best For | What You Need |
+|:---|:---|:---|
+| **Root** | Deep system modification, root modules, and maximum control | An unlocked bootloader and a supported root method |
+| **Shizuku** | App management, debloating, permissions, and system tools without root | The Shizuku service started through Wireless Debugging or ADB |
+
+Explore the dedicated [Best Shizuku Apps for Android](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root) repository for a focused collection of no-root tools and compatible apps.
+
+> [!TIP]
+> Start with Shizuku if you want extra control but are not comfortable with bootloader unlocking and root. App compatibility varies, so check each app's requirements before use.
 
 <div class="readme-guides-steps">
 
@@ -234,13 +248,15 @@ Find the right tool faster with category-based recommendations, direct project l
 <details>
 <summary><b>📚 Common Rooting Terms</b></summary>
 
-- **Bootloader** - Low-level software that starts your OS (must be unlocked for root)
-- **Recovery** - Special mode for system modifications (TWRP, CWM)
-- **Systemless Root** - Root method that doesn't modify system partition
-- **Zygisk** - Feature for advanced app hooking and hiding
-- **DenyList** - Feature to hide root from specific apps
-- **Play Integrity** - Google's security check (replacing SafetyNet)
-- **Knox** - Samsung's security platform (trips when bootloader unlocked)
+| Term | Meaning |
+|:---|:---|
+| **Bootloader** | Low-level software that starts your operating system. It must be unlocked before rooting. |
+| **Recovery** | A special boot mode used for system modifications, such as TWRP or OrangeFox. |
+| **Systemless Root** | A root method that applies changes without directly modifying the system partition. |
+| **Zygisk** | Magisk's feature for advanced app hooking, customization, and root hiding. |
+| **DenyList** | A root-management feature that prevents selected apps from seeing root access. |
+| **Play Integrity** | Google's security-verification system, formerly known as SafetyNet. |
+| **Knox** | Samsung's security platform, which may be permanently tripped after bootloader unlocking. |
 
 </details><br>
 
@@ -322,9 +338,11 @@ A feature that lets modules inject code into Android's Zygote process for system
 <br>
 </details>
 
-- **[⭐ Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)** The "Gold Standard" for detection evasion. It is a standalone Zygisk implementation that offers the most advanced stealth features, including a dedicated **Zygote Monitor** and dashboard. `Proprietary` `[M]` `[K]` `[A]`
-- **[NeoZygisk](https://github.com/JingMatrix/NeoZygisk)** A minimalist, high-stealth implementation using **ptrace injection**. It focuses on "trace cleaning," aiming to remove all injection artifacts from memory once modules are loaded. `FOSS` `[M]` `[K]` `[A]`
-- **[ReZygisk](https://github.com/PerformanC/ReZygisk)** A high-performance implementation **entirely rewritten in C**. It introduces **custom linkers** to bypass modern linker-based detections, offering a WebUI for status monitoring and compatibility with Android 15 and 16. `FOSS` `[M]` `[K]` `[A]`
+| App | Description | License | Links |
+| :--- | :--- | :--- | :--- |
+| **[⭐ Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)** | The "Gold Standard" for detection evasion. A standalone Zygisk implementation with advanced stealth features, including a dedicated **Zygote Monitor** and dashboard. | Proprietary [M] [K] [A] | [GitHub](https://github.com/Dr-TSNG/ZygiskNext) |
+| **[NeoZygisk](https://github.com/JingMatrix/NeoZygisk)** | A minimalist, high-stealth implementation using **ptrace injection** and trace cleaning to remove injection artifacts from memory after modules load. | FOSS [M] [K] [A] | [GitHub](https://github.com/JingMatrix/NeoZygisk) |
+| **[ReZygisk](https://github.com/PerformanC/ReZygisk)** | A high-performance implementation rewritten in **C**, with custom linkers, WebUI status monitoring, and Android 15/16 compatibility. | FOSS [M] [K] [A] | [GitHub](https://github.com/PerformanC/ReZygisk) |
 
 
 
@@ -1495,8 +1513,11 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 
 > [!TIP]
 > **Where should you start?**
-> - Managing root access or installing modules? Begin with [Root Managers and Modules](#root-module-management).
-> - Looking for command-line utilities, ADB, or Linux environments? Visit [Terminal and Developer Tools](#terminal-shell).
+
+| Start Here | Best For |
+|:---|:---|
+| [Root Managers and Modules](#root-module-management) | Managing root access and installing modules. |
+| [Terminal and Developer Tools](#terminal-shell) | Command-line utilities, ADB, and Linux environments. |
 
 
 [↑ Back to top](#table-of-contents)
@@ -1513,18 +1534,22 @@ Unlocking the bootloader and installing root can erase your data, void your warr
 
 ### 🛠️ Pre-Flash Checklist
 
-- [ ] **Backups:** Save a complete backup of your app data and internal storage.
-- [ ] **Firmware:** Download the exact stock firmware, boot image, and `vbmeta.img` for your device.
-- [ ] **Tools:** Install the latest Android `platform-tools` and verify ADB/Fastboot access.
-- [ ] **Recovery plan:** Keep a second device or an alternate way to follow recovery instructions.
+| Checklist | What to prepare |
+|:---|:---|
+| [ ] **Backups** | Save a complete backup of your app data and internal storage. |
+| [ ] **Firmware** | Download the exact stock firmware, boot image, and `vbmeta.img` for your device. |
+| [ ] **Tools** | Install the latest Android `platform-tools` and verify ADB/Fastboot access. |
+| [ ] **Recovery plan** | Keep a second device or an alternate way to follow recovery instructions. |
 
 ### 🛡️ Safer Modification Practices
 
-- **Start systemless:** Prefer well-documented Magisk or KernelSU modules over direct system partition edits.
-- **Change one thing at a time:** Reboot and test after each module or system change.
-- **Keep a rollback path:** Preserve clean copies of your original boot and `vbmeta` images.
-- **Check compatibility:** Read the app or module documentation, releases, and open issues before installing.
-- **Avoid conflicts:** Do not run multiple tools that modify the same system component, such as several hosts-based ad blockers.
+| Practice | Recommendation |
+|:---|:---|
+| **Start systemless** | Prefer well-documented Magisk or KernelSU modules over direct system partition edits. |
+| **Change one thing at a time** | Reboot and test after each module or system change. |
+| **Keep a rollback path** | Preserve clean copies of your original boot and `vbmeta` images. |
+| **Check compatibility** | Read the app or module documentation, releases, and open issues before installing. |
+| **Avoid conflicts** | Do not run multiple tools that modify the same system component, such as several hosts-based ad blockers. |
 
 > [!WARNING]
 > Never use root tools to bypass paid features, defeat access controls, or violate an app's terms of service. Respect software licenses, local laws, and device security.
