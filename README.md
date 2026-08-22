@@ -9,6 +9,12 @@
 Find the right tool faster with category-based recommendations, direct project links and clear compatibility tags.
 
 [![Total Entries](https://img.shields.io/badge/Apps%20%26%20Modules-500+-blue?style=for-the-badge&logo=android&cacheSeconds=3600)](#root-apps-and-modules)
+[![GitHub stars](https://img.shields.io/github/stars/krishna3163/best-root-apps-for-android?style=for-the-badge&logo=github)](https://github.com/krishna3163/best-root-apps-for-android/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/krishna3163/best-root-apps-for-android?style=for-the-badge&logo=github)](https://github.com/krishna3163/best-root-apps-for-android/network)
+[![GitHub license](https://img.shields.io/github/license/krishna3163/best-root-apps-for-android?style=for-the-badge)](https://github.com/krishna3163/best-root-apps-for-android/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/krishna3163/best-root-apps-for-android?style=for-the-badge&logo=github)](https://github.com/krishna3163/best-root-apps-for-android/commits)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](https://github.com/krishna3163/best-root-apps-for-android/pulls)
+[![Community](https://img.shields.io/badge/Community-Contributions-blue?style=for-the-badge)](https://github.com/krishna3163/best-root-apps-for-android/issues)
 
 </div>
 <div align="center" class="quick-nav">
