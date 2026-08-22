@@ -147,6 +147,12 @@ Find the right tool faster with category-based recommendations, direct project l
 
 ---
 
+## Introduction
+
+This directory brings together useful apps, modules, and guides for Android users who want more control over their devices. Entries are grouped by purpose and include direct project, F-Droid, or Google Play links whenever available.
+
+Use the framework badges to understand whether a module supports Magisk, KernelSU, APatch, or LSPosed. Always review compatibility and back up your device before making system-level changes.
+
 ## No-Root Shizuku Alternative
 
 Not ready to root your device? **Shizuku** lets compatible Android apps use selected system APIs through ADB or Wireless Debugging, without unlocking the bootloader or installing root.
@@ -163,7 +169,9 @@ Explore the dedicated [Best Shizuku Apps for Android](https://github.com/krishna
 
 <div class="readme-guides-steps">
 
-## The 4-Step Rooting Roadmap
+## Rooting Guides
+
+### The 4-Step Rooting Roadmap
 
 1. **[Unlock Bootloader](./docs/rooting-guides/how-to-unlock-bootloader.md)**: Required for all system modifications.
 2. **[Install Recovery](./docs/rooting-guides/how-to-install-custom-recovery.md)**: Flash TWRP or OrangeFox to manage mods.
