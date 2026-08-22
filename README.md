@@ -27,7 +27,9 @@ Find the right tool faster with category-based recommendations, direct project l
 - [Introduction](#introduction)
 - [Rooting Guides](#rooting-guides)
 - [No-Root Shizuku Alternative](#no-root-shizuku-alternative)
+- [The 4-Step Rooting Roadmap](#the-4-step-rooting-roadmap)
 - [Device-Specific Guides](#device-specific-guides)
+- [Additional Resources](#additional-resources)
 
 </div>
 
