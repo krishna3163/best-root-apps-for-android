@@ -43,6 +43,7 @@ def run(task: str) -> None:
     elif task == "toc":
         anchors = set(re.findall(r"\]\(#([^)]+)\)", content))
         headings = {re.sub(r"\s+", "-", re.sub(r"[^a-z0-9 -]", "", h.lower()).strip()) for h in re.findall(r"^#{1,6} (.+)$", content, re.MULTILINE)}
+        headings.update(re.findall(r'<h[1-6] id="([^"]+)">', content))
         missing = sorted(anchors - headings)
         if missing:
             raise ValueError(f"Missing TOC anchors: {', '.join(missing)}")

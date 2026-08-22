@@ -16,10 +16,10 @@ Find the right tool faster with category-based recommendations, direct project l
 [Introduction](#introduction) | [Rooting Guides](#rooting-guides) | [Apps & Modules](#root-apps-and-modules) | [Safety](#legal-and-safety)
 
 </div><br>
-## Table of Contents
+<h2 id="table-of-contents"><strong>📚 Table of Contents</strong></h2>
 
 <details>
-<summary>👉 Tap to expand complete navigation</summary>
+<summary><strong>👉 Tap to expand complete navigation</strong></summary>
 
 <div class="toc-overview">
 

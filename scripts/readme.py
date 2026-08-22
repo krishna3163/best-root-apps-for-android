@@ -80,6 +80,7 @@ def validate(content: str, entries: list[dict[str, str]]) -> list[str]:
         slug(heading)
         for heading in re.findall(r"^#{1,6} (.+)$", content, re.MULTILINE)
     }
+    headings.update(re.findall(r'<h[1-6] id="([^"]+)">', content))
     errors.extend(f"Missing local anchor: #{anchor}" for anchor in sorted(local_anchors - headings))
     return errors
 
