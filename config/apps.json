@@ -1,0 +1,986 @@
+{
+  "apps": [
+    {
+      "name": "Magisk",
+      "slug": "magisk",
+      "repository": "topjohnwu/Magisk",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "App Manager",
+      "slug": "app-manager",
+      "repository": "MuntashirAkon/AppManager",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "KernelSU",
+      "slug": "kernelsu",
+      "repository": "tiann/KernelSU",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "APatch",
+      "slug": "apatch",
+      "repository": "bmax121/APatch",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "FolkPatch",
+      "slug": "folkpatch",
+      "repository": "LyraVoid/FolkPatch",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "KernelSU-next",
+      "slug": "kernelsu-next",
+      "repository": "KernelSU-Next/KernelSU-Next",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "ReSukiSU",
+      "slug": "resukisu",
+      "repository": "ReSukiSU/ReSukiSU",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "SukiSU-Ultra",
+      "slug": "sukisu-ultra",
+      "repository": "SukiSU-Ultra/SukiSU-Ultra",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "MMRL",
+      "slug": "mmrl",
+      "repository": "DerGoogler/MMRL",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "KPatch Next Module",
+      "slug": "kpatch-next-module",
+      "repository": "KernelSU-Next/KPatch-Next-Module",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Magisk Manager for Recovery Mode",
+      "slug": "magisk-manager-for-recovery-mode",
+      "repository": "Rikj000/Magisk-Manager-for-Recovery-Mode",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Meta-overlayfs",
+      "slug": "meta-overlayfs",
+      "repository": "KernelSU-Modules-Repo/meta-overlayfs",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Mountify",
+      "slug": "mountify",
+      "repository": "backslashxx/mountify",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Meta-hybrid_mount",
+      "slug": "meta-hybrid-mount",
+      "repository": "YuzakiKokuban/meta-hybrid_mount",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "meta-mm",
+      "slug": "meta-mm",
+      "repository": "KernelSU-Modules-Repo/meta-mm",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "ZeroMount",
+      "slug": "zeromount",
+      "repository": "Enginex0/zeromount",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Vector",
+      "slug": "vector",
+      "repository": "JingMatrix/Vector",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Zygisk Next",
+      "slug": "zygisk-next",
+      "repository": "Dr-TSNG/ZygiskNext",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "NeoZygisk",
+      "slug": "neozygisk",
+      "repository": "JingMatrix/NeoZygisk",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "ReZygisk",
+      "slug": "rezygisk",
+      "repository": "PerformanC/ReZygisk",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "BRENE",
+      "slug": "brene",
+      "repository": "rrr333nnn333/BRENE",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "HMA-OSS",
+      "slug": "hma-oss",
+      "repository": "frknkrc44/HMA-OSS",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "TEESimulator",
+      "slug": "teesimulator",
+      "repository": "JingMatrix/TEESimulator",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "SUSFS for KernelSU",
+      "slug": "susfs-for-kernelsu",
+      "repository": "sidex15/susfs4ksu-module",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Always Strong",
+      "slug": "always-strong",
+      "repository": "evoker0/AlwaysStrong",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "DirtySepolicy Bypass",
+      "slug": "dirtysepolicy-bypass",
+      "repository": "flipphoneguy/DirtySepolicy_Bypass",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Hide My Applist",
+      "slug": "hide-my-applist",
+      "repository": "Dr-TSNG/Hide-My-Applist",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Komodo Build Props",
+      "slug": "komodo-build-props",
+      "repository": "Elcapitanoe/Komodo-Build-Prop",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "NoHello",
+      "slug": "nohello",
+      "repository": "MhmRdd/NoHello",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "OhMyKeymint",
+      "slug": "ohmykeymint",
+      "repository": "qwq233/OhMyKeymint",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Play Integrity Fix (inject)",
+      "slug": "play-integrity-fix-inject",
+      "repository": "KOWX712/PlayIntegrityFix",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Play Integrity Fork (PIF)",
+      "slug": "play-integrity-fork-pif",
+      "repository": "osm0sis/PlayIntegrityFork",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "PlaycurlNEXT",
+      "slug": "playcurlnext",
+      "repository": "daboynb/playcurlNEXT",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "ReZygisk's Treat Wheel",
+      "slug": "rezygisk-s-treat-wheel",
+      "repository": "PerformanC/Treat-Wheel-Zygisk",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Sensitive Props",
+      "slug": "sensitive-props",
+      "repository": "Pixel-Props/sensitive-props",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Specter",
+      "slug": "specter",
+      "repository": "dpejoh/specter",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "TEESimulator-RS",
+      "slug": "teesimulator-rs",
+      "repository": "Enginex0/TEESimulator-RS",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Tricky Addon – Update Target List",
+      "slug": "tricky-addon-update-target-list",
+      "repository": "KOWX712/Tricky-Addon-Update-Target-List",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "TrickyStore",
+      "slug": "trickystore",
+      "repository": "5ec1cff/TrickyStore",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "TrickyStore OSS",
+      "slug": "trickystore-oss",
+      "repository": "beakthoven/TrickyStoreOSS",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "YuriKey",
+      "slug": "yurikey",
+      "repository": "dpejoh/yurikey",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Zygisk Assistant",
+      "slug": "zygisk-assistant",
+      "repository": "snake-4/Zygisk-Assistant",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Anti bootloop",
+      "slug": "anti-bootloop",
+      "repository": "Magisk-Modules-Alt-Repo/abootloop",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "AshReXcue - Bootloop Protector",
+      "slug": "ashrexcue-bootloop-protector",
+      "repository": "RipperHybrid/AshLooper",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "YetAnotherBootloopProtector",
+      "slug": "yetanotherbootloopprotector",
+      "repository": "Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Android-Native-Root-Detector",
+      "slug": "android-native-root-detector",
+      "repository": "reveny/Android-Native-Root-Detector",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Duck Detector Fork",
+      "slug": "duck-detector-fork",
+      "repository": "rrr333nnn333/Duck-Detector-Refactoring",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Duck Detector",
+      "slug": "duck-detector",
+      "repository": "eltavine/Duck-Detector-Refactoring",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "MagiskDetection",
+      "slug": "magiskdetection",
+      "repository": "apkunpacker/MagiskDetection",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "PIF Detector",
+      "slug": "pif-detector",
+      "repository": "IR0NBYTE/playIntegrityFixDetector",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Play Integrity Alert",
+      "slug": "play-integrity-alert",
+      "repository": "Xiddoc/PlayIntegrityAlert",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Play Integrity API Checker",
+      "slug": "play-integrity-api-checker",
+      "repository": "1nikolas/play-integrity-checker-app",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Securify",
+      "slug": "securify",
+      "repository": "RabehX/Securify",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Cromite SystemWebView",
+      "slug": "cromite-systemwebview",
+      "repository": "hddq/magisk-cromite-webview",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Disable Low Ram Flag",
+      "slug": "disable-low-ram-flag",
+      "repository": "Magisk-Modules-Alt-Repo/disable-low-ram",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "HyperOS Accessibility Fix",
+      "slug": "hyperos-accessibility-fix",
+      "repository": "chickendrop89/hyperos-accessibility-fix",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "HyperOS Security Center",
+      "slug": "hyperos-security-center",
+      "repository": "Mods-Center/HyperOS-Security-Center",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Multi Userui Enabler",
+      "slug": "multi-userui-enabler",
+      "repository": "InsertX2k/multiuseruienabler",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Noogle Magisk",
+      "slug": "noogle-magisk",
+      "repository": "SelfRef/noogle-magisk",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    },
+    {
+      "name": "Secure Element Access",
+      "slug": "secure-element-access",
+      "repository": "jqssun/android-se-access",
+      "enabled": true,
+      "release_strategy": "latest-stable",
+      "asset_patterns": [
+        ".*\\.(apk|zip)$"
+      ],
+      "exclude_patterns": [
+        ".*debug.*",
+        ".*unsigned.*",
+        ".*test.*",
+        ".*source.*"
+      ]
+    }
+  ],
+  "defaults": {
+    "enabled": true,
+    "release_strategy": "latest-stable",
+    "asset_patterns": [
+      ".*\\.(apk|zip)$"
+    ],
+    "exclude_patterns": [
+      ".*debug.*",
+      ".*unsigned.*",
+      ".*test.*",
+      ".*source.*"
+    ],
+    "preferred_architectures": [
+      "universal",
+      "arm64-v8a",
+      "arm64",
+      "armeabi-v7a",
+      "x86_64",
+      "x86"
+    ],
+    "fallback_to_previous_release_with_apk": false
+  }
+}

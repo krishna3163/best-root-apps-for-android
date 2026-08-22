@@ -182,10 +182,31 @@ Explore the dedicated [Best Shizuku Apps for Android](https://github.com/krishna
 The table below is updated automatically from daily GitHub searches for new Android root apps, tools, modules, and Shizuku projects. Review each project before installing it.
 
 <!-- AUTO-DISCOVERED-ROOT-APPS:START -->
+
+<details id="discovered-root-apps">
+<summary><h2>🔍 Auto-Discovered Root Projects</h2></summary>
+
 | App | Description | License | Links |
 |:---|:---|:---|:---|
 | _No new projects discovered yet._ | The daily scanner will add matching GitHub projects here. | — | — |
+
+</details>
 <!-- AUTO-DISCOVERED-ROOT-APPS:END -->
+
+<!-- AUTO-GENERATED-APPS-START -->
+
+<details id="root-downloads">
+<summary><h2>📦 Root Apps & Modules Downloads</h2></summary>
+
+> Automatically synced from upstream GitHub releases. Packages are unmodified.
+
+| App / Module | Developer | Version | Updated | Download | Source |
+|:---|:---|:---|:---|:---|:---|
+| _No packages synced yet._ | — | — | — | — | — |
+
+</details>
+
+<!-- AUTO-GENERATED-APPS-END -->
 
 <div class="readme-guides-steps">
 

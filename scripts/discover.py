@@ -71,6 +71,9 @@ def update_readme(entries: list[dict[str, str]]) -> None:
         if line.strip().startswith("| **[")
     ]
     rows = [
+        '<details id="discovered-root-apps">',
+        "<summary><h2>🔍 Auto-Discovered Root Projects</h2></summary>",
+        "",
         "| App | Description | License | Links |",
         "|:---|:---|:---|:---|",
     ]
@@ -82,7 +85,9 @@ def update_readme(entries: list[dict[str, str]]) -> None:
         )
     else:
         rows.append("| _No new projects discovered yet._ | The daily scanner will add matching GitHub projects here. | — | — |")
-    replacement = "\n" + "\n".join(rows) + "\n"
+    rows.append("")
+    rows.append("</details>")
+    replacement = "\n\n" + "\n".join(rows) + "\n\n"
     README.write_text(content[:start] + replacement + content[end:], encoding="utf-8")
 
 
