@@ -1,4 +1,4 @@
-name: Deploy app catalog
+name: Deploy app catalog to GitHub Pages
 
 on:
   push:
