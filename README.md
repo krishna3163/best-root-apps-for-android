@@ -16,7 +16,7 @@ Find the right tool faster with category-based recommendations, direct project l
 [Introduction](#introduction) | [Rooting Guides](#rooting-guides) | [Apps & Modules](#root-apps-and-modules) | [Safety](#legal-and-safety)
 
 </div><br>
-### Table of Contents
+## Table of Contents
 
 <details>
 <summary>👉 Tap to expand complete navigation</summary>
