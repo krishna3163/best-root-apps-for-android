@@ -167,6 +167,16 @@ Explore the dedicated [Best Shizuku Apps for Android](https://github.com/krishna
 > [!TIP]
 > Start with Shizuku if you want extra control but are not comfortable with bootloader unlocking and root. App compatibility varies, so check each app's requirements before use.
 
+## Auto-Discovered Root Projects
+
+The table below is updated automatically from daily GitHub searches for new Android root apps, tools, modules, and Shizuku projects. Review each project before installing it.
+
+<!-- AUTO-DISCOVERED-ROOT-APPS:START -->
+| App | Description | License | Links |
+|:---|:---|:---|:---|
+| _No new projects discovered yet._ | The daily scanner will add matching GitHub projects here. | — | — |
+<!-- AUTO-DISCOVERED-ROOT-APPS:END -->
+
 <div class="readme-guides-steps">
 
 ## Rooting Guides
