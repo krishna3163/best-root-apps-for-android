@@ -1,0 +1,68 @@
+name: Catalog automation suite
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/**
+      - .github/workflows/catalog-automation.yml
+      - .github/ISSUE_TEMPLATE/**
+  pull_request:
+    paths:
+      - README.md
+      - scripts/**
+      - .github/workflows/catalog-automation.yml
+      - .github/ISSUE_TEMPLATE/**
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  automation:
+    name: ${{ matrix.name }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: Link safety
+            task: links
+          - name: Duplicate detection
+            task: duplicates
+          - name: TOC validation
+            task: toc
+          - name: Table parsing
+            task: tables
+          - name: Framework badges
+            task: badges
+          - name: License metadata
+            task: licenses
+          - name: Source labels
+            task: labels
+          - name: Featured apps
+            task: featured
+          - name: Catalog statistics
+            task: stats
+          - name: Shizuku alternative
+            task: shizuku
+          - name: Security scan
+            task: security
+          - name: Sort advisory
+            task: sort
+          - name: Issue form
+            task: issue-form
+          - name: Workflow inventory
+            task: workflow
+          - name: Search site source
+            task: site
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Run automation check
+        run: python scripts/automation.py --task "${{ matrix.task }}"
