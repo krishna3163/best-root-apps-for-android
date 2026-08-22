@@ -48,7 +48,7 @@ jobs:
               raise SystemExit("README does not contain app tables")
 
           local_anchors = re.findall(r"\]\(#([^)]+)\)", readme)
-            heading_anchors = {
+          heading_anchors = {
               re.sub(r"\s+", "-", re.sub(r"[^a-z0-9 -]", "", heading.lower()).strip())
               for heading in re.findall(r"^#{1,6} (.+)$", readme, re.MULTILINE)
             }
