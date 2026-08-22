@@ -67,11 +67,13 @@ def validate(content: str, entries: list[dict[str, str]]) -> list[str]:
     for entry in entries:
         if not re.search(r"\b(?:FOSS|Proprietary|See project)\b", entry["license"]):
             errors.append(f"Missing license: {entry['name']}")
-        if not re.search(r"\[(?:M|K|A|LSP)\]", entry["license"]):
-            # Ordinary apps do not need a framework badge; this is informational only.
-            continue
-        if not re.search(r"\[(?:M|K|A|LSP)\]", entry["license"]):
-            errors.append(f"Invalid framework badge: {entry['name']}")
+        valid_badges = {"[M]", "[K]", "[A]", "[LSP]"}
+        badges = set(re.findall(r"\[[^\]]+\]", entry["license"]))
+        invalid_badges = badges - valid_badges
+        if invalid_badges:
+            errors.append(
+                f"Invalid framework badge for {entry['name']}: {', '.join(sorted(invalid_badges))}"
+            )
 
     local_anchors = set(re.findall(r"\]\(#([^)]+)\)", content))
     headings = {
