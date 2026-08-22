@@ -25,6 +25,7 @@ Find the right tool faster with category-based recommendations, direct project l
 
 ### 📚 Overview
 - [Introduction](#introduction)
+- [About](#about)
 - [Rooting Guides](#rooting-guides)
 - [No-Root Shizuku Alternative](#no-root-shizuku-alternative)
 - [The 4-Step Rooting Roadmap](#the-4-step-rooting-roadmap)
@@ -152,6 +153,15 @@ Find the right tool faster with category-based recommendations, direct project l
 This directory brings together useful apps, modules, and guides for Android users who want more control over their devices. Entries are grouped by purpose and include direct project, F-Droid, or Google Play links whenever available.
 
 Use the framework badges to understand whether a module supports Magisk, KernelSU, APatch, or LSPosed. Always review compatibility and back up your device before making system-level changes.
+
+## About
+
+**Best Root Apps for Android** is a curated directory of root apps, Magisk modules, KernelSU modules, LSPosed modules, system tools, privacy utilities, and no-root Shizuku-compatible apps.
+
+The catalog helps Android users discover useful tools by category, compare compatibility, and open the official project or app listing directly.
+
+> [!NOTE]
+> This repository is an informational directory. Always verify an app or module's source, permissions, compatibility, and maintenance status before installing it.
 
 ## No-Root Shizuku Alternative
 
