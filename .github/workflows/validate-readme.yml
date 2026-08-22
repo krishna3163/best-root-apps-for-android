@@ -22,38 +22,5 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Validate README
-        shell: python
-        run: |
-          from pathlib import Path
-          import re
-
-          readme = Path("README.md").read_text(encoding="utf-8")
-
-          if "file+.vscode-resource" in readme or "vscode-resource" in readme:
-              raise SystemExit("README contains a VS Code-only resource URL")
-
-          required_sections = (
-              "# Root Apps and Modules",
-              "## No-Root Shizuku Alternative",
-              "## Legal and Safety",
-          )
-          missing_sections = [section for section in required_sections if section not in readme]
-          if missing_sections:
-              raise SystemExit(f"Missing README sections: {', '.join(missing_sections)}")
-
-          table_headers = readme.count("| App | Description | License | Links |")
-          app_rows = len(re.findall(r"^\| \*\*\[", readme, re.MULTILINE))
-          if table_headers == 0 or app_rows == 0:
-              raise SystemExit("README does not contain app tables")
-
-          local_anchors = re.findall(r"\]\(#([^)]+)\)", readme)
-          heading_anchors = {
-              re.sub(r"\s+", "-", re.sub(r"[^a-z0-9 -]", "", heading.lower()).strip())
-              for heading in re.findall(r"^#{1,6} (.+)$", readme, re.MULTILINE)
-            }
-          missing_anchors = sorted(set(local_anchors) - heading_anchors)
-          if missing_anchors:
-              raise SystemExit(f"Missing local anchors: {', '.join(missing_anchors)}")
-
-          print(f"README validation passed: {table_headers} tables, {app_rows} app rows")
+        - name: Validate README
+        run: python scripts/readme.py
