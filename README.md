@@ -287,6 +287,13 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[telecast](https://github.com/lshfgj/telecast)** | LSPosed module that adds DLNA/UPnP casting to Telegram for Android. | See project | [GitHub](https://github.com/lshfgj/telecast) |
 | **[ThorAutoTimeZone](https://github.com/darkaxt/thorautotimezone)** | Native offline automatic time-zone provider for the AYN Thor on Android 13, packaged as a Magisk module. | See project | [GitHub](https://github.com/darkaxt/thorautotimezone) |
 | **[zapret-pocket](https://github.com/sevcator/zapret-pocket)** | ⚡ Bypass censorship via zapret on rooted Android devices | See project | [GitHub](https://github.com/sevcator/zapret-pocket) |
+| **[android-perapp-language-selector](https://github.com/takeruf/android-perapp-language-selector)** | An Android utility that uses Shizuku to force per-app language (locale) settings on Android 13+ devices without requiring root. It allows applying any language to an app, even if the app lacks built-in language options. | See project | [GitHub](https://github.com/takeruf/android-perapp-language-selector) |
+| **[aoa-touch](https://github.com/paasann210/aoa-touch)** | Replay recorded multi-touch gestures on Android over USB via AOA 2.0 HID — no root, no ADB, no accessibility app during playback | See project | [GitHub](https://github.com/paasann210/aoa-touch) |
+| **[ommega](https://github.com/jiyin004-jpg/ommega)** | Ommega three-end system: A/B-side Magisk modules, relay server, and B-side Android app | See project | [GitHub](https://github.com/jiyin004-jpg/ommega) |
+| **[OxyPin](https://github.com/nexuverse-labs/oxypin)** | App pinning with a Quick Settings tile for OxygenOS / ColorOS (Xposed module) | See project | [GitHub](https://github.com/nexuverse-labs/oxypin) |
+| **[Pixel4xl-2DFaceUnlock](https://github.com/vickylines/pixel4xl-2dfaceunlock)** | LSPosed 2D face unlock module for Google Pixel4xl / AOSP Android 10-16 (Simplified Chinese) | See project | [GitHub](https://github.com/vickylines/pixel4xl-2dfaceunlock) |
+| **[t3ra1n](https://github.com/noxproductions/t3ra1n)** | Run palera1n from a rooted Android. No PC. Termux + Magisk module. | See project | [GitHub](https://github.com/noxproductions/t3ra1n) |
+| **[zafiro](https://github.com/niki914/zafiro)** | Android Native AI agent for phone automation — control apps via Accessibility / Root / Shizuku, run Shell / SSH commands, and extend with MCP, Skills | See project | [GitHub](https://github.com/niki914/zafiro) |
 
 </details>
 
