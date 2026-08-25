@@ -226,22 +226,22 @@
   },
   "mountify": {
     "source_repository": "backslashxx/mountify",
-    "source_release_id": 344801481,
-    "source_tag": "203",
-    "source_published_at": "2026-06-25T15:03:16Z",
-    "synced_at": "2026-08-22T12:41:30.690490+00:00",
+    "source_release_id": 376159314,
+    "source_tag": "204",
+    "source_published_at": "2026-08-25T05:14:18Z",
+    "synced_at": "2026-08-25T06:49:53.207879+00:00",
     "assets": [
       {
-        "source_asset_id": 457735701,
+        "source_asset_id": 528681034,
         "filename": "mountify.zip",
         "original_filename": "mountify.zip",
-        "sha256": "4f886764d519de35c53e1f64f26a738002dd9a5041278caad9d0355a921cdcb9",
-        "file_size": 555271,
+        "sha256": "dde361c444f6990b759890720487785402a391a61cf6530f960deb98e5ef864d",
+        "file_size": 554873,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "mountify-203",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/mountify-203"
+    "mirror_release_tag": "mountify-204",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/mountify-204"
   },
   "meta-hybrid-mount": {
     "source_repository": "YuzakiKokuban/meta-hybrid_mount",
@@ -394,22 +394,22 @@
   },
   "brene": {
     "source_repository": "rrr333nnn333/BRENE",
-    "source_release_id": 373939609,
-    "source_tag": "v0.0.62",
-    "source_published_at": "2026-08-20T18:18:31Z",
-    "synced_at": "2026-08-22T12:41:58.995321+00:00",
+    "source_release_id": 376137961,
+    "source_tag": "v0.0.63",
+    "source_published_at": "2026-08-25T04:03:22Z",
+    "synced_at": "2026-08-25T06:49:59.769582+00:00",
     "assets": [
       {
-        "source_asset_id": 522616231,
-        "filename": "BRENE-v0.0.62.zip",
-        "original_filename": "BRENE-v0.0.62.zip",
-        "sha256": "0b43debdeb715e063324acbb2a663ef1328dc0774e74a509022603eaea4bdb06",
-        "file_size": 118559,
+        "source_asset_id": 528612905,
+        "filename": "BRENE-v0.0.63.zip",
+        "original_filename": "BRENE-v0.0.63.zip",
+        "sha256": "923c2552efa18f0b3766983eb64a0f3bd8e2bad73ad4c3bfa3412f345cd54f16",
+        "file_size": 118988,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "brene-v0.0.62",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/brene-v0.0.62"
+    "mirror_release_tag": "brene-v0.0.63",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/brene-v0.0.63"
   },
   "hma-oss": {
     "source_repository": "frknkrc44/HMA-OSS",
@@ -454,7 +454,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-08-25T01:18:12.359492+00:00",
+    "synced_at": "2026-08-25T06:50:01.723498+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -983,7 +983,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-08-25T01:18:26.053429+00:00",
+    "synced_at": "2026-08-25T06:50:17.411305+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
