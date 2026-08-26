@@ -245,38 +245,22 @@
   },
   "meta-hybrid-mount": {
     "source_repository": "YuzakiKokuban/meta-hybrid_mount",
-    "source_release_id": 345742020,
-    "source_tag": "v4.2.0",
-    "source_published_at": "2026-06-27T17:05:17Z",
-    "synced_at": "2026-08-22T12:41:36.345363+00:00",
+    "source_release_id": 377038376,
+    "source_tag": "v6.0.0",
+    "source_published_at": "2026-08-26T10:05:32Z",
+    "synced_at": "2026-08-26T12:53:24.555178+00:00",
     "assets": [
       {
-        "source_asset_id": 459609673,
-        "filename": "Hybrid-Mount-4.2.0-1815.zip",
-        "original_filename": "Hybrid-Mount-4.2.0-1815.zip",
-        "sha256": "938e1b2031345dfbe1fe43dacb555ec99d4b9d3dc8a20a1bcd74e08c9ba5456b",
-        "file_size": 2161504,
-        "architecture": "universal"
-      },
-      {
-        "source_asset_id": 459609674,
-        "filename": "Hybrid-Mount-Lite-4.2.0-1815.zip",
-        "original_filename": "Hybrid-Mount-Lite-4.2.0-1815.zip",
-        "sha256": "167f7e1da9faffbc3ba326e3a5c09ce83443f31df3343e5756dc92b8ebb68217",
-        "file_size": 1169728,
-        "architecture": "universal"
-      },
-      {
-        "source_asset_id": 459609675,
-        "filename": "Hybrid-Mount-Nano-4.2.0-1815.zip",
-        "original_filename": "Hybrid-Mount-Nano-4.2.0-1815.zip",
-        "sha256": "91d3d22bdf47ff442906ddc47d6feda9348ab8c2f7416f08caf13fdfc505bd53",
-        "file_size": 445997,
+        "source_asset_id": 530622664,
+        "filename": "Hybrid-Mount-6.0.0-1856.zip",
+        "original_filename": "Hybrid-Mount-6.0.0-1856.zip",
+        "sha256": "8b59f4e340e80283947056cb82de4dc15d1f1f5fa9f6137bb539ed7313887905",
+        "file_size": 2764263,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "meta-hybrid-mount-v4.2.0",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-hybrid-mount-v4.2.0"
+    "mirror_release_tag": "meta-hybrid-mount-v6.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-hybrid-mount-v6.0.0"
   },
   "meta-mm": {
     "source_repository": "KernelSU-Modules-Repo/meta-mm",
@@ -454,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-08-26T06:51:09.704182+00:00",
+    "synced_at": "2026-08-26T12:53:29.025961+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -983,7 +967,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-08-26T06:51:22.668024+00:00",
+    "synced_at": "2026-08-26T12:53:40.398658+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
