@@ -337,22 +337,22 @@
   },
   "zygisk-next": {
     "source_repository": "Dr-TSNG/ZygiskNext",
-    "source_release_id": 365293668,
-    "source_tag": "v1.4.5",
-    "source_published_at": "2026-08-05T04:54:20Z",
-    "synced_at": "2026-08-22T12:41:50.813972+00:00",
+    "source_release_id": 376804890,
+    "source_tag": "v1.5.0",
+    "source_published_at": "2026-08-26T00:54:29Z",
+    "synced_at": "2026-08-26T01:20:52.631619+00:00",
     "assets": [
       {
-        "source_asset_id": 502187701,
-        "filename": "Zygisk-Next-1.4.5-836-b13d58a-release.zip",
-        "original_filename": "Zygisk-Next-1.4.5-836-b13d58a-release.zip",
-        "sha256": "ac7be9b91c059586f268df73586752b2bd9eaeb3fac13b40cd85730c98428945",
-        "file_size": 7365185,
+        "source_asset_id": 530018036,
+        "filename": "Zygisk-Next-1.5.0-843-5217106-release.zip",
+        "original_filename": "Zygisk-Next-1.5.0-843-5217106-release.zip",
+        "sha256": "474d58abc208c0779e7f8f1d8449db755a874d475c13b9cf8decf74bc171933b",
+        "file_size": 7529581,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "zygisk-next-v1.4.5",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-next-v1.4.5"
+    "mirror_release_tag": "zygisk-next-v1.5.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-next-v1.5.0"
   },
   "neozygisk": {
     "source_repository": "JingMatrix/NeoZygisk",
@@ -454,7 +454,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-08-25T18:40:20.339776+00:00",
+    "synced_at": "2026-08-26T01:20:55.321930+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -752,22 +752,22 @@
   },
   "trickystore-oss": {
     "source_repository": "beakthoven/TrickyStoreOSS",
-    "source_release_id": 364421443,
-    "source_tag": "v3.0.0",
-    "source_published_at": "2026-08-03T18:36:42Z",
-    "synced_at": "2026-08-22T12:42:52.399115+00:00",
+    "source_release_id": 376711143,
+    "source_tag": "v3.1.0",
+    "source_published_at": "2026-08-25T20:56:39Z",
+    "synced_at": "2026-08-26T01:21:01.555976+00:00",
     "assets": [
       {
-        "source_asset_id": 500399933,
-        "filename": "Tricky-Store-OSS-v3.0.0-155-f57cf4f-Release.zip",
-        "original_filename": "Tricky-Store-OSS-v3.0.0-155-f57cf4f-Release.zip",
-        "sha256": "03f744154c52fe25ef93de2afb2a25a3f4b4730caf7b67a63cfade020c1fc4da",
-        "file_size": 1286285,
+        "source_asset_id": 529773172,
+        "filename": "Tricky-Store-OSS-v3.1.0-172-41383f5-Release.zip",
+        "original_filename": "Tricky-Store-OSS-v3.1.0-172-41383f5-Release.zip",
+        "sha256": "f1df8a04d2d020b9c4dda304d22c69ac62be8bdd6187a7bf0a3b94ec2152c9c3",
+        "file_size": 1289252,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "trickystore-oss-v3.0.0",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/trickystore-oss-v3.0.0"
+    "mirror_release_tag": "trickystore-oss-v3.1.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/trickystore-oss-v3.1.0"
   },
   "yurikey": {
     "source_repository": "dpejoh/yurikey",
@@ -983,7 +983,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-08-25T18:40:34.723597+00:00",
+    "synced_at": "2026-08-26T01:21:07.916337+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
