@@ -77,22 +77,22 @@
   },
   "folkpatch": {
     "source_repository": "LyraVoid/FolkPatch",
-    "source_release_id": 378647097,
-    "source_tag": "kp0.13.6",
-    "source_published_at": "2026-08-28T17:28:24Z",
-    "synced_at": "2026-08-28T21:47:13.907657+00:00",
+    "source_release_id": 379041995,
+    "source_tag": "kp0.13.7",
+    "source_published_at": "2026-08-29T16:44:20Z",
+    "synced_at": "2026-08-29T20:31:32.465304+00:00",
     "assets": [
       {
-        "source_asset_id": 534124996,
-        "filename": "FolkPatch_115028_5.0_on_main-release.apk",
-        "original_filename": "FolkPatch_115028_5.0_on_main-release.apk",
-        "sha256": "51f1ed937cdd750585a327bf9401efc1c9d8bb9ce91eace9ded1c6c7932e7d77",
-        "file_size": 12465391,
+        "source_asset_id": 535458991,
+        "filename": "FolkPatch_115030_5.0_on_main-release.apk",
+        "original_filename": "FolkPatch_115030_5.0_on_main-release.apk",
+        "sha256": "0536a4f65d005bd7eb3e3684ce62cb7eac9845443551c6b53be060a3090d73d1",
+        "file_size": 12466345,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "folkpatch-kp0.13.6",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/folkpatch-kp0.13.6"
+    "mirror_release_tag": "folkpatch-kp0.13.7",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/folkpatch-kp0.13.7"
   },
   "kernelsu-next": {
     "source_repository": "KernelSU-Next/KernelSU-Next",
@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-08-29T12:38:19.193037+00:00",
+    "synced_at": "2026-08-29T20:31:39.689568+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -603,22 +603,22 @@
   },
   "play-integrity-fork-pif": {
     "source_repository": "osm0sis/PlayIntegrityFork",
-    "source_release_id": 342389885,
-    "source_tag": "v17",
-    "source_published_at": "2026-06-20T19:37:00Z",
-    "synced_at": "2026-08-22T12:42:32.942126+00:00",
+    "source_release_id": 379053762,
+    "source_tag": "v18",
+    "source_published_at": "2026-08-29T17:33:56Z",
+    "synced_at": "2026-08-29T20:31:43.545128+00:00",
     "assets": [
       {
-        "source_asset_id": 453184947,
-        "filename": "PlayIntegrityFork-v17.zip",
-        "original_filename": "PlayIntegrityFork-v17.zip",
-        "sha256": "69115acdeba904a3b82882851cf3cb6c27aef5bfb6aa57c1988ab3a4c0bb8c87",
-        "file_size": 285020,
+        "source_asset_id": 535519268,
+        "filename": "PlayIntegrityFork-v18.zip",
+        "original_filename": "PlayIntegrityFork-v18.zip",
+        "sha256": "625ebe65631f761e1521009f10a205d74255adf2e35732923d65106643cad9a6",
+        "file_size": 227895,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "play-integrity-fork-pif-v17",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fork-pif-v17"
+    "mirror_release_tag": "play-integrity-fork-pif-v18",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fork-pif-v18"
   },
   "playcurlnext": {
     "source_repository": "daboynb/playcurlNEXT",
@@ -967,7 +967,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-08-29T12:38:27.819492+00:00",
+    "synced_at": "2026-08-29T20:31:51.265542+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
