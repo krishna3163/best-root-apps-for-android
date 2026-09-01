@@ -123,22 +123,166 @@
   },
   "sukisu-ultra": {
     "source_repository": "SukiSU-Ultra/SukiSU-Ultra",
-    "source_release_id": 332957968,
-    "source_tag": "v4.1.3",
-    "source_published_at": "2026-06-02T07:33:28Z",
-    "synced_at": "2026-08-22T12:41:15.231025+00:00",
+    "source_release_id": 380365868,
+    "source_tag": "v4.2.0",
+    "source_published_at": "2026-09-01T09:23:37Z",
+    "synced_at": "2026-09-01T11:15:16.498953+00:00",
     "assets": [
       {
-        "source_asset_id": 435997563,
-        "filename": "SukiSU_v4.1.3_40796-release.apk",
-        "original_filename": "SukiSU_v4.1.3_40796-release.apk",
-        "sha256": "1b1e837c0a5b6aa34554882fad67cef6db6ca1a84d43e07dd904cf54f8d261ae",
-        "file_size": 12148312,
+        "source_asset_id": 539334900,
+        "filename": "aarch64-android12-5.10-lkm.zip",
+        "original_filename": "aarch64-android12-5.10-lkm.zip",
+        "sha256": "b47d7a823e4871cc6d3b59d0b4c0cfa8114ed6be992729396467213247a8cc79",
+        "file_size": 95327,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 539334887,
+        "filename": "aarch64-android13-5.10-lkm.zip",
+        "original_filename": "aarch64-android13-5.10-lkm.zip",
+        "sha256": "996079d5e68f6c4146145f158363b627eae946b43ad3eb17f1e4111bc19d6f2e",
+        "file_size": 96042,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 539334871,
+        "filename": "aarch64-android13-5.15-lkm.zip",
+        "original_filename": "aarch64-android13-5.15-lkm.zip",
+        "sha256": "8290224de1de9dac4a54200b813155a551b7f8e0a9a98be5fdf18b69a55e96b0",
+        "file_size": 104472,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 539334854,
+        "filename": "aarch64-android14-5.15-lkm.zip",
+        "original_filename": "aarch64-android14-5.15-lkm.zip",
+        "sha256": "7a967debf103265afa21dd20fe0ed918ffa3dc486c35e5681961c885600a40d9",
+        "file_size": 128416,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 539334841,
+        "filename": "aarch64-android14-6.1-lkm.zip",
+        "original_filename": "aarch64-android14-6.1-lkm.zip",
+        "sha256": "043cb8ed21fd16b1bd67769881d283cd9b45fb4811ad32985608fe11c21215cd",
+        "file_size": 107139,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 539334826,
+        "filename": "aarch64-android15-6.6-lkm.zip",
+        "original_filename": "aarch64-android15-6.6-lkm.zip",
+        "sha256": "ac6703e2639f41ddb069bc6ee3e7147b989f0d93e247a3360237e533997398bb",
+        "file_size": 91847,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 539334814,
+        "filename": "aarch64-android16-6.12-lkm.zip",
+        "original_filename": "aarch64-android16-6.12-lkm.zip",
+        "sha256": "faf8897e7e5f602cddaf872c7a8558bfd138a1bf6835611a7198a7c7ddddfdd4",
+        "file_size": 107275,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 539334801,
+        "filename": "aarch64-android17-6.18-lkm.zip",
+        "original_filename": "aarch64-android17-6.18-lkm.zip",
+        "sha256": "e5fb492efd6d5935b46b49efb3111562fb6e9cd489afa569a42f27080bf81bd9",
+        "file_size": 100071,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 539334612,
+        "filename": "ksuinit-aarch64.zip",
+        "original_filename": "ksuinit-aarch64.zip",
+        "sha256": "22dea4f26f27df5663f86025a0f47e1a1a8383347d1ea9e8559150c78735cfe7",
+        "file_size": 321668,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 539334521,
+        "filename": "ksuinit-x86_64.zip",
+        "original_filename": "ksuinit-x86_64.zip",
+        "sha256": "ae3b57c9166f7ec5a4c853d11d7e2988aedb37cb4a5cc7848ac9c80baf79baee",
+        "file_size": 335616,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 539332029,
+        "filename": "SukiSU_v4.2.0_40900_releases.apk",
+        "original_filename": "SukiSU_v4.2.0_40900_releases.apk",
+        "sha256": "4ca9810e6355fbff0bbe4bf5ce159808e64a40d85987a11894030cd990a6bdf3",
+        "file_size": 14084162,
         "architecture": "arm64-v8a, armeabi-v7a, x86_64"
+      },
+      {
+        "source_asset_id": 539334788,
+        "filename": "x86_64-android12-5.10-lkm.zip",
+        "original_filename": "x86_64-android12-5.10-lkm.zip",
+        "sha256": "62905892f4fcb2ac5918c741aaf8038d4300b912a107190a77011cf6e2a9ba2d",
+        "file_size": 61078,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 539334769,
+        "filename": "x86_64-android13-5.10-lkm.zip",
+        "original_filename": "x86_64-android13-5.10-lkm.zip",
+        "sha256": "483f7a04a21a03ba655d39941ea4225b79945f48e40e19358639a66e88917b5a",
+        "file_size": 61984,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 539334744,
+        "filename": "x86_64-android13-5.15-lkm.zip",
+        "original_filename": "x86_64-android13-5.15-lkm.zip",
+        "sha256": "716de64250fdfdabb8723eb2446fc9c114a0868098e1040d4549e33cb96f1700",
+        "file_size": 61727,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 539334726,
+        "filename": "x86_64-android14-5.15-lkm.zip",
+        "original_filename": "x86_64-android14-5.15-lkm.zip",
+        "sha256": "7f611c4e44f0066e1e0b29bb37352cb41cb3c132eb931fb1ec496d6da1093fe2",
+        "file_size": 65146,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 539334701,
+        "filename": "x86_64-android14-6.1-lkm.zip",
+        "original_filename": "x86_64-android14-6.1-lkm.zip",
+        "sha256": "2ab3b777ced53605377b5d9f408f05d916496d281ca62529eb757b13b3dce59b",
+        "file_size": 68543,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 539334680,
+        "filename": "x86_64-android15-6.6-lkm.zip",
+        "original_filename": "x86_64-android15-6.6-lkm.zip",
+        "sha256": "56f6b18c40b3a5c4eca0390a1be33358b6e5df068ac024193b4b0b68c9af7252",
+        "file_size": 84853,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 539334668,
+        "filename": "x86_64-android16-6.12-lkm.zip",
+        "original_filename": "x86_64-android16-6.12-lkm.zip",
+        "sha256": "9cd701a540b723fe5b48e2d96042e12706e1d71a1037e81fca62bd344c8c75ec",
+        "file_size": 90203,
+        "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 539334650,
+        "filename": "x86_64-android17-6.18-lkm.zip",
+        "original_filename": "x86_64-android17-6.18-lkm.zip",
+        "sha256": "570080b6b1033f8a1206ebddb50e08972df7d2cb0967c83d2d5c8717f62d8e6c",
+        "file_size": 100433,
+        "architecture": "x86_64"
       }
     ],
-    "mirror_release_tag": "sukisu-ultra-v4.1.3",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.1.3"
+    "mirror_release_tag": "sukisu-ultra-v4.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.2.0"
   },
   "mmrl": {
     "source_repository": "DerGoogler/MMRL",
@@ -438,7 +582,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-01T03:59:08.755146+00:00",
+    "synced_at": "2026-09-01T11:15:23.874200+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -975,7 +1119,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-01T03:59:22.334930+00:00",
+    "synced_at": "2026-09-01T11:15:37.521453+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
