@@ -582,7 +582,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-02T16:07:14.467721+00:00",
+    "synced_at": "2026-09-02T20:38:26.991861+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -812,22 +812,22 @@
   },
   "specter": {
     "source_repository": "dpejoh/specter",
-    "source_release_id": 374776576,
-    "source_tag": "v1.4.5",
-    "source_published_at": "2026-08-22T02:27:49Z",
-    "synced_at": "2026-08-22T12:42:40.763229+00:00",
+    "source_release_id": 381467617,
+    "source_tag": "v1.4.5.1",
+    "source_published_at": "2026-09-02T17:59:04Z",
+    "synced_at": "2026-09-02T20:38:35.320607+00:00",
     "assets": [
       {
-        "source_asset_id": 524547898,
-        "filename": "specter-v1.4.5.zip",
-        "original_filename": "specter-v1.4.5.zip",
-        "sha256": "5b7312fdf60db85af4ba3fe8972c8031ea9ad585114d90da5ce224fc2001cc2f",
-        "file_size": 438412,
+        "source_asset_id": 541556557,
+        "filename": "specter-v1.4.5-1.zip",
+        "original_filename": "specter-v1.4.5-1.zip",
+        "sha256": "ac609b397427ce1b6749419ad4f6fe97bc4f7f9a861b20c0c76fc9edba3361fe",
+        "file_size": 445944,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "specter-v1.4.5",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v1.4.5"
+    "mirror_release_tag": "specter-v1.4.5.1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v1.4.5.1"
   },
   "teesimulator-rs": {
     "source_repository": "Enginex0/TEESimulator-RS",
@@ -1119,7 +1119,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-02T16:07:26.504865+00:00",
+    "synced_at": "2026-09-02T20:38:46.621437+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
