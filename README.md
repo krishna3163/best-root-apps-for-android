@@ -425,6 +425,14 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[TVRemoteWeb](https://github.com/disc0nnctd/tvremoteweb)** | Magisk module: drive your Android TV box from any phone browser on the LAN. D-pad, real mouse touchpad, app launcher, system monitor. No app needed on the phone. | See project | [GitHub](https://github.com/disc0nnctd/tvremoteweb) |
 | **[UnscopeMyData](https://github.com/kepatotorica/unscopemydata)** | A simple app that hooks into Shizuku and allows you to have easy one click access move data around from android data folders to a location that doesn't have scoped data. | See project | [GitHub](https://github.com/kepatotorica/unscopemydata) |
 | **[ytrvx-module](https://github.com/nauraafii/ytrvx-module)** | Personal fork for automated Android patch builds and GitHub Releases. | See project | [GitHub](https://github.com/nauraafii/ytrvx-module) |
+| **[Alioth-Loud](https://github.com/hrishi2861/alioth-loud)** | Magisk/KernelSU module + priv-app that makes the POCO F3 (alioth) actually loud: boot-time vendor audio patching and a global DynamicsProcessing compressor. | See project | [GitHub](https://github.com/hrishi2861/alioth-loud) |
+| **[DoNotTryAccessibility-Reborn](https://github.com/zjz-beiming/donottryaccessibility-reborn)** | LSPosed module (libxposed Modern API 102) that makes blacklisted apps believe no accessibility services are enabled. Modern rewrite of Nitsuya/DoNotTryAccessibility. | See project | [GitHub](https://github.com/zjz-beiming/donottryaccessibility-reborn) |
+| **[easykey](https://github.com/moeskia/easykey)** | High-performance Android shortcut key daemon with KernelSU/Magisk module WebUI | See project | [GitHub](https://github.com/moeskia/easykey) |
+| **[magisk-alist](https://github.com/zhu-junwei/magisk-alist)** | Magisk module to run Alist on Android devices | See project | [GitHub](https://github.com/zhu-junwei/magisk-alist) |
+| **[master-duel-android-adb-user-changer](https://github.com/luckyabsoluter/master-duel-android-adb-user-changer)** | Desktop GUI to manage multiple Yu-Gi-Oh! Master Duel profiles on Android by renaming the app's persistent data folder via ADB (root required). | See project | [GitHub](https://github.com/luckyabsoluter/master-duel-android-adb-user-changer) |
+| **[NetCordon](https://github.com/sachinmandawi/netcordon)** | Rootless Android firewall powered by Shizuku. Auto-cuts background traffic on app close, restores on open. Zero root, zero VPN. | See project | [GitHub](https://github.com/sachinmandawi/netcordon) |
+| **[t3ste.github.io](https://github.com/t3ste/t3ste.github.io)** | GitHub Pages root — hosts Digital Asset Links for Android apps | See project | [GitHub](https://github.com/t3ste/t3ste.github.io) |
+| **[webview-optimizer](https://github.com/lusmaysh/webview-optimizer)** | magisk module for optimize Android System Webview | See project | [GitHub](https://github.com/lusmaysh/webview-optimizer) |
 
 </details>
 
