@@ -20,22 +20,22 @@
   },
   "app-manager": {
     "source_repository": "MuntashirAkon/AppManager",
-    "source_release_id": 345849712,
-    "source_tag": "v4.1.0",
-    "source_published_at": "2026-06-29T01:43:57Z",
-    "synced_at": "2026-08-22T12:40:52.585253+00:00",
+    "source_release_id": 382681986,
+    "source_tag": "v4.1.1",
+    "source_published_at": "2026-09-04T11:52:33Z",
+    "synced_at": "2026-09-04T15:53:54.940920+00:00",
     "assets": [
       {
-        "source_asset_id": 460655801,
-        "filename": "AppManager_v4.1.0.apk",
-        "original_filename": "AppManager_v4.1.0.apk",
-        "sha256": "9da22ecf7f84cc8bdfbeb97acffc1a581515ee255ccfedd2c15dee76b6781b6c",
-        "file_size": 28225028,
+        "source_asset_id": 544255497,
+        "filename": "AppManager_v4.1.1.apk",
+        "original_filename": "AppManager_v4.1.1.apk",
+        "sha256": "2540d6d9352acd8b04d6210140630a380abb1bc46ad4745c89ad97603dee3c40",
+        "file_size": 28270163,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "app-manager-v4.1.0",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/app-manager-v4.1.0"
+    "mirror_release_tag": "app-manager-v4.1.1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/app-manager-v4.1.1"
   },
   "kernelsu": {
     "source_repository": "tiann/KernelSU",
@@ -582,7 +582,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-04T10:47:36.267744+00:00",
+    "synced_at": "2026-09-04T15:54:07.035633+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -1119,7 +1119,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-04T10:47:45.734980+00:00",
+    "synced_at": "2026-09-04T15:54:19.336983+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
