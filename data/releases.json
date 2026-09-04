@@ -522,22 +522,22 @@
   },
   "brene": {
     "source_repository": "rrr333nnn333/BRENE",
-    "source_release_id": 380802135,
-    "source_tag": "v0.0.65",
-    "source_published_at": "2026-09-01T20:29:17Z",
-    "synced_at": "2026-09-01T20:40:27.554173+00:00",
+    "source_release_id": 382446687,
+    "source_tag": "v0.0.66",
+    "source_published_at": "2026-09-04T02:47:56Z",
+    "synced_at": "2026-09-04T03:19:56.350298+00:00",
     "assets": [
       {
-        "source_asset_id": 540095821,
-        "filename": "BRENE-v0.0.65.zip",
-        "original_filename": "BRENE-v0.0.65.zip",
-        "sha256": "eaa93130648e2095f390cfd03ef1b866259ff92369a86a015e37621adc86f622",
-        "file_size": 120368,
+        "source_asset_id": 543682855,
+        "filename": "BRENE-v0.0.66.zip",
+        "original_filename": "BRENE-v0.0.66.zip",
+        "sha256": "45fb84d7b5c9938e96d732b2b449ab110ef6eb3171bce3ef3b9781d347d8c69b",
+        "file_size": 120652,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "brene-v0.0.65",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/brene-v0.0.65"
+    "mirror_release_tag": "brene-v0.0.66",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/brene-v0.0.66"
   },
   "hma-oss": {
     "source_repository": "frknkrc44/HMA-OSS",
@@ -582,7 +582,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-03T20:37:27.267916+00:00",
+    "synced_at": "2026-09-04T03:19:58.333477+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -1119,7 +1119,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-03T20:37:40.636901+00:00",
+    "synced_at": "2026-09-04T03:20:11.810478+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
