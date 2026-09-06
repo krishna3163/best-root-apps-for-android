@@ -474,7 +474,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 
 | App / Module | Developer | Version | Updated | Download | Source |
 |:---|:---|:---|:---|:---|:---|
-| **Always Strong** | evoker0 | `v1.0.3` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/always-strong-v1.0.3) | [GitHub](https://github.com/evoker0/AlwaysStrong) |
+| **Always Strong** | evoker0 | `v1.0.4` | 2026-09-06 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/always-strong-v1.0.4) | [GitHub](https://github.com/evoker0/AlwaysStrong) |
 | **Android-Native-Root-Detector** | reveny | `v7.7.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/android-native-root-detector-v7.7.0) | [GitHub](https://github.com/reveny/Android-Native-Root-Detector) |
 | **Anti bootloop** | Magisk-Modules-Alt-Repo | `v1.3.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/anti-bootloop-v1.3.4) | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/abootloop) |
 | **APatch** | bmax121 | `11224` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/apatch-11224) | [GitHub](https://github.com/bmax121/APatch) |

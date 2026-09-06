@@ -582,7 +582,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-06T10:26:16.531942+00:00",
+    "synced_at": "2026-09-06T15:03:34.772620+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -598,30 +598,38 @@
   },
   "always-strong": {
     "source_repository": "evoker0/AlwaysStrong",
-    "source_release_id": 366402496,
-    "source_tag": "v1.0.3",
-    "source_published_at": "2026-08-06T21:13:33Z",
-    "synced_at": "2026-08-22T12:42:13.281871+00:00",
+    "source_release_id": 383543293,
+    "source_tag": "v1.0.4",
+    "source_published_at": "2026-09-06T10:39:50Z",
+    "synced_at": "2026-09-06T15:03:39.491976+00:00",
     "assets": [
       {
-        "source_asset_id": 504237990,
-        "filename": "AlwaysStrong-v1.0.3-inject.zip",
-        "original_filename": "AlwaysStrong-v1.0.3-inject.zip",
-        "sha256": "74cf2179f6d5de777f1a5bccf5e1e88f0b8af0acd69b9dc71889c0800a8dd4f1",
-        "file_size": 4715165,
+        "source_asset_id": 547064551,
+        "filename": "AlwaysStrong-v1.0.4-inject.zip",
+        "original_filename": "AlwaysStrong-v1.0.4-inject.zip",
+        "sha256": "b9d36eb8b9561ee760dc0998eb1a9c2837728209ac42e0d5e841844ab3ab3a0c",
+        "file_size": 4765731,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       },
       {
-        "source_asset_id": 504237989,
-        "filename": "AlwaysStrong-v1.0.3.zip",
-        "original_filename": "AlwaysStrong-v1.0.3.zip",
-        "sha256": "6f669a7f4dd438df3ede42c001cf24b24e78b42e85ed21f78fc842d25737a774",
-        "file_size": 4907254,
+        "source_asset_id": 547064552,
+        "filename": "AlwaysStrong-v1.0.4-nopif.zip",
+        "original_filename": "AlwaysStrong-v1.0.4-nopif.zip",
+        "sha256": "2ba211db5dac9ab7c886a79dffea55baf32ef9de00f47b4b2ff7e5dda0b5e028",
+        "file_size": 4685065,
+        "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
+      },
+      {
+        "source_asset_id": 547064553,
+        "filename": "AlwaysStrong-v1.0.4.zip",
+        "original_filename": "AlwaysStrong-v1.0.4.zip",
+        "sha256": "a77ac9c2f54f822db7627dacbd4d3e2b56fab9d3f275b5cd0b9ba6a3822dc905",
+        "file_size": 4902582,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "always-strong-v1.0.3",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/always-strong-v1.0.3"
+    "mirror_release_tag": "always-strong-v1.0.4",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/always-strong-v1.0.4"
   },
   "dirtysepolicy-bypass": {
     "source_repository": "flipphoneguy/DirtySepolicy_Bypass",
@@ -1119,7 +1127,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-06T10:26:30.139337+00:00",
+    "synced_at": "2026-09-06T15:03:48.894705+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
