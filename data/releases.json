@@ -582,7 +582,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-09T10:53:18.621296+00:00",
+    "synced_at": "2026-09-09T16:04:04.590427+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -820,22 +820,22 @@
   },
   "specter": {
     "source_repository": "dpejoh/specter",
-    "source_release_id": 381467617,
-    "source_tag": "v1.4.5.1",
-    "source_published_at": "2026-09-02T17:59:04Z",
-    "synced_at": "2026-09-02T20:38:35.320607+00:00",
+    "source_release_id": 385469120,
+    "source_tag": "v1.4.5.2",
+    "source_published_at": "2026-09-09T11:48:46Z",
+    "synced_at": "2026-09-09T16:04:10.518327+00:00",
     "assets": [
       {
-        "source_asset_id": 541556557,
-        "filename": "specter-v1.4.5-1.zip",
-        "original_filename": "specter-v1.4.5-1.zip",
-        "sha256": "ac609b397427ce1b6749419ad4f6fe97bc4f7f9a861b20c0c76fc9edba3361fe",
-        "file_size": 445944,
+        "source_asset_id": 552655360,
+        "filename": "specter-v1.4.5-2.zip",
+        "original_filename": "specter-v1.4.5-2.zip",
+        "sha256": "e21ae4b0d2edc203ed6850ffd73006451ec7cdd535fe211791f38c2650aae543",
+        "file_size": 454651,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "specter-v1.4.5.1",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v1.4.5.1"
+    "mirror_release_tag": "specter-v1.4.5.2",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v1.4.5.2"
   },
   "teesimulator-rs": {
     "source_repository": "Enginex0/TEESimulator-RS",
@@ -1127,7 +1127,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-09T10:53:39.660123+00:00",
+    "synced_at": "2026-09-09T16:04:19.402847+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
