@@ -389,22 +389,22 @@
   },
   "meta-hybrid-mount": {
     "source_repository": "YuzakiKokuban/meta-hybrid_mount",
-    "source_release_id": 378845477,
-    "source_tag": "v6.1.0",
-    "source_published_at": "2026-08-29T02:05:09Z",
-    "synced_at": "2026-08-29T06:00:19.670436+00:00",
+    "source_release_id": 387532228,
+    "source_tag": "v6.2.0",
+    "source_published_at": "2026-09-12T10:20:47Z",
+    "synced_at": "2026-09-12T15:09:10.137620+00:00",
     "assets": [
       {
-        "source_asset_id": 534597307,
-        "filename": "Hybrid-Mount-6.1.0-1872.zip",
-        "original_filename": "Hybrid-Mount-6.1.0-1872.zip",
-        "sha256": "b0d2c8cbec24523fa7784e7d0f7d248a67f5a43e8b3bbafc57d4e79a21cd32fc",
-        "file_size": 2827991,
+        "source_asset_id": 559062150,
+        "filename": "Hybrid-Mount-6.2.0-1929.zip",
+        "original_filename": "Hybrid-Mount-6.2.0-1929.zip",
+        "sha256": "0e592aba6b4af1519cc4924a72bc4613afaa6b15b7d3be52c492cb3aacc1a29a",
+        "file_size": 3433818,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "meta-hybrid-mount-v6.1.0",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-hybrid-mount-v6.1.0"
+    "mirror_release_tag": "meta-hybrid-mount-v6.2.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-hybrid-mount-v6.2.0"
   },
   "meta-mm": {
     "source_repository": "KernelSU-Modules-Repo/meta-mm",
@@ -582,7 +582,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-12T10:14:37.054862+00:00",
+    "synced_at": "2026-09-12T15:09:14.449664+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -820,22 +820,22 @@
   },
   "specter": {
     "source_repository": "dpejoh/specter",
-    "source_release_id": 385469120,
-    "source_tag": "v1.4.5.2",
-    "source_published_at": "2026-09-09T11:48:46Z",
-    "synced_at": "2026-09-09T16:04:10.518327+00:00",
+    "source_release_id": 387552604,
+    "source_tag": "v1.5.0",
+    "source_published_at": "2026-09-12T11:41:38Z",
+    "synced_at": "2026-09-12T15:09:20.457442+00:00",
     "assets": [
       {
-        "source_asset_id": 552655360,
-        "filename": "specter-v1.4.5-2.zip",
-        "original_filename": "specter-v1.4.5-2.zip",
-        "sha256": "e21ae4b0d2edc203ed6850ffd73006451ec7cdd535fe211791f38c2650aae543",
-        "file_size": 454651,
+        "source_asset_id": 559167546,
+        "filename": "specter-v1.5.0.zip",
+        "original_filename": "specter-v1.5.0.zip",
+        "sha256": "9b463c6c62ec9ec7d7231a9c5233a58783eec77876823760898b8729884d9e05",
+        "file_size": 941568,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "specter-v1.4.5.2",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v1.4.5.2"
+    "mirror_release_tag": "specter-v1.5.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v1.5.0"
   },
   "teesimulator-rs": {
     "source_repository": "Enginex0/TEESimulator-RS",
@@ -1127,7 +1127,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-12T10:14:50.302449+00:00",
+    "synced_at": "2026-09-12T15:09:29.007087+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
