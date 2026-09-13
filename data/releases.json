@@ -541,22 +541,22 @@
   },
   "hma-oss": {
     "source_repository": "frknkrc44/HMA-OSS",
-    "source_release_id": 367463485,
-    "source_tag": "oss-166",
-    "source_published_at": "2026-08-09T11:46:07Z",
-    "synced_at": "2026-08-22T12:42:02.408529+00:00",
+    "source_release_id": 388018328,
+    "source_tag": "oss-168",
+    "source_published_at": "2026-09-13T20:03:29Z",
+    "synced_at": "2026-09-13T20:26:40.839468+00:00",
     "assets": [
       {
-        "source_asset_id": 507458952,
-        "filename": "HMA-OSS-ZYGISK-oss-166-release.zip",
-        "original_filename": "HMA-OSS-ZYGISK-oss-166-release.zip",
-        "sha256": "fb4f845688c2a1d2a8880c6c68b40903e1aa1319dc8c2dd275e0f3162a9ce605",
-        "file_size": 2588471,
+        "source_asset_id": 561840745,
+        "filename": "HMA-OSS-ZYGISK-oss-168-release.zip",
+        "original_filename": "HMA-OSS-ZYGISK-oss-168-release.zip",
+        "sha256": "08e2e6b4c87e5ba2f8bfc66cb4f383817484dcc279403dfa842c8d8499b7bbf9",
+        "file_size": 2584181,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "hma-oss-oss-166",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hma-oss-oss-166"
+    "mirror_release_tag": "hma-oss-oss-168",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hma-oss-oss-168"
   },
   "teesimulator": {
     "source_repository": "JingMatrix/TEESimulator",
@@ -582,7 +582,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-13T15:45:00.984980+00:00",
+    "synced_at": "2026-09-13T20:26:41.902452+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -1127,7 +1127,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-13T15:45:14.479973+00:00",
+    "synced_at": "2026-09-13T20:26:51.973990+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
