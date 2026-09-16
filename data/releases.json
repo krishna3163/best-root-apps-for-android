@@ -582,7 +582,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-16T03:45:19.130784+00:00",
+    "synced_at": "2026-09-16T10:59:00.480048+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -1067,22 +1067,22 @@
   },
   "cromite-systemwebview": {
     "source_repository": "hddq/magisk-cromite-webview",
-    "source_release_id": 338330032,
-    "source_tag": "v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79",
-    "source_published_at": "2026-06-12T01:42:46Z",
-    "synced_at": "2026-08-22T12:43:30.506068+00:00",
+    "source_release_id": 389774838,
+    "source_tag": "v153.0.8010.37-11507ac1061b5ea227806f5e84db5a57df6ccf6a",
+    "source_published_at": "2026-09-16T09:11:17Z",
+    "synced_at": "2026-09-16T10:59:17.769704+00:00",
     "assets": [
       {
-        "source_asset_id": 445237688,
-        "filename": "CromiteSystemWebView-v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79.zip",
-        "original_filename": "CromiteSystemWebView-v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79.zip",
-        "sha256": "483f0696a54b31a62d85c26ae04fddcabeb65bfcc8b242807a4b6f9cc7129f20",
-        "file_size": 146837768,
+        "source_asset_id": 567600943,
+        "filename": "CromiteSystemWebView-v153.0.8010.37-11507ac1061b5ea227806f5e84db5a57df6ccf6a.zip",
+        "original_filename": "CromiteSystemWebView-v153.0.8010.37-11507ac1061b5ea227806f5e84db5a57df6ccf6a.zip",
+        "sha256": "6b941925690bb5699593baade38057dcab1665d8c08eeef11d4d421f8121d679",
+        "file_size": 151540575,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "cromite-systemwebview-v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/cromite-systemwebview-v148.0.7778.168-cb3baf14f52eb4365d017f640f85310735c19b79"
+    "mirror_release_tag": "cromite-systemwebview-v153.0.8010.37-11507ac1061b5ea227806f5e84db5a57df6ccf6a",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/cromite-systemwebview-v153.0.8010.37-11507ac1061b5ea227806f5e84db5a57df6ccf6a"
   },
   "disable-low-ram-flag": {
     "source_repository": "Magisk-Modules-Alt-Repo/disable-low-ram",
@@ -1127,7 +1127,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-16T03:45:28.162713+00:00",
+    "synced_at": "2026-09-16T10:59:20.064950+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
