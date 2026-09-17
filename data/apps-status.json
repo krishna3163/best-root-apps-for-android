@@ -1,348 +1,348 @@
 {
   "magisk": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:04.239184+00:00",
+    "last_checked": "2026-09-17T03:50:18.222393+00:00",
     "latest_version": "v30.7",
     "last_synced": "2026-08-22T12:40:47.993980+00:00"
   },
   "app-manager": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:04.671778+00:00",
+    "last_checked": "2026-09-17T03:50:18.613416+00:00",
     "latest_version": "v4.1.1",
     "last_synced": "2026-09-04T15:53:54.940944+00:00"
   },
   "kernelsu": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:06.505714+00:00",
+    "last_checked": "2026-09-17T03:50:20.512061+00:00",
     "latest_version": "v3.3.0",
     "last_synced": "2026-08-28T21:47:10.568616+00:00"
   },
   "apatch": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:06.875252+00:00",
+    "last_checked": "2026-09-17T03:50:20.849906+00:00",
     "latest_version": "11224",
     "last_synced": "2026-08-22T12:41:01.546228+00:00"
   },
   "folkpatch": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:07.261117+00:00",
+    "last_checked": "2026-09-17T03:50:21.180239+00:00",
     "latest_version": "kp0.13.8",
     "last_synced": "2026-08-31T22:34:44.084990+00:00"
   },
   "kernelsu-next": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:08.281742+00:00",
+    "last_checked": "2026-09-17T03:50:22.407771+00:00",
     "latest_version": "v3.3.0",
     "last_synced": "2026-08-22T12:41:11.632345+00:00"
   },
   "resukisu": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:08.568657+00:00"
+    "last_checked": "2026-09-17T03:50:22.678075+00:00"
   },
   "sukisu-ultra": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:08.972712+00:00",
+    "last_checked": "2026-09-17T03:50:22.997876+00:00",
     "latest_version": "v4.2.0",
     "last_synced": "2026-09-01T11:15:16.498992+00:00"
   },
   "mmrl": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:09.476042+00:00",
+    "last_checked": "2026-09-17T03:50:23.478900+00:00",
     "latest_version": "v34296",
     "last_synced": "2026-08-22T12:41:20.397092+00:00"
   },
   "kpatch-next-module": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:09.822659+00:00",
+    "last_checked": "2026-09-17T03:50:23.766175+00:00",
     "latest_version": "v0.0.1",
     "last_synced": "2026-08-22T12:41:23.012960+00:00"
   },
   "magisk-manager-for-recovery-mode": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:10.119711+00:00",
+    "last_checked": "2026-09-17T03:50:24.106666+00:00",
     "latest_version": "2026.02.28",
     "last_synced": "2026-08-22T12:41:25.590906+00:00"
   },
   "meta-overlayfs": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:10.313633+00:00",
+    "last_checked": "2026-09-17T03:50:24.247266+00:00",
     "latest_version": "v1.3.1",
     "last_synced": "2026-08-22T12:41:28.107344+00:00"
   },
   "mountify": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:10.656931+00:00",
+    "last_checked": "2026-09-17T03:50:24.555510+00:00",
     "latest_version": "204",
     "last_synced": "2026-08-25T06:49:53.207904+00:00"
   },
   "meta-hybrid-mount": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:11.217894+00:00",
+    "last_checked": "2026-09-17T03:50:25.056509+00:00",
     "latest_version": "v6.2.0",
     "last_synced": "2026-09-12T15:09:10.137646+00:00"
   },
   "meta-mm": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:11.388241+00:00",
+    "last_checked": "2026-09-17T03:50:25.225630+00:00",
     "latest_version": "v1.0.1-sprout",
     "last_synced": "2026-08-22T12:41:38.853932+00:00"
   },
   "zeromount": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:11.694219+00:00",
+    "last_checked": "2026-09-17T03:50:25.450395+00:00",
     "latest_version": "v2.0.216-dev",
     "last_synced": "2026-08-22T12:41:44.446864+00:00"
   },
   "vector": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:11.964545+00:00",
+    "last_checked": "2026-09-17T03:50:25.767917+00:00",
     "latest_version": "v2.2",
     "last_synced": "2026-08-22T12:41:47.630764+00:00"
   },
   "zygisk-next": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:12.133677+00:00",
+    "last_checked": "2026-09-17T03:50:25.894577+00:00",
     "latest_version": "v1.5.0",
     "last_synced": "2026-08-26T01:20:52.631647+00:00"
   },
   "neozygisk": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:12.453562+00:00",
+    "last_checked": "2026-09-17T03:50:26.208885+00:00",
     "latest_version": "v2.4",
     "last_synced": "2026-08-22T12:41:53.595231+00:00"
   },
   "rezygisk": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:12.740357+00:00",
+    "last_checked": "2026-09-17T03:50:26.520739+00:00",
     "latest_version": "v1.0.0",
     "last_synced": "2026-08-22T12:41:56.276384+00:00"
   },
   "brene": {
-    "status": "no-update",
-    "last_checked": "2026-09-16T20:58:13.125008+00:00",
-    "latest_version": "v0.0.66",
-    "last_synced": "2026-09-04T03:19:56.350329+00:00"
+    "status": "synced",
+    "last_checked": "2026-09-17T03:50:29.576786+00:00",
+    "latest_version": "v0.0.67",
+    "last_synced": "2026-09-17T03:50:29.576786+00:00"
   },
   "hma-oss": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:13.498329+00:00",
+    "last_checked": "2026-09-17T03:50:30.052802+00:00",
     "latest_version": "oss-168",
     "last_synced": "2026-09-13T20:26:40.839490+00:00"
   },
   "teesimulator": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:13.801991+00:00",
+    "last_checked": "2026-09-17T03:50:30.431003+00:00",
     "latest_version": "v4.0",
     "last_synced": "2026-08-22T12:42:05.907194+00:00"
   },
   "susfs-for-kernelsu": {
     "status": "synced",
-    "last_checked": "2026-09-16T20:58:14.670372+00:00",
+    "last_checked": "2026-09-17T03:50:31.504751+00:00",
     "latest_version": "v1.5.2+_R28",
-    "last_synced": "2026-09-16T20:58:14.670372+00:00"
+    "last_synced": "2026-09-17T03:50:31.504751+00:00"
   },
   "always-strong": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:15.285327+00:00",
+    "last_checked": "2026-09-17T03:50:31.799936+00:00",
     "latest_version": "v1.0.4",
     "last_synced": "2026-09-06T15:03:39.492000+00:00"
   },
   "dirtysepolicy-bypass": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:15.579024+00:00",
+    "last_checked": "2026-09-17T03:50:32.075175+00:00",
     "latest_version": "v3.0.0",
     "last_synced": "2026-08-22T12:42:15.498314+00:00"
   },
   "hide-my-applist": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:15.715546+00:00",
+    "last_checked": "2026-09-17T03:50:32.168380+00:00",
     "latest_version": "v3.8.3",
     "last_synced": "2026-08-22T12:42:18.435219+00:00"
   },
   "komodo-build-props": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:16.092925+00:00",
+    "last_checked": "2026-09-17T03:50:32.586853+00:00",
     "latest_version": "20260901",
     "last_synced": "2026-09-01T03:59:12.900815+00:00"
   },
   "nohello": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:16.382387+00:00",
+    "last_checked": "2026-09-17T03:50:32.858418+00:00",
     "latest_version": "0.0.7",
     "last_synced": "2026-08-22T12:42:23.604751+00:00"
   },
   "ohmykeymint": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:16.722087+00:00",
+    "last_checked": "2026-09-17T03:50:33.141691+00:00",
     "latest_version": "v1.2.0-67dc5e7",
     "last_synced": "2026-08-22T12:42:26.619793+00:00"
   },
   "play-integrity-fix-inject": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:17.088676+00:00",
+    "last_checked": "2026-09-17T03:50:33.441334+00:00",
     "latest_version": "v4.7-inject-s",
     "last_synced": "2026-08-22T12:42:30.616892+00:00"
   },
   "play-integrity-fork-pif": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:17.380665+00:00",
+    "last_checked": "2026-09-17T03:50:33.713819+00:00",
     "latest_version": "v18",
     "last_synced": "2026-08-29T20:31:43.545152+00:00"
   },
   "playcurlnext": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:17.710120+00:00",
+    "last_checked": "2026-09-17T03:50:34.050736+00:00",
     "latest_version": "v1.19",
     "last_synced": "2026-08-22T12:42:35.413993+00:00"
   },
   "rezygisk-s-treat-wheel": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:18.006247+00:00",
+    "last_checked": "2026-09-17T03:50:34.277401+00:00",
     "latest_version": "0.0.10",
     "last_synced": "2026-08-22T12:42:37.819685+00:00"
   },
   "sensitive-props": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:18.216227+00:00"
+    "last_checked": "2026-09-17T03:50:34.502950+00:00"
   },
   "specter": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:18.589840+00:00",
+    "last_checked": "2026-09-17T03:50:34.800071+00:00",
     "latest_version": "v1.5.0",
     "last_synced": "2026-09-12T15:09:20.457467+00:00"
   },
   "teesimulator-rs": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:18.950112+00:00",
+    "last_checked": "2026-09-17T03:50:35.072046+00:00",
     "latest_version": "v6.0.1-282",
     "last_synced": "2026-08-22T12:42:43.754627+00:00"
   },
   "tricky-addon-update-target-list": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:19.329820+00:00",
+    "last_checked": "2026-09-17T03:50:35.425775+00:00",
     "latest_version": "v4.4",
     "last_synced": "2026-08-22T12:42:46.778808+00:00"
   },
   "trickystore": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:19.674940+00:00",
+    "last_checked": "2026-09-17T03:50:35.712758+00:00",
     "latest_version": "1.4.1",
     "last_synced": "2026-08-22T12:42:49.725281+00:00"
   },
   "trickystore-oss": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:19.969881+00:00",
+    "last_checked": "2026-09-17T03:50:35.960888+00:00",
     "latest_version": "v3.1.0",
     "last_synced": "2026-08-26T01:21:01.556002+00:00"
   },
   "yurikey": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:20.448549+00:00",
+    "last_checked": "2026-09-17T03:50:36.507583+00:00",
     "latest_version": "v3.0.6",
     "last_synced": "2026-08-22T12:42:55.704984+00:00"
   },
   "zygisk-assistant": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:20.708770+00:00",
+    "last_checked": "2026-09-17T03:50:36.803100+00:00",
     "latest_version": "v2.1.4",
     "last_synced": "2026-08-22T12:42:58.339281+00:00"
   },
   "anti-bootloop": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:21.042213+00:00",
+    "last_checked": "2026-09-17T03:50:37.126813+00:00",
     "latest_version": "v1.3.4",
     "last_synced": "2026-08-22T12:43:00.860483+00:00"
   },
   "ashrexcue-bootloop-protector": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:21.428575+00:00",
+    "last_checked": "2026-09-17T03:50:37.399776+00:00",
     "latest_version": "v9.9",
     "last_synced": "2026-08-22T12:43:03.339458+00:00"
   },
   "yetanotherbootloopprotector": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:21.749174+00:00",
+    "last_checked": "2026-09-17T03:50:37.659808+00:00",
     "latest_version": "v8.138-6537c16",
     "last_synced": "2026-08-22T12:43:06.207355+00:00"
   },
   "android-native-root-detector": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:22.063856+00:00",
+    "last_checked": "2026-09-17T03:50:37.932945+00:00",
     "latest_version": "v7.7.0",
     "last_synced": "2026-08-22T12:43:09.596799+00:00"
   },
   "duck-detector-fork": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:22.335100+00:00"
+    "last_checked": "2026-09-17T03:50:38.195380+00:00"
   },
   "duck-detector": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:22.540358+00:00"
+    "last_checked": "2026-09-17T03:50:38.453563+00:00"
   },
   "magiskdetection": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:22.829883+00:00"
+    "last_checked": "2026-09-17T03:50:38.655107+00:00"
   },
   "pif-detector": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:23.150130+00:00",
+    "last_checked": "2026-09-17T03:50:38.925282+00:00",
     "latest_version": "v2.7"
   },
   "play-integrity-alert": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:23.416312+00:00",
+    "last_checked": "2026-09-17T03:50:39.205094+00:00",
     "latest_version": "v1.0.9",
     "last_synced": "2026-08-22T12:43:13.707470+00:00"
   },
   "play-integrity-api-checker": {
     "status": "no-apk",
-    "last_checked": "2026-09-16T20:58:23.689690+00:00"
+    "last_checked": "2026-09-17T03:50:39.393380+00:00"
   },
   "securify": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:23.967576+00:00",
+    "last_checked": "2026-09-17T03:50:39.632755+00:00",
     "latest_version": "v1.4.0",
     "last_synced": "2026-08-22T12:43:17.888093+00:00"
   },
   "cromite-systemwebview": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:24.286081+00:00",
+    "last_checked": "2026-09-17T03:50:39.875236+00:00",
     "latest_version": "v153.0.8010.37-11507ac1061b5ea227806f5e84db5a57df6ccf6a",
     "last_synced": "2026-09-16T10:59:17.769732+00:00"
   },
   "disable-low-ram-flag": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:24.694584+00:00",
+    "last_checked": "2026-09-17T03:50:40.125255+00:00",
     "latest_version": "1.0",
     "last_synced": "2026-08-22T12:43:32.837210+00:00"
   },
   "hyperos-accessibility-fix": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:25.164742+00:00",
+    "last_checked": "2026-09-17T03:50:40.534824+00:00",
     "latest_version": "1.0.5",
     "last_synced": "2026-08-22T12:43:35.384854+00:00"
   },
   "hyperos-security-center": {
     "status": "synced",
-    "last_checked": "2026-09-16T20:58:27.136907+00:00",
+    "last_checked": "2026-09-17T03:50:42.726902+00:00",
     "latest_version": "V7",
-    "last_synced": "2026-09-16T20:58:27.136907+00:00"
+    "last_synced": "2026-09-17T03:50:42.726902+00:00"
   },
   "multi-userui-enabler": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:27.424632+00:00",
+    "last_checked": "2026-09-17T03:50:42.996129+00:00",
     "latest_version": "v1.0",
     "last_synced": "2026-08-22T12:43:47.151800+00:00"
   },
   "noogle-magisk": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:27.783021+00:00",
+    "last_checked": "2026-09-17T03:50:43.280238+00:00",
     "latest_version": "v2.1",
     "last_synced": "2026-08-22T12:43:52.547046+00:00"
   },
   "secure-element-access": {
     "status": "no-update",
-    "last_checked": "2026-09-16T20:58:28.063637+00:00",
+    "last_checked": "2026-09-17T03:50:43.558901+00:00",
     "latest_version": "v0.0.3",
     "last_synced": "2026-08-22T12:43:55.700238+00:00"
   }
