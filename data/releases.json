@@ -582,7 +582,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-18T10:43:14.131468+00:00",
+    "synced_at": "2026-09-18T15:58:36.063498+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -671,30 +671,22 @@
   },
   "komodo-build-props": {
     "source_repository": "Elcapitanoe/Komodo-Build-Prop",
-    "source_release_id": 380166233,
-    "source_tag": "20260901",
-    "source_published_at": "2026-09-01T02:04:10Z",
-    "synced_at": "2026-09-01T03:59:12.900792+00:00",
+    "source_release_id": 391492681,
+    "source_tag": "20260918",
+    "source_published_at": "2026-09-18T13:23:05Z",
+    "synced_at": "2026-09-18T15:58:40.241512+00:00",
     "assets": [
       {
-        "source_asset_id": 538798849,
-        "filename": "Komodo_beta_CP41.260814.003.B1.zip",
-        "original_filename": "Komodo_beta_CP41.260814.003.B1.zip",
-        "sha256": "271982c1e7daade7e197d90c9a42b7a523e6b476c57f9dc31ab140ed114a125d",
-        "file_size": 64953,
-        "architecture": "universal"
-      },
-      {
-        "source_asset_id": 538798850,
-        "filename": "Komodo_CP2A.260805.005.zip",
-        "original_filename": "Komodo_CP2A.260805.005.zip",
-        "sha256": "c88db4754109fa46b7f108cbbf926e225718a1b337fb98ced38ca9153adf1948",
-        "file_size": 67634,
+        "source_asset_id": 572677900,
+        "filename": "Komodo_beta_CP41.260828.004.A8.zip",
+        "original_filename": "Komodo_beta_CP41.260828.004.A8.zip",
+        "sha256": "69acd6baea9c27c0eabdb03f0d65d87fe8247db1cdd992773217ffc0e3a52163",
+        "file_size": 65399,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "komodo-build-props-20260901",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/komodo-build-props-20260901"
+    "mirror_release_tag": "komodo-build-props-20260918",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/komodo-build-props-20260918"
   },
   "nohello": {
     "source_repository": "MhmRdd/NoHello",
@@ -1127,7 +1119,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-18T10:43:24.286975+00:00",
+    "synced_at": "2026-09-18T15:58:53.902346+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
