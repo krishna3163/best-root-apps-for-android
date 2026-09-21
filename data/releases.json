@@ -126,7 +126,7 @@
     "source_release_id": 380365868,
     "source_tag": "v4.2.0",
     "source_published_at": "2026-09-01T09:23:37Z",
-    "synced_at": "2026-09-01T11:15:16.498953+00:00",
+    "synced_at": "2026-09-21T12:12:48.714454+00:00",
     "assets": [
       {
         "source_asset_id": 539334900,
@@ -279,6 +279,14 @@
         "sha256": "570080b6b1033f8a1206ebddb50e08972df7d2cb0967c83d2d5c8717f62d8e6c",
         "file_size": 100433,
         "architecture": "x86_64"
+      },
+      {
+        "source_asset_id": 578701033,
+        "filename": "SukiSU_v4.2.0_40900-release.apk",
+        "original_filename": "SukiSU_v4.2.0_40900-release.apk",
+        "sha256": "4ca9810e6355fbff0bbe4bf5ce159808e64a40d85987a11894030cd990a6bdf3",
+        "file_size": 14084162,
+        "architecture": "arm64-v8a, armeabi-v7a, x86_64"
       }
     ],
     "mirror_release_tag": "sukisu-ultra-v4.2.0",
@@ -582,7 +590,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-21T03:46:49.956391+00:00",
+    "synced_at": "2026-09-21T12:12:54.619308+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -1119,7 +1127,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-21T03:46:59.403929+00:00",
+    "synced_at": "2026-09-21T12:13:05.294857+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
