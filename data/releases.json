@@ -96,30 +96,30 @@
   },
   "kernelsu-next": {
     "source_repository": "KernelSU-Next/KernelSU-Next",
-    "source_release_id": 348647985,
-    "source_tag": "v3.3.0",
-    "source_published_at": "2026-07-03T14:09:49Z",
-    "synced_at": "2026-08-22T12:41:11.632315+00:00",
+    "source_release_id": 392989916,
+    "source_tag": "v3.4.0",
+    "source_published_at": "2026-09-21T13:36:19Z",
+    "synced_at": "2026-09-21T21:46:16.324516+00:00",
     "assets": [
       {
-        "source_asset_id": 465488636,
-        "filename": "KernelSU_Next_v3.3.0-spoofed_33214-release.apk",
-        "original_filename": "KernelSU_Next_v3.3.0-spoofed_33214-release.apk",
-        "sha256": "773d99e256563d36f8543235c96274021c59cf65efed783170bbc7effdf24ee3",
-        "file_size": 10209878,
+        "source_asset_id": 579150434,
+        "filename": "KernelSU_Next_v3.4.0-spoofed_33294-release.apk",
+        "original_filename": "KernelSU_Next_v3.4.0-spoofed_33294-release.apk",
+        "sha256": "84558aca2f82367f66534a7776aacb08f71d19fcb4e82d712c689d961f0e602b",
+        "file_size": 11859167,
         "architecture": "arm64-v8a, x86_64"
       },
       {
-        "source_asset_id": 465488634,
-        "filename": "KernelSU_Next_v3.3.0_33214-release.apk",
-        "original_filename": "KernelSU_Next_v3.3.0_33214-release.apk",
-        "sha256": "fd0b12385c98fe9d5f4f1257b5f184e55c74c1376637507df0718305f5d7a924",
-        "file_size": 10209942,
+        "source_asset_id": 579150439,
+        "filename": "KernelSU_Next_v3.4.0_33294-release.apk",
+        "original_filename": "KernelSU_Next_v3.4.0_33294-release.apk",
+        "sha256": "50339a93c0f812b8a72c1a387a1b441891e3df0f20b2d9daf80fd798d04b3de8",
+        "file_size": 11857955,
         "architecture": "arm64-v8a, x86_64"
       }
     ],
-    "mirror_release_tag": "kernelsu-next-v3.3.0",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kernelsu-next-v3.3.0"
+    "mirror_release_tag": "kernelsu-next-v3.4.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kernelsu-next-v3.4.0"
   },
   "sukisu-ultra": {
     "source_repository": "SukiSU-Ultra/SukiSU-Ultra",
@@ -397,22 +397,22 @@
   },
   "meta-hybrid-mount": {
     "source_repository": "YuzakiKokuban/meta-hybrid_mount",
-    "source_release_id": 387532228,
-    "source_tag": "v6.2.0",
-    "source_published_at": "2026-09-12T10:20:47Z",
-    "synced_at": "2026-09-12T15:09:10.137620+00:00",
+    "source_release_id": 392969052,
+    "source_tag": "v6.2.1",
+    "source_published_at": "2026-09-21T13:08:02Z",
+    "synced_at": "2026-09-21T21:46:21.507070+00:00",
     "assets": [
       {
-        "source_asset_id": 559062150,
-        "filename": "Hybrid-Mount-6.2.0-1929.zip",
-        "original_filename": "Hybrid-Mount-6.2.0-1929.zip",
-        "sha256": "0e592aba6b4af1519cc4924a72bc4613afaa6b15b7d3be52c492cb3aacc1a29a",
-        "file_size": 3433818,
+        "source_asset_id": 579064456,
+        "filename": "Hybrid-Mount-6.2.1-2042.zip",
+        "original_filename": "Hybrid-Mount-6.2.1-2042.zip",
+        "sha256": "9cfd07d3a8a706c080398795057236f4020c7b6eb560510ea399c217bc53b319",
+        "file_size": 4968062,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "meta-hybrid-mount-v6.2.0",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-hybrid-mount-v6.2.0"
+    "mirror_release_tag": "meta-hybrid-mount-v6.2.1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-hybrid-mount-v6.2.1"
   },
   "meta-mm": {
     "source_repository": "KernelSU-Modules-Repo/meta-mm",
@@ -590,7 +590,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-21T12:12:54.619308+00:00",
+    "synced_at": "2026-09-21T21:46:24.776167+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -801,22 +801,22 @@
   },
   "rezygisk-s-treat-wheel": {
     "source_repository": "PerformanC/Treat-Wheel-Zygisk",
-    "source_release_id": 320205989,
-    "source_tag": "0.0.10",
-    "source_published_at": "2026-05-10T23:12:25Z",
-    "synced_at": "2026-08-22T12:42:37.819659+00:00",
+    "source_release_id": 388705800,
+    "source_tag": "0.0.11",
+    "source_published_at": "2026-09-21T17:46:16Z",
+    "synced_at": "2026-09-21T21:46:29.235659+00:00",
     "assets": [
       {
-        "source_asset_id": 416951860,
+        "source_asset_id": 579536198,
         "filename": "TreatWheel.zip",
         "original_filename": "TreatWheel.zip",
-        "sha256": "e50922ccf4ba9cc08524476a9885d5e3440b787deccf6f5bd4fcadc07aad38e7",
-        "file_size": 225174,
+        "sha256": "f2f26bc3af8ae0c8bd208070b1042716aba95c65b279c683dd68813ee51cc0a7",
+        "file_size": 233358,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "rezygisk-s-treat-wheel-0.0.10",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/rezygisk-s-treat-wheel-0.0.10"
+    "mirror_release_tag": "rezygisk-s-treat-wheel-0.0.11",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/rezygisk-s-treat-wheel-0.0.11"
   },
   "specter": {
     "source_repository": "dpejoh/specter",
@@ -1127,7 +1127,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-21T12:13:05.294857+00:00",
+    "synced_at": "2026-09-21T21:46:36.886271+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
