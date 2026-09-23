@@ -651,6 +651,16 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[TVPilot](https://github.com/mahmutaunal/tvpilot)** | Remote-first system control and app management utility for Android TV / Google TV, with optional Shizuku-powered advanced actions. | See project | [GitHub](https://github.com/mahmutaunal/tvpilot) |
 | **[y700-device-name](https://github.com/yapixel/y700-device-name)** | KernelSU/Magisk module that uses the English Lenovo Y700 name for MTP and Android device identity | See project | [GitHub](https://github.com/yapixel/y700-device-name) |
 | **[zram-turbo](https://github.com/kyubiez96/zram-turbo)** | Magisk module - 2GB zram swap with lz4 compression and VM tuning for low-RAM Android devices | See project | [GitHub](https://github.com/kyubiez96/zram-turbo) |
+| **[abp](https://github.com/guillaume-behr/abp)** | 🔒 Full Android backups over ADB — apps, private data & shared storage, root or standard, dependency-free C++17 CLI | See project | [GitHub](https://github.com/guillaume-behr/abp) |
+| **[AppPerms](https://github.com/xykalnotkel/appperms)** | AppOps / Display-over-other-apps manager untuk Android via Shizuku (App Ops style) | See project | [GitHub](https://github.com/xykalnotkel/appperms) |
+| **[bamf-venom.github.io](https://github.com/bamf-venom/bamf-venom.github.io)** | Root site for GitHub Pages Digital Asset Links verification (NFL POINTS Android app) | See project | [GitHub](https://github.com/bamf-venom/bamf-venom.github.io) |
+| **[DeePX](https://github.com/hairball033/deepx)** | DeePX LSPosed module for DeepSeek Android | See project | [GitHub](https://github.com/hairball033/deepx) |
+| **[Faa-YDL](https://github.com/petar1511/faa-ydl)** | Download YouTube videos on Android via root module, Termux, or standalone APK with yt-dlp and FFmpeg. | See project | [GitHub](https://github.com/petar1511/faa-ydl) |
+| **[Pehredar](https://github.com/madb0i/pehredar)** | Detect Android root/jailbreak and hidden monitoring (spyware) apps over ADB, with a desktop GUI and compliance-ready reports. | See project | [GitHub](https://github.com/madb0i/pehredar) |
+| **[Rootect](https://github.com/slomr/rootect)** | Root, Frida, Xposed, repackaging and emulator detection for Android — native checks that   report evidence your app can weigh, not a verdict it has to accept. Zero third-party   dependencies, no permissions, hardware-backed attestation. | See project | [GitHub](https://github.com/slomr/rootect) |
+| **[smartclock2tool](https://github.com/sychpl/smartclock2tool)** | Runtime-only root, ADB over Wi-Fi and SSH for the Lenovo Smart Clock 2 (MT8167, Android 10): app + exploit sources + host tools. No cable, no soldering, nothing persisted. | See project | [GitHub](https://github.com/sychpl/smartclock2tool) |
+| **[tethys-tailscaled](https://github.com/yumamax3/tethys-tailscaled)** | Tethys tailscaled - a rooted-Android Tailscale node whose whole state lives in /data/adb/tailscale. Magisk/KernelSU module built from the pinned v1.98.8 Android patch series. | See project | [GitHub](https://github.com/yumamax3/tethys-tailscaled) |
+| **[uls](https://github.com/jaseunda/uls)** | Run a real GNU/Linux distro on any Android device over ADB, no root, no app to install. | See project | [GitHub](https://github.com/jaseunda/uls) |
 
 </details>
 
