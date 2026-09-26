@@ -77,22 +77,22 @@
   },
   "folkpatch": {
     "source_repository": "LyraVoid/FolkPatch",
-    "source_release_id": 379842971,
-    "source_tag": "kp0.13.8",
-    "source_published_at": "2026-08-31T15:06:39Z",
-    "synced_at": "2026-08-31T22:34:44.084961+00:00",
+    "source_release_id": 397017793,
+    "source_tag": "115051",
+    "source_published_at": "2026-09-26T01:22:07Z",
+    "synced_at": "2026-09-26T03:56:48.718127+00:00",
     "assets": [
       {
-        "source_asset_id": 538145031,
-        "filename": "FolkPatch_115032_5.0_on_main-release.apk",
-        "original_filename": "FolkPatch_115032_5.0_on_main-release.apk",
-        "sha256": "0b1671fe42a565a4fb8a573ac9b480febe11189380f96c83ccbe29fdfd375890",
-        "file_size": 12466257,
+        "source_asset_id": 589645937,
+        "filename": "FolkPatch_115051_680a6028_on_main-release.apk",
+        "original_filename": "FolkPatch_115051_680a6028_on_main-release.apk",
+        "sha256": "1c6a4020ad81fc7f3c1c685f7f8b5c5e2e15a9712d57d06f69f5816048f2eb93",
+        "file_size": 11391172,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "folkpatch-kp0.13.8",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/folkpatch-kp0.13.8"
+    "mirror_release_tag": "folkpatch-115051",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/folkpatch-115051"
   },
   "kernelsu-next": {
     "source_repository": "KernelSU-Next/KernelSU-Next",
@@ -590,7 +590,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-25T21:12:01.411885+00:00",
+    "synced_at": "2026-09-26T03:56:55.690221+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -1127,7 +1127,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-25T21:12:12.127079+00:00",
+    "synced_at": "2026-09-26T03:57:05.355562+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
