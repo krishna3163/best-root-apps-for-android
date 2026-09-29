@@ -40,6 +40,11 @@ def existing_urls(content: str) -> set[str]:
     return set(re.findall(r"https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", content.lower()))
 
 
+def existing_names(content: str) -> set[str]:
+    APP_ROW = re.compile(r"^\|\s*\*\*\[([^\]]+)\]", re.MULTILINE)
+    return {m.group(1).strip().lower() for m in APP_ROW.finditer(content)}
+
+
 def markdown_cell(value: str) -> str:
     return re.sub(r"\|", r"\\|", value.replace("\r", "").replace("\n", " ")).strip()
 
@@ -47,6 +52,7 @@ def markdown_cell(value: str) -> str:
 def discover() -> list[dict[str, str]]:
     content = README.read_text(encoding="utf-8")
     known = existing_urls(content)
+    known_names = existing_names(content)
     found: dict[str, dict[str, str]] = {}
     for query in QUERIES:
         for item in github_search(query):
@@ -54,10 +60,13 @@ def discover() -> list[dict[str, str]]:
             if not url or url in known or item.get("fork") or item.get("archived"):
                 continue
             name = item.get("name", "").strip()
+            if not name or name.lower() in known_names:
+                continue
             description = item.get("description") or f"GitHub project discovered by the {query} scanner."
-            if not name or not item.get("owner", {}).get("login"):
+            if not item.get("owner", {}).get("login"):
                 continue
             found[url] = {"name": name, "description": description, "url": url}
+            known_names.add(name.lower())
     return sorted(found.values(), key=lambda entry: entry["name"].lower())
 
 
@@ -65,11 +74,23 @@ def update_readme(entries: list[dict[str, str]]) -> None:
     content = README.read_text(encoding="utf-8")
     start = content.index(START) + len(START)
     end = content.index(END, start)
-    old_rows = [
-        line.strip()
-        for line in content[start:end].splitlines()
-        if line.strip().startswith("| **[")
-    ]
+    
+    # Names outside the auto-discovered block
+    outside_content = content[:start] + content[end:]
+    outside_names = existing_names(outside_content)
+    
+    seen_names = set(outside_names)
+    old_rows = []
+    app_re = re.compile(r"^\|\s*\*\*\[([^\]]+)\]")
+    for line in content[start:end].splitlines():
+        line = line.strip()
+        m = app_re.match(line)
+        if m:
+            n_lower = m.group(1).strip().lower()
+            if n_lower not in seen_names:
+                seen_names.add(n_lower)
+                old_rows.append(line)
+
     rows = [
         '<details id="discovered-root-apps">',
         "<summary><h2>🔍 Auto-Discovered Root Projects</h2></summary>",
@@ -78,12 +99,14 @@ def update_readme(entries: list[dict[str, str]]) -> None:
         "|:---|:---|:---|:---|",
     ]
     rows.extend(old_rows)
-    if entries:
-        rows.extend(
-            f"| **[{markdown_cell(entry['name'])}]({entry['url']})** | {markdown_cell(entry['description'])} | See project | [GitHub]({entry['url']}) |"
-            for entry in entries
-        )
-    else:
+    for entry in entries:
+        n_lower = entry["name"].strip().lower()
+        if n_lower not in seen_names:
+            seen_names.add(n_lower)
+            rows.append(
+                f"| **[{markdown_cell(entry['name'])}]({entry['url']})** | {markdown_cell(entry['description'])} | See project | [GitHub]({entry['url']}) |"
+            )
+    if len(rows) == 5:
         rows.append("| _No new projects discovered yet._ | The daily scanner will add matching GitHub projects here. | — | — |")
     rows.append("")
     rows.append("</details>")
