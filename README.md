@@ -22,6 +22,7 @@ Find the right tool faster with category-based recommendations, direct project l
 <br>
 [![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-0A66C2?style=for-the-badge&logo=github)](https://github.com/krishna3163/best-root-apps-for-android/discussions)
 [![Telegram Chat](https://img.shields.io/badge/Telegram-Community%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kk3163019)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Search%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krishna0858bot)
 
 <br>
 
@@ -2180,6 +2181,7 @@ Looking to discuss root apps, Magisk/KernelSU modules, troubleshooting bootloops
 | :--- | :--- | :--- |
 | 💬 **GitHub Discussions** | [👉 **Open Root Discussions**](https://github.com/krishna3163/best-root-apps-for-android/discussions) | Rooting Q&A, module recommendations, device compatibility, and module reviews. |
 | ✈️ **Telegram Community Chat** | [👉 **Join Telegram @kk3163019**](https://t.me/kk3163019) | Real-time chat with maintainer [@kk3163019](https://t.me/kk3163019) and Android root power users. |
+| 🤖 **Telegram Search Bot** | [👉 **@krishna0858bot**](https://t.me/krishna0858bot) | Query 500+ root tools, modules, and privileged APKs directly from Telegram. |
 | 💡 **Module Suggestions** | [👉 **Submit New Module / App**](../../issues/new?template=app-suggestion.yml) | Suggest newly released Magisk, KernelSU, or LSPosed modules. |
 | 🐛 **Bug & Link Reports** | [👉 **Open an Issue**](../../issues) | Report dead download links, broken modules, or incorrect tags. |
 
