@@ -919,6 +919,8 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[FolkPatch](https://github.com/LyraVoid/FolkPatch)** | A Root management tool focused on interface optimization and feature extension, based on APatch. | FOSS | [GitHub](https://github.com/LyraVoid/FolkPatch) | 
 | **[KernelSU-next](https://github.com/KernelSU-Next/KernelSU-Next)** | An advanced Kernel based root solution for Android. | FOSS | [GitHub](https://github.com/KernelSU-Next/KernelSU-Next) | 
 | **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU)** | Fork of SukiSU-Ultra with additional features. | FOSS | [GitHub](https://github.com/ReSukiSU/ReSukiSU) | 
+| **[Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)** | Automated KernelSU installer for supported Samsung Galaxy devices using CVE-2026-43499. | FOSS | [GitHub](https://github.com/BuSung-dev/Root-My-Galaxy) | 
+| **[Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel)** | Root automation utility for Google Pixel phones using CVE-2026-43499. | FOSS | [GitHub](https://github.com/alex193a/Root-My-Pixel) | 
 | **[SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)** | A kernel-based root solution for Android devices, forked from `KernelSU` with some useful changes. | FOSS | [GitHub](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | 
 
 ### Module Managers
@@ -2154,6 +2156,16 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 
 ---
 
+## 🌐 Android Power-User Ecosystem
+
+Explore our curated network of Android power-user tools, no-root alternatives, web companions, and open-source application repositories:
+
+* 🚀 **[Best Shizuku Apps (No Root)](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root)** — Curated catalog of Android apps utilizing Shizuku & Wireless ADB for rootless system control and debloating.
+* 🛡️ **[Best Root Apps for Android](https://github.com/krishna3163/best-root-apps-for-android)** — 500+ curated root apps, Magisk/KernelSU/APatch modules, and rooting guides.
+* ⚡ **[Shizuku Web Portal](https://github.com/krishna3163/shizuku-web)** ([Live App](https://shizuku-web.onrender.com)) — Modern PostHog-styled web companion, ADB setup wizard, and app directory.
+* 📱 **[Awesome Android App Repositories](https://github.com/krishna3163/awesome-android-app-repositories)** — Constantly updated catalog of open-source Android apps, utilities, and developer tools.
+
+---
 
 ## Legal and Safety
 
