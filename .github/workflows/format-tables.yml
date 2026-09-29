@@ -1,0 +1,40 @@
+name: 🧹 Table Formatter & Alphabetizer
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  format-tables:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Table Formatter
+        run: |
+          python3 scripts/format_tables.py --write
+
+      - name: Commit formatted tables if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "Tables are already properly alphabetized and formatted."
+          else
+            git commit -m "style: alphabetize and format markdown tables [skip ci]"
+            git push
+          fi

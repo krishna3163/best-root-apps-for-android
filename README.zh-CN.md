@@ -1,10 +1,10 @@
 <div align="center" class="intro-header">
 
-# Best Root Apps for Android
+# 最佳安卓 Root 应用与模块精选目录
 
-**🛡️ A curated directory for rooted Android devices**
+**🛡️ 专为安卓 Root 设备打造的精选神器与模块合集**
 
-<sub>Explore 500+ apps, Magisk, KernelSU and LSPosed modules, system tools, privacy utilities and practical rooting guides.</sub>
+<sub>探索 500+ 款精选 Root 应用、Magisk/KernelSU/APatch/LSPosed 模块、系统底层运维与刷机实用教程。</sub>
 
 Find the right tool faster with category-based recommendations, direct project links and clear compatibility tags.
 
@@ -30,10 +30,10 @@ Find the right tool faster with category-based recommendations, direct project l
 </div>
 <div align="center" class="quick-nav">
 
-[Introduction](#introduction) | [Rooting Guides](#rooting-guides) | [Apps & Modules](#root-apps-and-modules) | [Community Chat](#community-chat-discussions) | [Safety](#legal-and-safety)
+[项目介绍](#introduction) | [Root 刷机指南](#rooting-guides) | [Apps & Modules](#root-apps-and-modules) | [社区交流群](#community-chat-discussions) | [Safety](#legal-and-safety)
 
 </div><br>
-<h2 id="table-of-contents"><strong>📚 Table of Contents</strong></h2>
+<h2 id="table-of-contents"><strong>📚 目录导航</strong></h2>
 
 <details>
 <summary><strong>👉 Tap to expand complete navigation</strong></summary>
@@ -41,15 +41,15 @@ Find the right tool faster with category-based recommendations, direct project l
 <div class="toc-overview">
 
 ### 📚 Overview
-- [Introduction](#introduction)
-- [About](#about)
-- [Rooting Guides](#rooting-guides)
-- [No-Root Shizuku Alternative](#no-root-shizuku-alternative)
-- [The 4-Step Rooting Roadmap](#the-4-step-rooting-roadmap)
-- [Device-Specific Guides](#device-specific-guides)
-- [Additional Resources](#additional-resources)
-- [Connect with Maintainer](#connect-with-maintainer)
-- [Community Chat & Discussions](#community-chat-discussions)
+- [项目介绍](#introduction)
+- [关于本项目](#about)
+- [Root 刷机指南](#rooting-guides)
+- [免 Root Shizuku 替代方案](#no-root-shizuku-alternative)
+- [四步 Root 路线图](#the-4-step-rooting-roadmap)
+- [特定机型指南](#device-specific-guides)
+- [扩展资源](#additional-resources)
+- [联系维护者](#connect-with-maintainer)
+- [社区聊天与互动讨论](#community-chat-discussions)
 
 </div>
 
@@ -57,19 +57,19 @@ Find the right tool faster with category-based recommendations, direct project l
 - [Glossary](#glossary)
 
 ### ⭐ Featured Essentials
-- [Starter Kit: Must have Apps](#starter-kit-must-have-apps)
+- [新手必备入门神器](#starter-kit-must-have-apps)
 
 ### 📱 Root Apps by Category
 
 #### 🛠️ **Root & Module Management**
-- [Root Managers](#root-managers)
-- [Module Managers](#module-managers)
-- [Metamodules](#metamodules)
-- [LSPosed & Xposed](#lsposed-xposed)
-- [Zygisk](#zygisk)
-- [Root Hiding & Play Integrity](#root-hiding-play-integrity)
-- [Bootloop Protection](#bootloop-protection)
-- [Root Detection & Testing](#root-detection-testing)
+- [Root 管理器与授权工具](#root-managers)
+- [模块管理器](#module-managers)
+- [元模块与挂载工具](#metamodules)
+- [LSPosed 与 Xposed 框架](#lsposed-xposed)
+- [Zygisk 注入模块](#zygisk)
+- [Root 隐藏与 Play 完整性伪装](#root-hiding-play-integrity)
+- [救砖防卡米保护](#bootloop-protection)
+- [Root 检测与测试](#root-detection-testing)
 
 #### ⚙️ **System Management**
 - [System Tweaks](#system-tweaks)
@@ -97,7 +97,7 @@ Find the right tool faster with category-based recommendations, direct project l
 - [Charging & Power](#charging-power)
 - [Task & Process Management](#task-process-management)
 
-#### 🛡️ **Privacy & Security**
+#### 🛡️ **隐私防护与权限控制**
 - [Ad & Tracker Blocking](#ad-tracker-blocking)
 - [Firewalls & Filtering](#firewalls-filtering)
 - [Privacy Tools](#privacy-tools)
@@ -162,27 +162,27 @@ Find the right tool faster with category-based recommendations, direct project l
 - [General Toolboxes](#general-toolboxes)
 
 ### 📚 Safety
-- [Legal and Safety](#legal-and-safety)
+- [免责声明与安全警告](#legal-and-safety)
 </details>
 
 ---
 
-## Introduction
+## 项目介绍
 
 This directory brings together useful apps, modules, and guides for Android users who want more control over their devices. Entries are grouped by purpose and include direct project, F-Droid, or Google Play links whenever available.
 
 Use the framework badges to understand whether a module supports Magisk, KernelSU, APatch, or LSPosed. Always review compatibility and back up your device before making system-level changes.
 
-## About
+## 关于本项目
 
-**Best Root Apps for Android** is a curated directory of root apps, Magisk modules, KernelSU modules, LSPosed modules, system tools, privacy utilities, and no-root Shizuku-compatible apps.
+**最佳安卓 Root 应用与模块精选目录** is a curated directory of root apps, Magisk modules, KernelSU modules, LSPosed modules, system tools, privacy utilities, and no-root Shizuku-compatible apps.
 
 The catalog helps Android users discover useful tools by category, compare compatibility, and open the official project or app listing directly.
 
 > [!NOTE]
 > This repository is an informational directory. Always verify an app or module's source, permissions, compatibility, and maintenance status before installing it.
 
-## No-Root Shizuku Alternative
+## 免 Root Shizuku 替代方案
 
 Not ready to root your device? **Shizuku** lets compatible Android apps use selected system APIs through ADB or Wireless Debugging, without unlocking the bootloader or installing root.
 
@@ -272,7 +272,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[deep-sleep-apps-android](https://github.com/yusufwn/deep-sleep-apps-android)** | Android deep sleep manager using Shizuku with optional automatic background restriction. | See project | [GitHub](https://github.com/yusufwn/deep-sleep-apps-android) |
 | **[disable-fuse-bpf](https://github.com/danish3311/disable-fuse-bpf)** | KernelSU/Magisk module to disable FUSE-BPF and restore Android/data access on affected Android ROMs and kernels. | See project | [GitHub](https://github.com/danish3311/disable-fuse-bpf) |
 | **[lsposed-module-android-vpn-detection-bypass](https://github.com/naufalist/lsposed-module-android-vpn-detection-bypass)** | Ported from @poseidontor's Frida script: android-vpn-detection-bypass | See project | [GitHub](https://github.com/naufalist/lsposed-module-android-vpn-detection-bypass) |
-| **[Modex](https://github.com/nikhilkain/modex)** | Every Magisk, Zygisk, LSPosed and KernelSU module, from every repo, in one searchable catalog - with a watchlist that tells you when they update. Android, Kotlin, Compose. | See project | [GitHub](https://github.com/nikhilkain/modex) |
+| **[Modex](https://github.com/nikhilkain/modex)** | Every Magisk, Zygisk 注入模块, LSPosed and KernelSU module, from every repo, in one searchable catalog - with a watchlist that tells you when they update. Android, Kotlin, Compose. | See project | [GitHub](https://github.com/nikhilkain/modex) |
 | **[revanced-photos](https://github.com/staneswilson/revanced-photos)** | Automated GitHub Actions pipeline that patches Google Photos with ReVanced to spoof the Pixel XL device fingerprint, unlocking grandfathered unlimited original-quality backups. Outputs a signed APK (MicroG-compatible) and a Magisk/KernelSU module on every weekly build. | See project | [GitHub](https://github.com/staneswilson/revanced-photos) |
 | **[ROM-Shifter](https://github.com/shivamxd6/rom-shifter)** | ROM Shifter is a an Android app built to make flashing, backing up, and migrating between custom ROMs as painless as possible. As well provides tools for some common things we do after switching to another ROM. | See project | [GitHub](https://github.com/shivamxd6/rom-shifter) |
 | **[vaultwarden-root](https://github.com/geeks121/vaultwarden-root)** | Vaultwarden Root  Lightweight Vaultwarden for rooted Android, packaged as a Magisk / KernelSU / APatch module. | See project | [GitHub](https://github.com/geeks121/vaultwarden-root) |
@@ -353,7 +353,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[Sub-Store-Module](https://github.com/delusions6515/sub-store-module)** | Sub-Store for Android (Magisk / KernelSU / APatch 模块) | See project | [GitHub](https://github.com/delusions6515/sub-store-module) |
 | **[tcl-power-menu-r51mt05](https://github.com/philiphall6/tcl-power-menu-r51mt05)** | TCL Android 11 Power menu Magisk module with AudioOnly screen-off mode for keeping ADB active | See project | [GitHub](https://github.com/philiphall6/tcl-power-menu-r51mt05) |
 | **[wcg_f946b](https://github.com/hyperramzey/wcg_f946b)** | KernelSU module enabling framework Wide Color Gamut (Display-P3) on Samsung Galaxy Z Fold5 (SM-F946B). Clears Samsung's persist.sys.sf.native_mode kill-switch with a boot watchdog and declares the android.hardware.wide_color_gamut feature. | See project | [GitHub](https://github.com/hyperramzey/wcg_f946b) |
-| **[zygveil](https://github.com/kogeler/zygveil)** | Best-effort Magisk/Zygisk module for stationary Android location simulation and system-server VPN-observation virtualization, with an extensible probe and containerized validation. | See project | [GitHub](https://github.com/kogeler/zygveil) |
+| **[zygveil](https://github.com/kogeler/zygveil)** | Best-effort Magisk/Zygisk 注入模块 module for stationary Android location simulation and system-server VPN-observation virtualization, with an extensible probe and containerized validation. | See project | [GitHub](https://github.com/kogeler/zygveil) |
 | **[blue-brick](https://github.com/flexingg/blue-brick)** | BrickFocus — Android BLE proximity locking app (Shizuku, beacon pairing, app whitelist, lock overlay) | See project | [GitHub](https://github.com/flexingg/blue-brick) |
 | **[Calculator](https://github.com/zyy0106/calculator)** | Offline-first scientific calculator web app with graphing, root finding and regression fitting, packaged as an Android app via Capacitor. | See project | [GitHub](https://github.com/zyy0106/calculator) |
 | **[DeviceResetSpoofer](https://github.com/gjr787878/deviceresetspoofer)** | 清除应用数据后自动生成全新设备识别码的 LSPosed 模块 \| LSPosed module that auto-generates a new device identity after clearing app data | See project | [GitHub](https://github.com/gjr787878/deviceresetspoofer) |
@@ -410,7 +410,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[appopsstudio](https://github.com/rexiop/appopsstudio)** | AppOps Studio is a modern, no-root privacy manager for Android. Using Shizuku, it unlocks hidden system permissions so you can track background activity via a live timeline, evaluate app privacy scores, and instantly revoke excessive permissions. Take complete control over your device's data with a sleek, premium glassmorphic UI. | See project | [GitHub](https://github.com/rexiop/appopsstudio) |
 | **[blackview-shark8-logspam-cosmetics](https://github.com/nalbe/blackview-shark8-logspam-cosmetics)** | KernelSU module silencing SELinux avc find/getattr logspam and ImsProvisioningController noise from GSI/vendor mixing on Blackview Shark 8 (Android 13 AOSP GSI, stock vendor) | See project | [GitHub](https://github.com/nalbe/blackview-shark8-logspam-cosmetics) |
 | **[blackview-shark8-vulkan-hwui-patch](https://github.com/nalbe/blackview-shark8-vulkan-hwui-patch)** | Magisk module forcing Android HWUI rendering onto the Vulkan backend (ro.hwui.use_vulkan=true) for Blackview Shark 8 GSI | See project | [GitHub](https://github.com/nalbe/blackview-shark8-vulkan-hwui-patch) |
-| **[eidroot](https://github.com/eidd1435/eidroot)** | EID ROOT - Android Zygisk module installer by Abu Ayoub | See project | [GitHub](https://github.com/eidd1435/eidroot) |
+| **[eidroot](https://github.com/eidd1435/eidroot)** | EID ROOT - Android Zygisk 注入模块 module installer by Abu Ayoub | See project | [GitHub](https://github.com/eidd1435/eidroot) |
 | **[field-triage](https://github.com/yaswanthme007/field-triage)** | Offline-first mobile triage tool scan any error with your camera and get instant classification, root cause, and a fix, on-device. Flutter app + Next.js companion dashboard. | See project | [GitHub](https://github.com/yaswanthme007/field-triage) |
 | **[floating-dpad](https://github.com/justin-reid/floating-dpad)** | A floating on-screen D-pad overlay for Android that sends real remote-control key events to whatever app is in the foreground, via Shizuku. Built for using TiviMate on a touchscreen tablet. | See project | [GitHub](https://github.com/justin-reid/floating-dpad) |
 | **[fod-fix-obsidian](https://github.com/moloo4ni/fod-fix-obsidian)** | Magisk/KernelSU/APatch module: under-display fingerprint (FOD) helpers for Redmi Note 14 Pro 4G (obsidian) on Android 16 GSIs | See project | [GitHub](https://github.com/moloo4ni/fod-fix-obsidian) |
@@ -515,7 +515,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[pixel-ct-ims-community](https://github.com/junsheng428/pixel-ct-ims-community)** | Experimental, single-key China Telecom VoLTE/IMS Magisk module for an explicitly verified Pixel Android 17 build. Conservative rollback, source and tests. Not universal or carrier-certified. | See project | [GitHub](https://github.com/junsheng428/pixel-ct-ims-community) |
 | **[TermuxRootMods-KSU-Toolkit](https://github.com/jojobear691/termuxrootmods-ksu-toolkit)** | KernelSU-first root toolkit for Termux on Android 16, with safe root shells, Linux utilities, diagnostics, app/process tools, WebUI, crash logs, module scanning, snapshots, and rescue features. | See project | [GitHub](https://github.com/jojobear691/termuxrootmods-ksu-toolkit) |
 | **[Uraam](https://github.com/ruvyrom/uraam)** | Universal Ruvomain ADB App-Manager (URAAM) automatised all-in-one shell script for Android. CLI, Bash, High-performance, non-root (Shizuku rish and root in Termux). Uninstall unwanted apps for debloat your devices, backup and restore apps with json files and install your own apk.. Compatible with Canta backup files (.json) | See project | [GitHub](https://github.com/ruvyrom/uraam) |
-| **[Zygisk-FridaGadget](https://github.com/leolovenet/zygisk-fridagadget)** | Config-driven Zygisk module for loading Frida Gadget into selected Android app processes | See project | [GitHub](https://github.com/leolovenet/zygisk-fridagadget) |
+| **[Zygisk 注入模块-FridaGadget](https://github.com/leolovenet/zygisk-fridagadget)** | Config-driven Zygisk 注入模块 module for loading Frida Gadget into selected Android app processes | See project | [GitHub](https://github.com/leolovenet/zygisk-fridagadget) |
 | **[AndroidDuo](https://github.com/javsaia/androidduo)** | LSPosed module that recreates the iPhone Duo fold effect on Android | See project | [GitHub](https://github.com/javsaia/androidduo) |
 | **[apk-mounter](https://github.com/oop7/apk-mounter)** | A root utility to bind-mount custom APKs over installed apps, preserving data and signatures. | See project | [GitHub](https://github.com/oop7/apk-mounter) |
 | **[crdroid-a16-skip-lockscreen](https://github.com/zarkentroska/crdroid-a16-skip-lockscreen)** | Magisk module: PIN enrolled but no lockscreen UI on wake. ONLY crDroid Android 16 + Lineage Profiles. | See project | [GitHub](https://github.com/zarkentroska/crdroid-a16-skip-lockscreen) |
@@ -696,14 +696,14 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[beszel-agent-magisk](https://github.com/lordarrin/beszel-agent-magisk)** | Magisk module to run beszel-agent on Android | See project | [GitHub](https://github.com/lordarrin/beszel-agent-magisk) |
 | **[Dirac-Universal-Magisk-Module](https://github.com/talgorhythmic/dirac-universal-magisk-module)** | Dirac port from Oplus Ossi with my custom app UI for any Android device starting from Android 8.0. | See project | [GitHub](https://github.com/talgorhythmic/dirac-universal-magisk-module) |
 | **[DualStaProfileManager](https://github.com/akswap/dualstaprofilemanager)** | Root-only Android profile manager for the onyx Dual STA Magisk module | See project | [GitHub](https://github.com/akswap/dualstaprofilemanager) |
-| **[DuckMock](https://github.com/bouteillepleine/duckmock)** | Zygisk module that hides mock location from every app, with hooks only inside system_server. The manager doubles as a spoofer with a joystick and GPX routes. | See project | [GitHub](https://github.com/bouteillepleine/duckmock) |
+| **[DuckMock](https://github.com/bouteillepleine/duckmock)** | Zygisk 注入模块 module that hides mock location from every app, with hooks only inside system_server. The manager doubles as a spoofer with a joystick and GPX routes. | See project | [GitHub](https://github.com/bouteillepleine/duckmock) |
 | **[honeyboard-x](https://github.com/sampple-korea/honeyboard-x)** | Rambler voice typing + Codex translation for Samsung Keyboard (LSPosed module) | See project | [GitHub](https://github.com/sampple-korea/honeyboard-x) |
 | **[lockjaw-magisk-ksu](https://github.com/scozzadroid-cpu/lockjaw-magisk-ksu)** | 🔒 Lockjaw: anti-forensic USB lockdown + inactivity reboot module for Magisk / KernelSU (blocks USB data & OTG while locked, reboots to BFU) | See project | [GitHub](https://github.com/scozzadroid-cpu/lockjaw-magisk-ksu) |
 | **[MRX-W09-AppTwin-Unlocked](https://github.com/0ch4/mrx-w09-apptwin-unlocked)** | Unlock Huawei App Twin (JP: ツインアプリ / internal: AppClone) on MRX-W09 (EMUI 11), assuming root: extend the whitelist XML, create multiple clones (secondary users), and persist via an injected .rc. Research repo; non-persistent first. | See project | [GitHub](https://github.com/0ch4/mrx-w09-apptwin-unlocked) |
-| **[mumu-root-hide-toolkit](https://github.com/houssemamor/mumu-root-hide-toolkit)** | One-click Root Clean-room PowerShell toolkit for MuMu Player (Chinese and Global). Fail-closed, journaled, clone-first workflows: Kitsune root on Android 12, built-in KernelSU on Android 15, HMA/Vector/NeoZygisk app concealment, reversible ad suppression, and a read-only verify report. Pinned official assets, SHA-256 verified. No bundled binaries. | See project | [GitHub](https://github.com/houssemamor/mumu-root-hide-toolkit) |
+| **[mumu-root-hide-toolkit](https://github.com/houssemamor/mumu-root-hide-toolkit)** | One-click Root Clean-room PowerShell toolkit for MuMu Player (Chinese and Global). Fail-closed, journaled, clone-first workflows: Kitsune root on Android 12, built-in KernelSU on Android 15, HMA/Vector/NeoZygisk 注入模块 app concealment, reversible ad suppression, and a read-only verify report. Pinned official assets, SHA-256 verified. No bundled binaries. | See project | [GitHub](https://github.com/houssemamor/mumu-root-hide-toolkit) |
 | **[NetLocker](https://github.com/ronedata/netlocker)** | Per-app Wi-Fi/Mobile Data firewall for Android — no root, no Shizuku. A local VpnService-based packet gate (no remote server) built with Kotlin, Compose, Room and MVVM/Clean Architecture. | See project | [GitHub](https://github.com/ronedata/netlocker) |
 | **[XiaomiAutomation](https://github.com/petittux1/xiaomiautomation)** | 澎湃自动化—XiaomiAutomation：Xiaomi 17 Pro / HyperOS 4 root 自动化模块 —— 多 Profile 定时、任意 App 录制回放、内置工行每日浇水，纯 root 直控。WebUI 支持 KernelSU / APatch；Magisk 请配 KsuWebUI 或 MMRL。 \| Root automation for Xiaomi 17 Pro / HyperOS 4: scheduler, record/replay, ICBC watering. WebUI on KernelSU/APatch; on Magisk use KsuWebUI or MMRL. | See project | [GitHub](https://github.com/petittux1/xiaomiautomation) |
-| **[ZygiskNextNext](https://github.com/verybaaad/zygisknextnext)** | A from-scratch, standalone implementation of the Zygisk Next module | See project | [GitHub](https://github.com/verybaaad/zygisknextnext) |
+| **[Zygisk 注入模块NextNext](https://github.com/verybaaad/zygisknextnext)** | A from-scratch, standalone implementation of the Zygisk 注入模块 Next module | See project | [GitHub](https://github.com/verybaaad/zygisknextnext) |
 | **[AdbStayAwake](https://github.com/zjns/adbstayawake)** | LSPosed module that keeps Android awake during USB or wireless ADB debugging, while allowing normal screen timeout when charging. | See project | [GitHub](https://github.com/zjns/adbstayawake) |
 | **[android_kernel_zte_ums9620_mifi_f50](https://github.com/liuwang97/android_kernel_zte_ums9620_mifi_f50)** | Custom kernel for ZTE U30 Air (Unisoc T760 / UMS9620, mifi_f50): boots on 100% stock vendor modules, KernelSU built-in, MGLRU/DAMON/zstd/CAKE, plus USB-tether and 5GHz Wi-Fi fixes. | See project | [GitHub](https://github.com/liuwang97/android_kernel_zte_ums9620_mifi_f50) |
 | **[BoneConductionMusic](https://github.com/bbbomb0/boneconductionmusic)** | Shizuku-only music-to-haptics Android app with a Miuix UI. | See project | [GitHub](https://github.com/bbbomb0/boneconductionmusic) |
@@ -752,7 +752,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **MMRL** | DerGoogler | `v34296` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/mmrl-v34296) | [GitHub](https://github.com/DerGoogler/MMRL) |
 | **Mountify** | backslashxx | `204` | 2026-08-25 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/mountify-204) | [GitHub](https://github.com/backslashxx/mountify) |
 | **Multi Userui Enabler** | InsertX2k | `v1.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/multi-userui-enabler-v1.0) | [GitHub](https://github.com/InsertX2k/multiuseruienabler) |
-| **NeoZygisk** | JingMatrix | `v2.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/neozygisk-v2.4) | [GitHub](https://github.com/JingMatrix/NeoZygisk) |
+| **NeoZygisk 注入模块** | JingMatrix | `v2.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/neozygisk-v2.4) | [GitHub](https://github.com/JingMatrix/NeoZygisk 注入模块) |
 | **NoHello** | MhmRdd | `0.0.7` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/nohello-0.0.7) | [GitHub](https://github.com/MhmRdd/NoHello) |
 | **Noogle Magisk** | SelfRef | `v2.1` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/noogle-magisk-v2.1) | [GitHub](https://github.com/SelfRef/noogle-magisk) |
 | **OhMyKeymint** | qwq233 | `v1.2.0-67dc5e7` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-v1.2.0-67dc5e7) | [GitHub](https://github.com/qwq233/OhMyKeymint) |
@@ -760,8 +760,8 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **Play Integrity Fix (inject)** | KOWX712 | `v4.7-inject-s` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fix-inject-v4.7-inject-s) | [GitHub](https://github.com/KOWX712/PlayIntegrityFix) |
 | **Play Integrity Fork (PIF)** | osm0sis | `v18` | 2026-08-29 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fork-pif-v18) | [GitHub](https://github.com/osm0sis/PlayIntegrityFork) |
 | **PlaycurlNEXT** | daboynb | `v1.19` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/playcurlnext-v1.19) | [GitHub](https://github.com/daboynb/playcurlNEXT) |
-| **ReZygisk** | PerformanC | `v1.0.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/rezygisk-v1.0.0) | [GitHub](https://github.com/PerformanC/ReZygisk) |
-| **ReZygisk's Treat Wheel** | PerformanC | `0.0.11` | 2026-09-21 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/rezygisk-s-treat-wheel-0.0.11) | [GitHub](https://github.com/PerformanC/Treat-Wheel-Zygisk) |
+| **ReZygisk 注入模块** | PerformanC | `v1.0.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/rezygisk-v1.0.0) | [GitHub](https://github.com/PerformanC/ReZygisk 注入模块) |
+| **ReZygisk 注入模块's Treat Wheel** | PerformanC | `0.0.11` | 2026-09-21 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/rezygisk-s-treat-wheel-0.0.11) | [GitHub](https://github.com/PerformanC/Treat-Wheel-Zygisk 注入模块) |
 | **Secure Element Access** | jqssun | `v0.0.3` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/secure-element-access-v0.0.3) | [GitHub](https://github.com/jqssun/android-se-access) |
 | **Securify** | RabehX | `v1.4.0` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/securify-v1.4.0) | [GitHub](https://github.com/RabehX/Securify) |
 | **Specter** | dpejoh | `v1.5.0` | 2026-09-12 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v1.5.0) | [GitHub](https://github.com/dpejoh/specter) |
@@ -776,17 +776,17 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **YetAnotherBootloopProtector** | Magisk-Modules-Alt-Repo | `v8.138-6537c16` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/yetanotherbootloopprotector-v8.138-6537c16) | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector) |
 | **YuriKey** | dpejoh | `v3.0.6` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/yurikey-v3.0.6) | [GitHub](https://github.com/dpejoh/yurikey) |
 | **ZeroMount** | Enginex0 | `v2.0.216-dev` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zeromount-v2.0.216-dev) | [GitHub](https://github.com/Enginex0/zeromount) |
-| **Zygisk Assistant** | snake-4 | `v2.1.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-assistant-v2.1.4) | [GitHub](https://github.com/snake-4/Zygisk-Assistant) |
-| **Zygisk Next** | Dr-TSNG | `v1.5.0` | 2026-08-26 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-next-v1.5.0) | [GitHub](https://github.com/Dr-TSNG/ZygiskNext) |
+| **Zygisk 注入模块 Assistant** | snake-4 | `v2.1.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-assistant-v2.1.4) | [GitHub](https://github.com/snake-4/Zygisk 注入模块-Assistant) |
+| **Zygisk 注入模块 Next** | Dr-TSNG | `v1.5.0` | 2026-08-26 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-next-v1.5.0) | [GitHub](https://github.com/Dr-TSNG/Zygisk 注入模块Next) |
 
 </details>
 <!-- AUTO-GENERATED-APPS-END -->
 
 <div class="readme-guides-steps">
 
-## Rooting Guides
+## Root 刷机指南
 
-### The 4-Step Rooting Roadmap
+### 四步 Root 路线图
 
 1. **[Unlock Bootloader](./docs/rooting-guides/how-to-unlock-bootloader.md)**: Required for all system modifications.
 2. **[Install Recovery](./docs/rooting-guides/how-to-install-custom-recovery.md)**: Flash TWRP or OrangeFox to manage mods.
@@ -805,10 +805,10 @@ The table below is updated automatically from daily GitHub searches for new Andr
    * [Root Hiding and Play Integrity](./docs/rooting-guides/index.md#root-hiding-play-integrity-resources) (for Banking/Integrity)
 
 
-## Device-Specific Guides
+## 特定机型指南
 [Google Pixel](./docs/rooting-guides/how-to-root-pixel-phone.md) • [Samsung](./docs/rooting-guides/how-to-root-samsung-phone.md) • [Xiaomi/HyperOS](./docs/rooting-guides/how-to-root-xiaomi-phone.md) • [OnePlus](./docs/rooting-guides/how-to-root-oneplus-phone.md) • [Nothing](./docs/rooting-guides/how-to-root-nothing-phone.md) • [Motorola](./docs/rooting-guides/how-to-root-motorola-phone.md)
 
-## Additional Resources
+## 扩展资源
 - [LSPosed Framework Guide](./docs/rooting-guides/lsposed-guide.md)
 - [Custom ROMs Installation](./docs/rooting-guides/custom-rom-installation.md)
 - **[📚 View All Rooting Tutorials ➞](./docs/rooting-guides/index.md)**
@@ -878,7 +878,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **Bootloader** | Low-level software that starts your operating system. It must be unlocked before rooting. |
 | **Recovery** | A special boot mode used for system modifications, such as TWRP or OrangeFox. |
 | **Systemless Root** | A root method that applies changes without directly modifying the system partition. |
-| **Zygisk** | Magisk's feature for advanced app hooking, customization, and root hiding. |
+| **Zygisk 注入模块** | Magisk's feature for advanced app hooking, customization, and root hiding. |
 | **DenyList** | A root-management feature that prevents selected apps from seeing root access. |
 | **Play Integrity** | Google's security-verification system, formerly known as SafetyNet. |
 | **Knox** | Samsung's security platform, which may be permanently tripped after bootloader unlocking. |
@@ -888,14 +888,14 @@ The table below is updated automatically from daily GitHub searches for new Andr
 
 ---
 
-## Starter Kit: Must have Apps
+## 新手必备入门神器
 
 | App  | Why it's essential |
 | :---: | :--- |
 | **[Magisk](https://github.com/topjohnwu/Magisk)** <br><small> `Root & Module Management` </small> | If you chose Magisk, this is your manager. |
 | **[App Manager](https://github.com/MuntashirAkon/AppManager)** <br><small> `App & Package Management` </small> | Inspect and manage apps with root privileges. |
 | **[MiXplorer](https://mixplorer.com/)** <br><small> `Storage & Data` </small> | A powerful file manager with full root access. |
-| **[AdAway](https://adaway.org/)** <br><small> `Privacy & Security` </small> | Open-source system-wide ad blocker. |
+| **[AdAway](https://adaway.org/)** <br><small> `隐私防护与权限控制` </small> | Open-source system-wide ad blocker. |
 | **[Droid-ify](https://f-droid.org/packages/com.looker.droidify)** <br><small> `App & Package Management` </small> | A modern F-Droid client for installing open-source apps. |
 
 [↑ Back to top](#table-of-contents)
@@ -904,7 +904,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 
 ## Root & Module Management
 
-### Root Managers
+### Root 管理器与授权工具
 
 | App | Description | License | Links |
 | :--- | :--- | :--- | :--- |
@@ -918,7 +918,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel)** | Root automation utility for Google Pixel phones using CVE-2026-43499. | FOSS | [GitHub](https://github.com/alex193a/Root-My-Pixel) | 
 | **[SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)** | A kernel-based root solution for Android devices, forked from `KernelSU` with some useful changes. | FOSS | [GitHub](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | 
 
-### Module Managers
+### 模块管理器
 
 | App | Description | License | Links |
 | :--- | :--- | :--- | :--- |
@@ -926,10 +926,10 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[KPatch Next Module](https://github.com/KernelSU-Next/KPatch-Next-Module)** | Standalone implementation of KPM (KernelSU Patch Module) support for Magisk/KernelSU with WebUI. | FOSS [M] [K] | [GitHub](https://github.com/KernelSU-Next/KPatch-Next-Module) | 
 | **[Magisk Manager for Recovery Mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode)** | Easily manage your Magisk Modules from a terminal session in your custom recovery. | FOSS [M] | [GitHub](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode) | 
 
-### Metamodules
+### 元模块与挂载工具
 
 > [!NOTE]
-> **Metamodules** provides the core mounting infrastructure for the module system. Unlike regular modules that modify system files, metamodules control *how* regular modules are installed and mounted.
+> **元模块与挂载工具** provides the core mounting infrastructure for the module system. Unlike regular modules that modify system files, metamodules control *how* regular modules are installed and mounted.
 
 | App | Description | License | Links |
 | :--- | :--- | :--- | :--- |
@@ -939,7 +939,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[meta-mm](https://github.com/KernelSU-Modules-Repo/meta-mm)** | The official KernelSU Modules Repo's Magic Mount metamodule. Lighter alternative to meta-magic_mount for users who just want Magisk-compatible mounting without extra tooling. | FOSS [K] | [GitHub](https://github.com/KernelSU-Modules-Repo/meta-mm) | 
 | **[ZeroMount](https://github.com/Enginex0/zeromount)** | Mountless module loading with Kernel-level VFS path redirection & SUSFS integration, WebUI, bootloop guard, and strategy fallback. | FOSS [M] [K] [A] | [GitHub](https://github.com/Enginex0/zeromount) | 
 
-### LSPosed & Xposed
+### LSPosed 与 Xposed 框架
 
 > [!NOTE]
 > 
@@ -948,17 +948,17 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | App | Description | License | Links |
 | :--- | :--- | :--- | :--- |
 | **[⭐ Vector](https://github.com/JingMatrix/Vector)** | Open Source *Fork* of original LSPosed with dynamic module loading, and other improvements. | FOSS [M] | [GitHub](https://github.com/JingMatrix/Vector) | 
-| **[LSPosed](https://lsposed.zip)** | A Riru / Zygisk module that provides an ART hooking framework delivering consistent APIs with the OG Xposed, leveraging the LSPlant hooking framework. | Proprietary | [Website](https://lsposed.zip) | 
+| **[LSPosed](https://lsposed.zip)** | A Riru / Zygisk 注入模块 module that provides an ART hooking framework delivering consistent APIs with the OG Xposed, leveraging the LSPlant hooking framework. | Proprietary | [Website](https://lsposed.zip) | 
 
 > [!TIP]
 > See our [LSPosed installation guide](./docs/rooting-guides/lsposed-guide.md) for setup instructions.
 
-### Zygisk
+### Zygisk 注入模块
 
 
 <details>
 
-<summary><strong>What is Zygisk?</strong></summary>
+<summary><strong>What is Zygisk 注入模块?</strong></summary>
 
 A feature that lets modules inject code into Android's Zygote process for system-level modifications like root hiding and app patching.
 
@@ -967,15 +967,15 @@ A feature that lets modules inject code into Android's Zygote process for system
 
 | App | Description | License | Links |
 | :--- | :--- | :--- | :--- |
-| **[⭐ Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)** | The "Gold Standard" for detection evasion. A standalone Zygisk implementation with advanced stealth features, including a dedicated **Zygote Monitor** and dashboard. | Proprietary [M] [K] [A] | [GitHub](https://github.com/Dr-TSNG/ZygiskNext) |
-| **[NeoZygisk](https://github.com/JingMatrix/NeoZygisk)** | A minimalist, high-stealth implementation using **ptrace injection** and trace cleaning to remove injection artifacts from memory after modules load. | FOSS [M] [K] [A] | [GitHub](https://github.com/JingMatrix/NeoZygisk) |
-| **[ReZygisk](https://github.com/PerformanC/ReZygisk)** | A high-performance implementation rewritten in **C**, with custom linkers, WebUI status monitoring, and Android 15/16 compatibility. | FOSS [M] [K] [A] | [GitHub](https://github.com/PerformanC/ReZygisk) |
+| **[⭐ Zygisk 注入模块 Next](https://github.com/Dr-TSNG/Zygisk 注入模块Next)** | The "Gold Standard" for detection evasion. A standalone Zygisk 注入模块 implementation with advanced stealth features, including a dedicated **Zygote Monitor** and dashboard. | Proprietary [M] [K] [A] | [GitHub](https://github.com/Dr-TSNG/Zygisk 注入模块Next) |
+| **[NeoZygisk 注入模块](https://github.com/JingMatrix/NeoZygisk 注入模块)** | A minimalist, high-stealth implementation using **ptrace injection** and trace cleaning to remove injection artifacts from memory after modules load. | FOSS [M] [K] [A] | [GitHub](https://github.com/JingMatrix/NeoZygisk 注入模块) |
+| **[ReZygisk 注入模块](https://github.com/PerformanC/ReZygisk 注入模块)** | A high-performance implementation rewritten in **C**, with custom linkers, WebUI status monitoring, and Android 15/16 compatibility. | FOSS [M] [K] [A] | [GitHub](https://github.com/PerformanC/ReZygisk 注入模块) |
 
 
 
 <details><summary><strong>Comparison table</strong></summary><br>
 
-| | **Magisk Built-in** | **Zygisk Next** | **NeoZygisk** | **ReZygisk** |
+| | **Magisk Built-in** | **Zygisk 注入模块 Next** | **NeoZygisk 注入模块** | **ReZygisk 注入模块** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Key Advantage** | Official &amp; simple | Detection evasion | Stealth / cleaning | Speed / open source |
 | **License** | GPL-3.0 | Proprietary | GPL-3.0 | GPL-3.0 / AGPL-3.0 |
@@ -988,9 +988,9 @@ A feature that lets modules inject code into Android's Zygote process for system
 </details><br>
 
 > [!TIP]
-> Use these for Zygisk features on KernelSU/APatch, or for more control than Magisk's built-in provides.
+> Use these for Zygisk 注入模块 features on KernelSU/APatch, or for more control than Magisk's built-in provides.
 
-### Root Hiding & Play Integrity
+### Root 隐藏与 Play 完整性伪装
 
 
 <details><summary><strong>What is Play Integrity?</strong></summary>
@@ -1021,12 +1021,12 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 | **[DirtySepolicy Bypass](https://github.com/flipphoneguy/DirtySepolicy_Bypass)** | Bypasses new DirtySepolicy on rooted Android devices to keep apps working. | FOSS [M] [K] [A] | [GitHub](https://github.com/flipphoneguy/DirtySepolicy_Bypass) | 
 | **[Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist)** | Intercepts app-list detection. | Proprietary [LSP] | [GitHub](https://github.com/Dr-TSNG/Hide-My-Applist) | 
 | **[Komodo Build Props](https://github.com/Elcapitanoe/Komodo-Build-Prop#komodo-build-props)** | Spoofs your device as a Pixel 9 Pro XL (komodo). | FOSS [M] | [GitHub](https://github.com/Elcapitanoe/Komodo-Build-Prop#komodo-build-props) | 
-| **[NoHello](https://github.com/MhmRdd/NoHello)** | Lightweight Zygisk module to hide root. | FOSS [M] | [GitHub](https://github.com/MhmRdd/NoHello) | 
+| **[NoHello](https://github.com/MhmRdd/NoHello)** | Lightweight Zygisk 注入模块 module to hide root. | FOSS [M] | [GitHub](https://github.com/MhmRdd/NoHello) | 
 | **[OhMyKeymint](https://github.com/qwq233/OhMyKeymint)** | Custom keystore implementation for Android Keystore Spoofer. | FOSS [M] [K] | [GitHub](https://github.com/qwq233/OhMyKeymint) | 
 | **[Play Integrity Fix (inject)](https://github.com/KOWX712/PlayIntegrityFix)** | Actively maintained fork using injected GMS/Play Store spoofing with a WebUI. | FOSS [M] | [GitHub](https://github.com/KOWX712/PlayIntegrityFix) | 
 | **[Play Integrity Fork (PIF)](https://github.com/osm0sis/PlayIntegrityFork)** | The most actively maintained PIF. Fixes `DEVICE_INTEGRITY` verdicts with custom fields/props. Recommended starting point after chiteroman's original was discontinued. | FOSS [M] | [GitHub](https://github.com/osm0sis/PlayIntegrityFork) | 
 | **[PlaycurlNEXT](https://github.com/daboynb/playcurlNEXT)** | Fixes Play Integrity (and SafetyNet) verdicts with custom fields and props. | FOSS [M] [K] | [GitHub](https://github.com/daboynb/playcurlNEXT) | 
-| **[ReZygisk's Treat Wheel](https://github.com/PerformanC/Treat-Wheel-Zygisk)** | Hides Magisk/root traces exclusively for ReZygisk, acting as the best userspace root hiding tool. | FOSS [M] [K] | [GitHub](https://github.com/PerformanC/Treat-Wheel-Zygisk) | 
+| **[ReZygisk 注入模块's Treat Wheel](https://github.com/PerformanC/Treat-Wheel-Zygisk 注入模块)** | Hides Magisk/root traces exclusively for ReZygisk 注入模块, acting as the best userspace root hiding tool. | FOSS [M] [K] | [GitHub](https://github.com/PerformanC/Treat-Wheel-Zygisk 注入模块) | 
 | **[Sensitive Props](https://github.com/Pixel-Props/sensitive-props)** | Modifies system properties and applies device-specific fixes to bypass SafetyNet/Play Integrity. | FOSS [M] | [GitHub](https://github.com/Pixel-Props/sensitive-props) | 
 | **[Specter](https://github.com/dpejoh/specter)** | Unified Play Integrity and root hiding stack for Android. Successor of Yurikey. | FOSS [M] [K] | [GitHub](https://github.com/dpejoh/specter) | 
 | **[TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)** | Fork of TEESimulator with native Rust certificate generation, key persistence, and AOSP-compliant attestation behavior. | FOSS [M] [K] | [GitHub](https://github.com/Enginex0/TEESimulator-RS) | 
@@ -1034,12 +1034,12 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 | **[TrickyStore](https://github.com/5ec1cff/TrickyStore)** | Modifies the certificate chain for Android key attestation (keybox-based). The original/reference module. | Proprietary [M] [K] | [GitHub](https://github.com/5ec1cff/TrickyStore) | 
 | **[TrickyStore OSS](https://github.com/beakthoven/TrickyStoreOSS)** | Open-source alternative to TrickyStore. | FOSS [M] [K] | [GitHub](https://github.com/beakthoven/TrickyStoreOSS) | 
 | **[YuriKey](https://github.com/dpejoh/yurikey)** | Systemless module to obtain strong integrity easily. | FOSS [M] [K] | [GitHub](https://github.com/dpejoh/yurikey) | 
-| **[Zygisk Assistant](https://github.com/snake-4/Zygisk-Assistant)** | Zygisk module to hide root on KernelSU, Magisk, and APatch. | FOSS [M] | [GitHub](https://github.com/snake-4/Zygisk-Assistant) | 
+| **[Zygisk 注入模块 Assistant](https://github.com/snake-4/Zygisk 注入模块-Assistant)** | Zygisk 注入模块 module to hide root on KernelSU, Magisk, and APatch. | FOSS [M] | [GitHub](https://github.com/snake-4/Zygisk 注入模块-Assistant) | 
 
 > [!TIP]
-> Combine these with a proper [Zygisk implementation](#zygisk) for best results.
+> Combine these with a proper [Zygisk 注入模块 implementation](#zygisk) for best results.
 
-### Bootloop Protection
+### 救砖防卡米保护
 
 | App | Description | License | Links |
 | :--- | :--- | :--- | :--- |
@@ -1047,7 +1047,7 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 | **[AshReXcue - Bootloop Protector](https://github.com/RipperHybrid/AshLooper)** | Prevent boot loops caused by problematic modules installed via KernelSU or Magisk. | FOSS [M] [K] | [GitHub](https://github.com/RipperHybrid/AshLooper) | 
 | **[YetAnotherBootloopProtector](https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector)** | Monitor and fix potential Bootloops and SystemUI failures. | FOSS [M] | [GitHub](https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector) | 
 
-### Root Detection & Testing
+### Root 检测与测试
 
 | App | Description | License | Links |
 | :--- | :--- | :--- | :--- |
@@ -1217,7 +1217,7 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 | **[⭐ Disable Target API Block](https://github.com/buttercookie42/DisableTargetAPIBlock)** | Disable Android 14's installation block for old apps. | FOSS [LSP] | [GitHub](https://github.com/buttercookie42/DisableTargetAPIBlock) | 
 | **[⭐ Droid-ify](https://github.com/Droid-ify/client)** | F-Droid client with Material UI and auto updating apps using root. | FOSS | [GitHub](https://github.com/Droid-ify/client)<br>[🌱](https://f-droid.org/packages/com.looker.droidify) | 
 | **[⭐ Hail](https://github.com/aistra0528/Hail)** | Disable / Hide / Suspend / Uninstall Android apps. | FOSS | [GitHub](https://github.com/aistra0528/Hail)<br>[🌱](https://f-droid.org/packages/com.aistra.hail/) | 
-| **[⭐ Zygisk Detach](https://github.com/j-hc/zygisk-detach)** | Zygisk module to detach installed apps from Play Store, hooking binder. | FOSS [M] [K] | [GitHub](https://github.com/j-hc/zygisk-detach) | 
+| **[⭐ Zygisk 注入模块 Detach](https://github.com/j-hc/zygisk-detach)** | Zygisk 注入模块 module to detach installed apps from Play Store, hooking binder. | FOSS [M] [K] | [GitHub](https://github.com/j-hc/zygisk-detach) | 
 | **[AlterInstaller](https://github.com/chenxiaolong/AlterInstaller)** | Spoof Android package manager installer fields to bypass installation restrictions. | FOSS [M] [K] | [GitHub](https://github.com/chenxiaolong/AlterInstaller) | 
 | **[App Manager](https://play.google.com/store/apps/details?id=com.lb.app_manager)** | A feature rich app manager with batch operation support. | Proprietary | [Google Play](https://play.google.com/store/apps/details?id=com.lb.app_manager) | 
 | **[AppDash: App Manager & Backup](https://play.google.com/store/apps/details?id=flar2.appdashboard&hl=en)** | Makes it easy to manage APKs and apps installed on your device. | Proprietary | [Google Play](https://play.google.com/store/apps/details?id=flar2.appdashboard&hl=en) | 
@@ -1242,7 +1242,7 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 
 > [!TIP]
 >
-> Check out our **[Zygisk Detach Guide ↗](./docs/general-guides/stop-android-app-auto-updates-play-store.md)**
+> Check out our **[Zygisk 注入模块 Detach Guide ↗](./docs/general-guides/stop-android-app-auto-updates-play-store.md)**
 
 ### Permissions & AppOps
 
@@ -1370,7 +1370,7 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 
 ---
 
-## Privacy & Security
+## 隐私防护与权限控制
 
 ### Ad & Tracker Blocking
 
@@ -1453,7 +1453,7 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 | **[Custom Certificates](https://github.com/YujiaCheng1996/custom-certificates)** | A Magisk/KernelSU module which adds custom certificates to the system trust store. | FOSS [M] [K] | [GitHub](https://github.com/YujiaCheng1996/custom-certificates) | 
 | **[Disable usb debugging](https://github.com/Aakif17/disable_usb_debugging)** | Disables USB Debugging after every reboot. | FOSS [M] | [GitHub](https://github.com/Aakif17/disable_usb_debugging) | 
 | **[DriFiCrack](https://github.com/ZeltNamizake/DriFiCrack)** | Brute Force Tool to Crack Wi-Fi Passwords. | FOSS [M] | [GitHub](https://github.com/ZeltNamizake/DriFiCrack) | 
-| **[ih8SecureLock](https://github.com/j-hc/ih8SecureLock)** | Prevent apps from blocking and listening to your screenshots with Zygisk. | FOSS [M] [K] | [GitHub](https://github.com/j-hc/ih8SecureLock) | 
+| **[ih8SecureLock](https://github.com/j-hc/ih8SecureLock)** | Prevent apps from blocking and listening to your screenshots with Zygisk 注入模块. | FOSS [M] [K] | [GitHub](https://github.com/j-hc/ih8SecureLock) | 
 | **[Just Trust Me Pro](https://github.com/hang666/JustTrustMePro)** | Disables SSL certificate checking for the purposes of auditing an app with cert pinning. | FOSS [M] | [GitHub](https://github.com/hang666/JustTrustMePro) | 
 | **[OneShot Extended](https://github.com/chickendrop89/OneShot-Extended)** | Performs various WPS attacks without the requirement of monitor mode. | FOSS [M] [K] | [GitHub](https://github.com/chickendrop89/OneShot-Extended) | 
 | **[PinGuard](https://github.com/khiqwq/PinGuard/blob/main/README_EN.md)** | LSPosed module that requires fingerprint / password to unpin screen-pinned apps. | FOSS [LSP] | [GitHub](https://github.com/khiqwq/PinGuard/blob/main/README_EN.md) | 
@@ -1464,7 +1464,7 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 
 | App | Description | License | Links |
 | :--- | :--- | :--- | :--- |
-| **[Device Faker](https://github.com/Seyud/device_faker/)** | A device model spoofing module based on Zygisk that can configure different device models for different applications. | FOSS [M] [K] | [GitHub](https://github.com/Seyud/device_faker/) | 
+| **[Device Faker](https://github.com/Seyud/device_faker/)** | A device model spoofing module based on Zygisk 注入模块 that can configure different device models for different applications. | FOSS [M] [K] | [GitHub](https://github.com/Seyud/device_faker/) | 
 | **[DeviceID/SSAID Changer](https://github.com/sidex15/deviceidchanger)** | A simple WebUI Module to change SSAID/DeviceID on Rooted Android Devices with Apatch, KSU (And its forks), or Magisk. | FOSS [M] [K] | [GitHub](https://github.com/sidex15/deviceidchanger) | 
 | **[Geergit](https://github.com/pyshivam/geergit-discussion)** | Change (MASKE) the various IDs in the Phone. | Proprietary [LSP] | [GitHub](https://github.com/pyshivam/geergit-discussion) | 
 | **[HideMyAndroid](https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid/)** | Android anti-detect module with profile isolation and spoofing. | Proprietary [LSP] | [GitHub](https://github.com/Xposed-Modules-Repo/com.wowsoftware.hidemyandroid/) | 
@@ -1503,7 +1503,7 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 
 | App | Description | License | Links |
 | :--- | :--- | :--- | :--- |
-| **[⭐ GPhotosUnlimited](https://github.com/Rev4N1/GPhotosUnlimited)** | A Zygisk module which gives unlimited Google Photos storage. | FOSS [M] [K] | [GitHub](https://github.com/Rev4N1/GPhotosUnlimited) | 
+| **[⭐ GPhotosUnlimited](https://github.com/Rev4N1/GPhotosUnlimited)** | A Zygisk 注入模块 module which gives unlimited Google Photos storage. | FOSS [M] [K] | [GitHub](https://github.com/Rev4N1/GPhotosUnlimited) | 
 | **[AmznKiller](https://github.com/hxreborn/amznkiller)** | Hides sponsored content and ads in the Amazon Shopping app. | FOSS [LSP] | [GitHub](https://github.com/hxreborn/amznkiller) | 
 | **[Breeno Source Changer](https://github.com/Xposed-Modules-Repo/com.niki.breeno.openai/tree/main)** | Allows ColorOS's Breeno Assistant to change its AI model source and customize large language model (LLM) APIs. | FOSS [LSP] | [GitHub](https://github.com/Xposed-Modules-Repo/com.niki.breeno.openai/tree/main) | 
 | **[Deekseep](https://github.com/lllucccian/Deekseep)** | Adds account, chat, image, interface, and local API tools to the official DeepSeek Android app. | FOSS [LSP] | [GitHub](https://github.com/lllucccian/Deekseep) | 
@@ -1924,7 +1924,7 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 | **[NoVPNDetect Enhanced](https://github.com/BlueCat300/NoVPNDetectEnhanced/)** | An enhanced version of NoVPNDetect that prevents apps from detecting VPN usage by modifying system properties and network configurations. | FOSS [LSP] | [GitHub](https://github.com/BlueCat300/NoVPNDetectEnhanced/) | 
 | **[SAM](https://github.com/5MayRain/SAM)** | A module combining SmartDNS, AdGuardHome, and mihomo, suitable for Magisk and KernelSU. | FOSS [M] [K] | [GitHub](https://github.com/5MayRain/SAM) | 
 | **[Surfing](https://github.com/GitMetaio/Surfing)** | Magisk and KernelSU modules for Clash/mihomo, sing-box, v2ray, xray, hysteria services. | FOSS [M] [K] | [GitHub](https://github.com/GitMetaio/Surfing) | 
-| **[VPN Hide](https://github.com/okhsunrog/vpnhide)** | Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk) | FOSS [M] [K] | [GitHub](https://github.com/okhsunrog/vpnhide) | 
+| **[VPN Hide](https://github.com/okhsunrog/vpnhide)** | Hide active VPN from selected Android apps (kernel module + LSPosed + Zygisk 注入模块) | FOSS [M] [K] | [GitHub](https://github.com/okhsunrog/vpnhide) | 
 | **[VPN Hotspot](https://github.com/Mygod/VPNHotspot)** | Share your VPN connection over hotspot or repeater. | FOSS | [GitHub](https://github.com/Mygod/VPNHotspot) | 
 | **[zapret for Magisk](https://github.com/sevcator/zapret-magisk)** | DPI bypass on Android with additional features. | FOSS [M] | [GitHub](https://github.com/sevcator/zapret-magisk) | 
 | **[ZDT-D Root Module](https://github.com/GAME-OVER-op/ZDT-D)** | Module for traffic routing, DPI bypass, proxy chaining, DNS control, and per-app network management. | FOSS [M] [K] | [GitHub](https://github.com/GAME-OVER-op/ZDT-D) | 
@@ -2053,7 +2053,7 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 | **[SELinux Permissive](https://github.com/evdenis/selinux_permissive)** | Magisk Module that switches SELinux to permissive mode. | FOSS [M] | [GitHub](https://github.com/evdenis/selinux_permissive) | 
 | **[Shevery](https://github.com/HmnDev-Tech/shevery)** | Based on shizuku with Jetpack Compose, Material 3, and compatibility enhancements. | FOSS | [GitHub](https://github.com/HmnDev-Tech/shevery) | 
 | **[Shizuku](https://github.com/RikkaApps/Shizuku)** | Use system APIs directly with ADB/root privileges. | FOSS | [GitHub](https://github.com/RikkaApps/Shizuku)<br>[🌱](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api)<br>[▶️](https://play.google.com/store/search?q=shizuku&c=apps) | 
-| **[Zygisk-Loader](https://github.com/HanSoBored/Zygisk-Loader)** | Module for hot-swapping native libraries into Android applications without rebooting. | FOSS [K] | [GitHub](https://github.com/HanSoBored/Zygisk-Loader) | 
+| **[Zygisk 注入模块-Loader](https://github.com/HanSoBored/Zygisk 注入模块-Loader)** | Module for hot-swapping native libraries into Android applications without rebooting. | FOSS [K] | [GitHub](https://github.com/HanSoBored/Zygisk 注入模块-Loader) | 
 
 ### Linux Environments
 
@@ -2136,14 +2136,14 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 | **[System Tools Android](https://play.google.com/store/apps/details?id=com.redhome.sta)** | A system utility suite with many small tools for finer system work, including root utilities. | Proprietary | [Google Play](https://play.google.com/store/apps/details?id=com.redhome.sta) | 
 | **[UotanToolbox NT](https://github.com/Uotan-Dev/UotanToolboxNT)** | A modern toolbox for Android power users and geeks. | FOSS | [GitHub](https://github.com/Uotan-Dev/UotanToolboxNT) | 
 | **[XposedModulets](https://github.com/binarynoise/XposedModulets)** | A collection of many small useful Xposed Modules. | FOSS [LSP] | [GitHub](https://github.com/binarynoise/XposedModulets) | 
-| **[Zygisk Sui](https://github.com/XiaoTong6666/Sui)** | Modern superuser interface (SUI) implementation for Android. | FOSS [M] [K] | [GitHub](https://github.com/XiaoTong6666/Sui) | 
+| **[Zygisk 注入模块 Sui](https://github.com/XiaoTong6666/Sui)** | Modern superuser interface (SUI) implementation for Android. | FOSS [M] [K] | [GitHub](https://github.com/XiaoTong6666/Sui) | 
 
 > [!TIP]
 > **Where should you start?**
 
 | Start Here | Best For |
 |:---|:---|
-| [Root Managers and Modules](#root-module-management) | Managing root access and installing modules. |
+| [Root 管理器与授权工具 and Modules](#root-module-management) | Managing root access and installing modules. |
 | [Terminal and Developer Tools](#terminal-shell) | Command-line utilities, ADB, and Linux environments. |
 
 
@@ -2151,18 +2151,18 @@ Since Google's mid-2025 changes, `DEVICE_INTEGRITY` requires a **locked bootload
 
 ---
 
-## 🌐 Android Power-User Ecosystem
+## 🌐 安卓极客与高级用户生态圈
 
 Explore our curated network of Android power-user tools, no-root alternatives, web companions, and open-source application repositories:
 
 * 🚀 **[Best Shizuku Apps (No Root)](https://github.com/krishna3163/best_shizuku_apps_for_android_no_root)** — Curated catalog of Android apps utilizing Shizuku & Wireless ADB for rootless system control and debloating.
-* 🛡️ **[Best Root Apps for Android](https://github.com/krishna3163/best-root-apps-for-android)** — 500+ curated root apps, Magisk/KernelSU/APatch modules, and rooting guides.
+* 🛡️ **[最佳安卓 Root 应用与模块精选目录](https://github.com/krishna3163/best-root-apps-for-android)** — 500+ curated root apps, Magisk/KernelSU/APatch modules, and rooting guides.
 * ⚡ **[Shizuku Web Portal](https://github.com/krishna3163/shizuku-web)** ([Live App](https://shizuku-web.onrender.com)) — Modern PostHog-styled web companion, ADB setup wizard, and app directory.
 * 📱 **[Awesome Android App Repositories](https://github.com/krishna3163/awesome-android-app-repositories)** — Constantly updated catalog of open-source Android apps, utilities, and developer tools.
 
 ---
 
-## 📬 Connect with Maintainer
+## 📬 联系维护者
 
 Have questions, suggestions, or want to collaborate? Connect directly:
 
@@ -2172,20 +2172,20 @@ Have questions, suggestions, or want to collaborate? Connect directly:
 
 ---
 
-## 💬 Community Chat & Discussions
+## 💬 社区聊天与互动讨论
 
 Looking to discuss root apps, Magisk/KernelSU modules, troubleshooting bootloops, or Play Integrity bypasses? Join our active community:
 
 | Platform | Channel / Forum | Purpose |
 | :--- | :--- | :--- |
 | 💬 **GitHub Discussions** | [👉 **Open Root Discussions**](https://github.com/krishna3163/best-root-apps-for-android/discussions) | Rooting Q&A, module recommendations, device compatibility, and module reviews. |
-| ✈️ **Telegram Community Chat** | [👉 **Join Telegram @kk3163019**](https://t.me/kk3163019) | Real-time chat with maintainer [@kk3163019](https://t.me/kk3163019) and Android root power users. |
+| ✈️ **Telegram 社区交流群** | [👉 **Join Telegram @kk3163019**](https://t.me/kk3163019) | Real-time chat with maintainer [@kk3163019](https://t.me/kk3163019) and Android root power users. |
 | 💡 **Module Suggestions** | [👉 **Submit New Module / App**](../../issues/new?template=app-suggestion.yml) | Suggest newly released Magisk, KernelSU, or LSPosed modules. |
 | 🐛 **Bug & Link Reports** | [👉 **Open an Issue**](../../issues) | Report dead download links, broken modules, or incorrect tags. |
 
 ---
 
-## Legal and Safety
+## 免责声明与安全警告
 
 > [!CAUTION]
 > **Educational reference only. Rooting and system modification can permanently damage your device. Proceed at your own risk.**
@@ -2220,6 +2220,6 @@ Unlocking the bootloader and installing root can erase your data, void your warr
 
 <div align="center">
 
-**⚡ Best Root Apps for Android**
+**⚡ 最佳安卓 Root 应用与模块精选目录**
 
 </div>
