@@ -549,22 +549,22 @@
   },
   "hma-oss": {
     "source_repository": "frknkrc44/HMA-OSS",
-    "source_release_id": 388018328,
-    "source_tag": "oss-168",
-    "source_published_at": "2026-09-13T20:03:29Z",
-    "synced_at": "2026-09-13T20:26:40.839468+00:00",
+    "source_release_id": 399627485,
+    "source_tag": "oss-173",
+    "source_published_at": "2026-09-30T00:43:24Z",
+    "synced_at": "2026-09-30T04:26:04.817333+00:00",
     "assets": [
       {
-        "source_asset_id": 561840745,
-        "filename": "HMA-OSS-ZYGISK-oss-168-release.zip",
-        "original_filename": "HMA-OSS-ZYGISK-oss-168-release.zip",
-        "sha256": "08e2e6b4c87e5ba2f8bfc66cb4f383817484dcc279403dfa842c8d8499b7bbf9",
-        "file_size": 2584181,
+        "source_asset_id": 599614798,
+        "filename": "HMA-OSS-ZYGISK-oss-173-release.zip",
+        "original_filename": "HMA-OSS-ZYGISK-oss-173-release.zip",
+        "sha256": "be364502b3d34510c856a742bbb67d91560ec033dcaef06e431991a1ba3a98ec",
+        "file_size": 2743824,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "hma-oss-oss-168",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hma-oss-oss-168"
+    "mirror_release_tag": "hma-oss-oss-173",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hma-oss-oss-173"
   },
   "teesimulator": {
     "source_repository": "JingMatrix/TEESimulator",
@@ -590,7 +590,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-09-29T21:58:11.838604+00:00",
+    "synced_at": "2026-09-30T04:26:06.103959+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -679,22 +679,22 @@
   },
   "komodo-build-props": {
     "source_repository": "Elcapitanoe/Komodo-Build-Prop",
-    "source_release_id": 396220968,
-    "source_tag": "20260925",
-    "source_published_at": "2026-09-25T02:03:00Z",
-    "synced_at": "2026-09-25T03:51:23.858920+00:00",
+    "source_release_id": 399693149,
+    "source_tag": "20260930",
+    "source_published_at": "2026-09-30T03:23:10Z",
+    "synced_at": "2026-09-30T04:26:09.130706+00:00",
     "assets": [
       {
-        "source_asset_id": 587302875,
-        "filename": "Komodo_beta_CP41.260831.007.zip",
-        "original_filename": "Komodo_beta_CP41.260831.007.zip",
-        "sha256": "3b851a6bb55365628bedf6a61b38350ae5b7fbb191570b495c1e14085af4dcc0",
-        "file_size": 70880,
+        "source_asset_id": 599924677,
+        "filename": "Komodo_beta_CP41.260831.007.A3.zip",
+        "original_filename": "Komodo_beta_CP41.260831.007.A3.zip",
+        "sha256": "d9dd42e1211da3c37cc45d0d473b50c2eb38c453fdcf8c4c46024dea3172feee",
+        "file_size": 70882,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "komodo-build-props-20260925",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/komodo-build-props-20260925"
+    "mirror_release_tag": "komodo-build-props-20260930",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/komodo-build-props-20260930"
   },
   "nohello": {
     "source_repository": "MhmRdd/NoHello",
@@ -1127,7 +1127,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-09-29T21:58:21.632365+00:00",
+    "synced_at": "2026-09-30T04:26:19.190200+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
