@@ -80,7 +80,7 @@
     "source_release_id": 403120821,
     "source_tag": "v6",
     "source_published_at": "2026-10-04T17:08:59Z",
-    "synced_at": "2026-10-04T20:57:25.778341+00:00",
+    "synced_at": "2026-10-05T13:50:59.083876+00:00",
     "assets": [
       {
         "source_asset_id": 610308117,
@@ -88,6 +88,14 @@
         "original_filename": "FolkPatch_115351_18c6dc6c_on_main-release.apk",
         "sha256": "cd77519809267a7f22617fce9f6768bac32489b9bed21730beb5bbff7542ae61",
         "file_size": 17801381,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 611824267,
+        "filename": "FolkPatch_115355_79920cd6_on_main-release.apk",
+        "original_filename": "FolkPatch_115355_79920cd6_on_main-release.apk",
+        "sha256": "e160273ca4838e9bb9c602e7cac36a81e928555350775cc1d9008721d77e0502",
+        "file_size": 17802493,
         "architecture": "arm64-v8a"
       }
     ],
@@ -590,7 +598,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-05T04:31:59.876665+00:00",
+    "synced_at": "2026-10-05T13:51:08.259518+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -1127,7 +1135,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-05T04:32:09.223147+00:00",
+    "synced_at": "2026-10-05T13:51:22.886413+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
