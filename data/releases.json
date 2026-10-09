@@ -112,30 +112,30 @@
   },
   "kernelsu-next": {
     "source_repository": "KernelSU-Next/KernelSU-Next",
-    "source_release_id": 392989916,
-    "source_tag": "v3.4.0",
-    "source_published_at": "2026-09-21T13:36:19Z",
-    "synced_at": "2026-09-21T21:46:16.324516+00:00",
+    "source_release_id": 408276968,
+    "source_tag": "v3.4.1",
+    "source_published_at": "2026-10-09T19:38:05Z",
+    "synced_at": "2026-10-09T22:22:29.141392+00:00",
     "assets": [
       {
-        "source_asset_id": 579150434,
-        "filename": "KernelSU_Next_v3.4.0-spoofed_33294-release.apk",
-        "original_filename": "KernelSU_Next_v3.4.0-spoofed_33294-release.apk",
-        "sha256": "84558aca2f82367f66534a7776aacb08f71d19fcb4e82d712c689d961f0e602b",
-        "file_size": 11859167,
-        "architecture": "arm64-v8a, x86_64"
+        "source_asset_id": 626008218,
+        "filename": "KernelSU_Next_v3.4.1-spoofed_33333-release.apk",
+        "original_filename": "KernelSU_Next_v3.4.1-spoofed_33333-release.apk",
+        "sha256": "f41778ee812512ae96bf53e7265114de5e0414bc5cb92397f49e1052d77da118",
+        "file_size": 15132035,
+        "architecture": "arm64-v8a, riscv64, x86_64"
       },
       {
-        "source_asset_id": 579150439,
-        "filename": "KernelSU_Next_v3.4.0_33294-release.apk",
-        "original_filename": "KernelSU_Next_v3.4.0_33294-release.apk",
-        "sha256": "50339a93c0f812b8a72c1a387a1b441891e3df0f20b2d9daf80fd798d04b3de8",
-        "file_size": 11857955,
-        "architecture": "arm64-v8a, x86_64"
+        "source_asset_id": 626008216,
+        "filename": "KernelSU_Next_v3.4.1_33333-release.apk",
+        "original_filename": "KernelSU_Next_v3.4.1_33333-release.apk",
+        "sha256": "eff4b9df6dc438a3fee3b298e4fb87843e7c95f16b6daabdd3161d51968ba2ff",
+        "file_size": 15132143,
+        "architecture": "arm64-v8a, riscv64, x86_64"
       }
     ],
-    "mirror_release_tag": "kernelsu-next-v3.4.0",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kernelsu-next-v3.4.0"
+    "mirror_release_tag": "kernelsu-next-v3.4.1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kernelsu-next-v3.4.1"
   },
   "sukisu-ultra": {
     "source_repository": "SukiSU-Ultra/SukiSU-Ultra",
@@ -606,7 +606,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-09T12:43:47.477336+00:00",
+    "synced_at": "2026-10-09T22:22:35.945386+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -1143,7 +1143,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-09T12:43:59.198408+00:00",
+    "synced_at": "2026-10-09T22:22:46.584993+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
