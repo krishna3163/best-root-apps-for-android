@@ -606,7 +606,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-11T12:15:39.545258+00:00",
+    "synced_at": "2026-10-11T21:36:03.264950+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -733,22 +733,22 @@
   },
   "ohmykeymint": {
     "source_repository": "qwq233/OhMyKeymint",
-    "source_release_id": 340393844,
-    "source_tag": "v1.2.0-67dc5e7",
-    "source_published_at": "2026-06-16T20:28:47Z",
-    "synced_at": "2026-08-22T12:42:26.619768+00:00",
+    "source_release_id": 389074732,
+    "source_tag": "1.2.0-preview-a1f3241",
+    "source_published_at": "2026-09-16T04:16:54Z",
+    "synced_at": "2026-10-11T21:36:08.406214+00:00",
     "assets": [
       {
-        "source_asset_id": 449565367,
-        "filename": "OhMyKeymint-release-arm64-v8a-1.2.0-67dc5e7.zip",
-        "original_filename": "OhMyKeymint-release-arm64-v8a-1.2.0-67dc5e7.zip",
-        "sha256": "d2ec87c830e26c6ef79a15069cbb73f068ea3291a33cd7e508a334e0e81f86ad",
-        "file_size": 3605406,
+        "source_asset_id": 568028419,
+        "filename": "OhMyKeymint-release-arm64-v8a-1.2.0-a1f3241.zip",
+        "original_filename": "OhMyKeymint-release-arm64-v8a-1.2.0-a1f3241.zip",
+        "sha256": "0d672020b1e20b88636af4afcde65cd18ff5294813b7f7d007bcdee5ee6cd9ac",
+        "file_size": 4854133,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "ohmykeymint-v1.2.0-67dc5e7",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-v1.2.0-67dc5e7"
+    "mirror_release_tag": "ohmykeymint-1.2.0-preview-a1f3241",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-1.2.0-preview-a1f3241"
   },
   "play-integrity-fix-inject": {
     "source_repository": "KOWX712/PlayIntegrityFix",
@@ -1143,7 +1143,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-11T12:15:51.516037+00:00",
+    "synced_at": "2026-10-11T21:36:20.249457+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
