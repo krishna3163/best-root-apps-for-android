@@ -905,6 +905,18 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **[Vibe-Forge](https://github.com/rudra-cmd-git/vibe-forge)** | Android app that lets anyone vibe code on their phone. Describe what you want, and an AI agent builds, runs and previews full projects on-device, with no root and no terminal needed. | See project | [GitHub](https://github.com/rudra-cmd-git/vibe-forge) |
 | **[void-apps](https://github.com/kreza6173-pixel/void-apps)** | Best Power Full App Manager | See project | [GitHub](https://github.com/kreza6173-pixel/void-apps) |
 | **[ZRAM-Resizer-for-Android](https://github.com/katryoshkh/zram-resizer-for-android)** | ZRAM resizer KSU/Magisk module for rooted Android device. | See project | [GitHub](https://github.com/katryoshkh/zram-resizer-for-android) |
+| **[aegis-firewall](https://github.com/kreza6173-pixel/aegis-firewall)** | AEGIS // FIREWALL: kernel-level per-app firewall for rooted Android, as a KernelSU module with a full WebUI. | See project | [GitHub](https://github.com/kreza6173-pixel/aegis-firewall) |
+| **[airdroid-wake-control](https://github.com/megaboy2k/airdroid-wake-control)** | Xposed module that keeps the physical screen dark during AirDroid mirroring and remote camera sessions. | See project | [GitHub](https://github.com/megaboy2k/airdroid-wake-control) |
+| **[APK1](https://github.com/rishichamp/apk1)** | Android calculator app that computes square, cube, square root, and cube root using Java in Android Studio. | See project | [GitHub](https://github.com/rishichamp/apk1) |
+| **[AppInsight](https://github.com/appinsightlabs/appinsight)** | See and monitor when apps access the Mic, Camera, and Location | See project | [GitHub](https://github.com/appinsightlabs/appinsight) |
+| **[Dante-OS](https://github.com/picqueanthony-arch/dante-os)** | Dante OS: root launcher for Android with per-app firewall, DNS filter and traffic analysis, no trackers. Signed APKs here (closed source). / Launcher root avec pare-feu par application, filtre DNS et analyse du trafic. | See project | [GitHub](https://github.com/picqueanthony-arch/dante-os) |
+| **[firewall](https://github.com/skaminullah4-afk/firewall)** | A no-root Android firewall app | See project | [GitHub](https://github.com/skaminullah4-afk/firewall) |
+| **[HDAudio-Magisk-Module](https://github.com/mikary29/hdaudio-magisk-module)** | High Definition Android Audio Effect Library. | See project | [GitHub](https://github.com/mikary29/hdaudio-magisk-module) |
+| **[linux-launcher](https://github.com/daryan044/linux-launcher)** | Run Linux apps on Android in per-app containers (PRoot or root chroot) with a Material 3 Expressive launcher | See project | [GitHub](https://github.com/daryan044/linux-launcher) |
+| **[medinaluis85.github.io](https://github.com/medinaluis85/medinaluis85.github.io)** | Domain root for medinaluis85.github.io — hosts app-ads.txt for the Dinner Truce Android app (AdMob publisher verification) and a small landing page. | See project | [GitHub](https://github.com/medinaluis85/medinaluis85.github.io) |
+| **[ROOTpow](https://github.com/rishichamp/rootpow)** | Android app that calculates power and root operations using Java, Spinner UI, and Android Studio. | See project | [GitHub](https://github.com/rishichamp/rootpow) |
+| **[SY-Fusion](https://github.com/vip-svip/sy-fusion)** | SY · AdGuard Home 融合广告拦截 \| KernelSU/Magisk 模块。以 AdGuard Home 规则语义为内核，融合 uBlock Origin 的匹配与优先级模型，全语法规则离线可用。 | See project | [GitHub](https://github.com/vip-svip/sy-fusion) |
+| **[wekit-floating-titlebar-fix](https://github.com/aiyun0703/wekit-floating-titlebar-fix)** | WeKit 修复悬浮标题栏：悬浮标题栏/悬浮输入框 bug 修复修改手册（原版→v3fix4） | See project | [GitHub](https://github.com/aiyun0703/wekit-floating-titlebar-fix) |
 
 </details>
 
