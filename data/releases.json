@@ -77,38 +77,22 @@
   },
   "folkpatch": {
     "source_repository": "LyraVoid/FolkPatch",
-    "source_release_id": 403120821,
-    "source_tag": "v6",
-    "source_published_at": "2026-10-04T17:08:59Z",
-    "synced_at": "2026-10-06T22:25:52.605443+00:00",
+    "source_release_id": 410559361,
+    "source_tag": "115357",
+    "source_published_at": "2026-10-12T12:03:07Z",
+    "synced_at": "2026-10-12T14:39:21.598894+00:00",
     "assets": [
       {
-        "source_asset_id": 610308117,
-        "filename": "FolkPatch_115351_18c6dc6c_on_main-release.apk",
-        "original_filename": "FolkPatch_115351_18c6dc6c_on_main-release.apk",
-        "sha256": "cd77519809267a7f22617fce9f6768bac32489b9bed21730beb5bbff7542ae61",
-        "file_size": 17801381,
-        "architecture": "arm64-v8a"
-      },
-      {
-        "source_asset_id": 611824267,
-        "filename": "FolkPatch_115355_79920cd6_on_main-release.apk",
-        "original_filename": "FolkPatch_115355_79920cd6_on_main-release.apk",
-        "sha256": "e160273ca4838e9bb9c602e7cac36a81e928555350775cc1d9008721d77e0502",
-        "file_size": 17802493,
-        "architecture": "arm64-v8a"
-      },
-      {
-        "source_asset_id": 615634127,
-        "filename": "FolkPatch_115356_2aeabd04_on_main-release.apk",
-        "original_filename": "FolkPatch_115356_2aeabd04_on_main-release.apk",
-        "sha256": "2d18f8a98f2d29fa048e0c2baa80cbfcad4c751b62a95bd5a37348448ce7f509",
-        "file_size": 17802841,
+        "source_asset_id": 633672084,
+        "filename": "FolkPatch_115357_a843c526_on_main-release.apk",
+        "original_filename": "FolkPatch_115357_a843c526_on_main-release.apk",
+        "sha256": "f73a3cd9438f871e3461954123174aabcf9631e53f465225f729f27a3371cb06",
+        "file_size": 17805181,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "folkpatch-v6",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/folkpatch-v6"
+    "mirror_release_tag": "folkpatch-115357",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/folkpatch-115357"
   },
   "kernelsu-next": {
     "source_repository": "KernelSU-Next/KernelSU-Next",
@@ -606,7 +590,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-12T04:46:16.075827+00:00",
+    "synced_at": "2026-10-12T14:39:29.522591+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -752,30 +736,22 @@
   },
   "play-integrity-fix-inject": {
     "source_repository": "KOWX712/PlayIntegrityFix",
-    "source_release_id": 352483129,
-    "source_tag": "v4.7-inject-s",
-    "source_published_at": "2026-07-11T09:58:43Z",
-    "synced_at": "2026-08-22T12:42:30.616871+00:00",
+    "source_release_id": 410655436,
+    "source_tag": "v4.8-inject-s",
+    "source_published_at": "2026-10-12T13:56:06Z",
+    "synced_at": "2026-10-12T14:39:34.000629+00:00",
     "assets": [
       {
-        "source_asset_id": 474280179,
-        "filename": "PlayIntegrityFix_v4.7-1-inject-s.zip",
-        "original_filename": "PlayIntegrityFix_v4.7-1-inject-s.zip",
-        "sha256": "10eec591735cafee437332871443a2fadf6632b1a58abb16fe2461d9df100ab1",
-        "file_size": 660329,
-        "architecture": "universal"
-      },
-      {
-        "source_asset_id": 473399370,
-        "filename": "PlayIntegrityFix_v4.7-inject-s.zip",
-        "original_filename": "PlayIntegrityFix_v4.7-inject-s.zip",
-        "sha256": "3a5fa1ac31154a1526af309ecd86b784c75a2c2f17a54e570369a3691a9ad9e6",
-        "file_size": 660502,
+        "source_asset_id": 633923963,
+        "filename": "PlayIntegrityFix_v4.8-inject-s.zip",
+        "original_filename": "PlayIntegrityFix_v4.8-inject-s.zip",
+        "sha256": "bab1abb22975e95f8246bbe9d1536facd471cc2f0e3e85182bfb0f02d2468dca",
+        "file_size": 691564,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "play-integrity-fix-inject-v4.7-inject-s",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fix-inject-v4.7-inject-s"
+    "mirror_release_tag": "play-integrity-fix-inject-v4.8-inject-s",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fix-inject-v4.8-inject-s"
   },
   "play-integrity-fork-pif": {
     "source_repository": "osm0sis/PlayIntegrityFork",
@@ -1143,7 +1119,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-12T04:46:27.484181+00:00",
+    "synced_at": "2026-10-12T14:39:43.877977+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
