@@ -39,22 +39,22 @@
   },
   "kernelsu": {
     "source_repository": "tiann/KernelSU",
-    "source_release_id": 378554296,
-    "source_tag": "v3.3.0",
-    "source_published_at": "2026-08-28T14:49:30Z",
-    "synced_at": "2026-08-28T21:47:10.568590+00:00",
+    "source_release_id": 411056925,
+    "source_tag": "v3.3.1",
+    "source_published_at": "2026-10-12T22:52:06Z",
+    "synced_at": "2026-10-13T00:14:54.451731+00:00",
     "assets": [
       {
-        "source_asset_id": 533945727,
-        "filename": "KernelSU_v3.3.0_32601-release.apk",
-        "original_filename": "KernelSU_v3.3.0_32601-release.apk",
-        "sha256": "c197060ecb89702e7d54a4c95e29cf5e8d97369bbbb436979ab7fd6bcde7b077",
-        "file_size": 10777987,
-        "architecture": "arm64-v8a, x86_64"
+        "source_asset_id": 635227183,
+        "filename": "KernelSU_v3.3.1_32680-release.apk",
+        "original_filename": "KernelSU_v3.3.1_32680-release.apk",
+        "sha256": "b4a059ace71de2fa65cc7f12b1c58d55fc23ab25e057ee4230ce779742abe450",
+        "file_size": 13637206,
+        "architecture": "arm64-v8a, riscv64, x86_64"
       }
     ],
-    "mirror_release_tag": "kernelsu-v3.3.0",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kernelsu-v3.3.0"
+    "mirror_release_tag": "kernelsu-v3.3.1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/kernelsu-v3.3.1"
   },
   "apatch": {
     "source_repository": "bmax121/APatch",
@@ -590,7 +590,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-12T14:39:29.522591+00:00",
+    "synced_at": "2026-10-13T00:15:04.232299+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -1119,7 +1119,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-12T14:39:43.877977+00:00",
+    "synced_at": "2026-10-13T00:15:17.705443+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
