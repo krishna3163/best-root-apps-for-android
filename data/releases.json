@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-15T10:58:59.028890+00:00",
+    "synced_at": "2026-10-15T16:28:14.650741+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -584,22 +584,22 @@
   },
   "play-integrity-fix-inject": {
     "source_repository": "KOWX712/PlayIntegrityFix",
-    "source_release_id": 410655436,
-    "source_tag": "v4.8-inject-s",
-    "source_published_at": "2026-10-12T13:56:06Z",
-    "synced_at": "2026-10-12T14:39:34.000629+00:00",
+    "source_release_id": 413890831,
+    "source_tag": "v4.9-inject-s",
+    "source_published_at": "2026-10-15T14:11:46Z",
+    "synced_at": "2026-10-15T16:28:20.606856+00:00",
     "assets": [
       {
-        "source_asset_id": 633923963,
-        "filename": "PlayIntegrityFix_v4.8-inject-s.zip",
-        "original_filename": "PlayIntegrityFix_v4.8-inject-s.zip",
-        "sha256": "bab1abb22975e95f8246bbe9d1536facd471cc2f0e3e85182bfb0f02d2468dca",
-        "file_size": 691564,
+        "source_asset_id": 644077088,
+        "filename": "PlayIntegrityFix_v4.9-inject-s.zip",
+        "original_filename": "PlayIntegrityFix_v4.9-inject-s.zip",
+        "sha256": "bc7a9d92638a6bd90a41b70d3aaf86bc549dd8d3a1e5e901b315a6c425852697",
+        "file_size": 692511,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "play-integrity-fix-inject-v4.8-inject-s",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fix-inject-v4.8-inject-s"
+    "mirror_release_tag": "play-integrity-fix-inject-v4.9-inject-s",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fix-inject-v4.9-inject-s"
   },
   "play-integrity-fork-pif": {
     "source_repository": "osm0sis/PlayIntegrityFork",
@@ -967,7 +967,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-15T10:59:11.846352+00:00",
+    "synced_at": "2026-10-15T16:28:32.330972+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
