@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-15T21:01:10.231597+00:00",
+    "synced_at": "2026-10-16T03:31:00.967676+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -967,7 +967,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-15T21:01:24.047136+00:00",
+    "synced_at": "2026-10-16T03:31:11.413444+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
@@ -1002,22 +1002,38 @@
   },
   "noogle-magisk": {
     "source_repository": "SelfRef/noogle-magisk",
-    "source_release_id": 210321271,
-    "source_tag": "v2.1",
-    "source_published_at": "2025-04-04T09:46:00Z",
-    "synced_at": "2026-08-22T12:43:52.547025+00:00",
+    "source_release_id": 414494805,
+    "source_tag": "v2026.10.16",
+    "source_published_at": "2026-10-16T03:10:07Z",
+    "synced_at": "2026-10-16T03:31:25.818227+00:00",
     "assets": [
       {
-        "source_asset_id": 243509167,
-        "filename": "noogle-microg-v2.1.zip",
-        "original_filename": "noogle-microg-v2.1.zip",
-        "sha256": "08a2c6d9d76aae10f9674f906578ede058a7b517f6c60291251bc328f9583032",
-        "file_size": 45155572,
+        "source_asset_id": 645966190,
+        "filename": "noogle-microg-playful-v2026.10.16.zip",
+        "original_filename": "noogle-microg-playful-v2026.10.16.zip",
+        "sha256": "cf1c06f302ee3e8be67154c8bbf3e3632a29e60deb640a52be74f046ddfadc1b",
+        "file_size": 103538978,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 645966186,
+        "filename": "noogle-microg-v2026.10.16.zip",
+        "original_filename": "noogle-microg-v2026.10.16.zip",
+        "sha256": "5769b6f1eb825ce26fd14a0d811966915463522c4411d4d4e9470b0177fa9d73",
+        "file_size": 106796182,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 645966187,
+        "filename": "noogle-unbundle-v2026.10.16.zip",
+        "original_filename": "noogle-unbundle-v2026.10.16.zip",
+        "sha256": "1073b15f5264300e1f7b381c858ea8d995c2072a0514641e84a5707b68439079",
+        "file_size": 3953,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "noogle-magisk-v2.1",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/noogle-magisk-v2.1"
+    "mirror_release_tag": "noogle-magisk-v2026.10.16",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/noogle-magisk-v2026.10.16"
   },
   "secure-element-access": {
     "source_repository": "jqssun/android-se-access",
