@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-19T12:23:54.452788+00:00",
+    "synced_at": "2026-10-19T22:04:23.679444+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -812,22 +812,22 @@
   },
   "ashrexcue-bootloop-protector": {
     "source_repository": "RipperHybrid/AshLooper",
-    "source_release_id": 370095709,
-    "source_tag": "v9.9",
-    "source_published_at": "2026-08-13T17:38:39Z",
-    "synced_at": "2026-08-22T12:43:03.339438+00:00",
+    "source_release_id": 417418110,
+    "source_tag": "v10.0",
+    "source_published_at": "2026-10-19T15:38:39Z",
+    "synced_at": "2026-10-19T22:04:32.817792+00:00",
     "assets": [
       {
-        "source_asset_id": 513296406,
-        "filename": "AshReXcue_Bootloop_Protector_9.9_199.zip",
-        "original_filename": "AshReXcue_Bootloop_Protector_9.9_199.zip",
-        "sha256": "54c4d70e1524d36ca0c8947f011f33c0dcd6e248035a608cc43bd0f1216464e3",
-        "file_size": 1032512,
+        "source_asset_id": 656681506,
+        "filename": "AshReXcue_Bootloop_Protector_10.0_200.zip",
+        "original_filename": "AshReXcue_Bootloop_Protector_10.0_200.zip",
+        "sha256": "22ecd8bd45e0456166517cb0a3971bc1f80383835cebea37c3998502352781e5",
+        "file_size": 259911,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "ashrexcue-bootloop-protector-v9.9",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ashrexcue-bootloop-protector-v9.9"
+    "mirror_release_tag": "ashrexcue-bootloop-protector-v10.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ashrexcue-bootloop-protector-v10.0"
   },
   "yetanotherbootloopprotector": {
     "source_repository": "Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector",
@@ -967,7 +967,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-19T12:24:05.962734+00:00",
+    "synced_at": "2026-10-19T22:04:38.020805+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
