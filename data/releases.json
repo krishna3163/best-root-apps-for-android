@@ -378,22 +378,22 @@
   },
   "brene": {
     "source_repository": "rrr333nnn333/BRENE",
-    "source_release_id": 409955030,
-    "source_tag": "v0.0.71",
-    "source_published_at": "2026-10-11T22:15:49Z",
-    "synced_at": "2026-10-12T04:46:13.916350+00:00",
+    "source_release_id": 416714101,
+    "source_tag": "v0.0.72",
+    "source_published_at": "2026-10-18T21:06:48Z",
+    "synced_at": "2026-10-19T03:38:13.860886+00:00",
     "assets": [
       {
-        "source_asset_id": 631946458,
-        "filename": "BRENE-v0.0.71.zip",
-        "original_filename": "BRENE-v0.0.71.zip",
-        "sha256": "182a03f9d0b76062ed303c2d0cdfcc6eac275c8f0aafad8ae1287a92e939f97d",
-        "file_size": 120098,
+        "source_asset_id": 654490572,
+        "filename": "BRENE-v0.0.72.zip",
+        "original_filename": "BRENE-v0.0.72.zip",
+        "sha256": "2bdb02236e5e37a6585495573042daafbd8914b9ee84a3fd0f7b13d841d32709",
+        "file_size": 120224,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "brene-v0.0.71",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/brene-v0.0.71"
+    "mirror_release_tag": "brene-v0.0.72",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/brene-v0.0.72"
   },
   "hma-oss": {
     "source_repository": "frknkrc44/HMA-OSS",
@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-18T20:12:57.252364+00:00",
+    "synced_at": "2026-10-19T03:38:15.662744+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -967,7 +967,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-18T20:13:08.563145+00:00",
+    "synced_at": "2026-10-19T03:38:26.181733+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
@@ -1002,38 +1002,70 @@
   },
   "noogle-magisk": {
     "source_repository": "SelfRef/noogle-magisk",
-    "source_release_id": 414494805,
-    "source_tag": "v2026.10.16",
-    "source_published_at": "2026-10-16T03:10:07Z",
-    "synced_at": "2026-10-16T03:31:25.818227+00:00",
+    "source_release_id": 416768642,
+    "source_tag": "v2026.10.18.2",
+    "source_published_at": "2026-10-18T23:21:39Z",
+    "synced_at": "2026-10-19T03:38:56.289257+00:00",
     "assets": [
       {
-        "source_asset_id": 645966190,
-        "filename": "noogle-microg-playful-v2026.10.16.zip",
-        "original_filename": "noogle-microg-playful-v2026.10.16.zip",
-        "sha256": "cf1c06f302ee3e8be67154c8bbf3e3632a29e60deb640a52be74f046ddfadc1b",
-        "file_size": 103538978,
+        "source_asset_id": 654720496,
+        "filename": "noogle-microg-catfish-v2026.10.18.2.zip",
+        "original_filename": "noogle-microg-catfish-v2026.10.18.2.zip",
+        "sha256": "23b8efffdd3fcfa704c6774a7f71893e880e3af86a0190452a028987b7fda063",
+        "file_size": 106437442,
         "architecture": "universal"
       },
       {
-        "source_asset_id": 645966186,
-        "filename": "noogle-microg-v2026.10.16.zip",
-        "original_filename": "noogle-microg-v2026.10.16.zip",
-        "sha256": "5769b6f1eb825ce26fd14a0d811966915463522c4411d4d4e9470b0177fa9d73",
-        "file_size": 106796182,
+        "source_asset_id": 654720498,
+        "filename": "noogle-microg-playful-catfish-v2026.10.18.2.zip",
+        "original_filename": "noogle-microg-playful-catfish-v2026.10.18.2.zip",
+        "sha256": "7154cd3fdf38606dc07cbdec574d4e495bcbcb8e8ef038aabe57d08a8bd82921",
+        "file_size": 103261135,
         "architecture": "universal"
       },
       {
-        "source_asset_id": 645966187,
-        "filename": "noogle-unbundle-v2026.10.16.zip",
-        "original_filename": "noogle-unbundle-v2026.10.16.zip",
-        "sha256": "1073b15f5264300e1f7b381c858ea8d995c2072a0514641e84a5707b68439079",
-        "file_size": 3953,
+        "source_asset_id": 654720495,
+        "filename": "noogle-microg-playful-v2026.10.18.2.zip",
+        "original_filename": "noogle-microg-playful-v2026.10.18.2.zip",
+        "sha256": "3ec96b55962bfa99844025d7ed17b5a2a17514b613eef39874b0669eca4e707f",
+        "file_size": 103539277,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 654720494,
+        "filename": "noogle-microg-v2026.10.18.2.zip",
+        "original_filename": "noogle-microg-v2026.10.18.2.zip",
+        "sha256": "5b6c611e24fb0a777399f8e03b4e8648a2e04441a20558fdd6764c7a7118a699",
+        "file_size": 106796480,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 654720492,
+        "filename": "noogle-unbundle-fossify-v2026.10.18.2.zip",
+        "original_filename": "noogle-unbundle-fossify-v2026.10.18.2.zip",
+        "sha256": "a10b83daef5074aea1866bcc2ab5c5f609232b67f777eae9c82241a091c13c5a",
+        "file_size": 85464107,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 654720581,
+        "filename": "noogle-unbundle-hard-v2026.10.18.2.zip",
+        "original_filename": "noogle-unbundle-hard-v2026.10.18.2.zip",
+        "sha256": "915f50ba2c33b6dd1976d233e798439df9c5dacffc53ee7b6a5e746004e8c71d",
+        "file_size": 7441,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 654720583,
+        "filename": "noogle-unbundle-v2026.10.18.2.zip",
+        "original_filename": "noogle-unbundle-v2026.10.18.2.zip",
+        "sha256": "0b59827c1e7b80d3640377d00d9285a43630dac33c853b33520d95c392997d62",
+        "file_size": 4994,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "noogle-magisk-v2026.10.16",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/noogle-magisk-v2026.10.16"
+    "mirror_release_tag": "noogle-magisk-v2026.10.18.2",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/noogle-magisk-v2026.10.18.2"
   },
   "secure-element-access": {
     "source_repository": "jqssun/android-se-access",
