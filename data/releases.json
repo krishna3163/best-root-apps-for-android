@@ -245,22 +245,22 @@
   },
   "meta-hybrid-mount": {
     "source_repository": "YuzakiKokuban/meta-hybrid_mount",
-    "source_release_id": 409422447,
-    "source_tag": "v6.2.3",
-    "source_published_at": "2026-10-11T04:49:47Z",
-    "synced_at": "2026-10-11T12:15:36.336699+00:00",
+    "source_release_id": 419067083,
+    "source_tag": "v6.2.5",
+    "source_published_at": "2026-10-21T02:10:12Z",
+    "synced_at": "2026-10-21T03:39:40.595528+00:00",
     "assets": [
       {
-        "source_asset_id": 629807829,
-        "filename": "Hybrid-Mount-6.2.3-2090.zip",
-        "original_filename": "Hybrid-Mount-6.2.3-2090.zip",
-        "sha256": "10ca8b21e55705050a5e2ad56777190279c8aae582fed5ad5b1a4dfddae91e23",
-        "file_size": 4923231,
+        "source_asset_id": 661084949,
+        "filename": "Hybrid-Mount-6.2.5-2118.zip",
+        "original_filename": "Hybrid-Mount-6.2.5-2118.zip",
+        "sha256": "973eb81dac3b8e604185369fb9b1497a2faf0709e5cdaa94cb4ffa632dd9278a",
+        "file_size": 4959776,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "meta-hybrid-mount-v6.2.3",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-hybrid-mount-v6.2.3"
+    "mirror_release_tag": "meta-hybrid-mount-v6.2.5",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/meta-hybrid-mount-v6.2.5"
   },
   "meta-mm": {
     "source_repository": "KernelSU-Modules-Repo/meta-mm",
@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-20T21:20:28.769429+00:00",
+    "synced_at": "2026-10-21T03:39:44.471423+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -967,7 +967,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-20T21:20:42.491872+00:00",
+    "synced_at": "2026-10-21T03:39:54.144532+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
