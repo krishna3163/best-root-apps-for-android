@@ -1,0 +1,74 @@
+{
+  "morphe-365scores": {
+    "last_attempt": "2026-10-23T14:47:36.816602+00:00",
+    "release_tag": "morphe-365scores-12.8.2",
+    "status": "success",
+    "version": "12.8.2"
+  },
+  "morphe-chefkoch": {
+    "last_attempt": "2026-10-23T14:47:33.297174+00:00",
+    "release_tag": "morphe-chefkoch-8.4.0",
+    "status": "success",
+    "version": "8.4.0"
+  },
+  "morphe-google-photos": {
+    "last_attempt": "2026-10-23T14:47:21.777074+00:00",
+    "release_tag": "morphe-google-photos-6.85.0.637340026",
+    "status": "success",
+    "version": "6.85.0.637340026"
+  },
+  "morphe-instagram": {
+    "last_attempt": "2026-10-23T14:47:17.083938+00:00",
+    "release_tag": "morphe-instagram-328.0.0.42.90-prerelease",
+    "status": "success",
+    "version": "328.0.0.42.90"
+  },
+  "morphe-mixplorer": {
+    "last_attempt": "2026-10-23T14:47:39.778629+00:00",
+    "release_tag": "morphe-mixplorer-6.65.0",
+    "status": "success",
+    "version": "6.65.0"
+  },
+  "morphe-reddit": {
+    "last_attempt": "2026-10-23T14:47:03.749981+00:00",
+    "release_tag": "morphe-reddit-2024.17.0",
+    "status": "success",
+    "version": "2024.17.0"
+  },
+  "morphe-spotify": {
+    "last_attempt": "2026-10-23T14:47:23.315094+00:00",
+    "release_tag": "morphe-spotify-8.9.18.512",
+    "status": "success",
+    "version": "8.9.18.512"
+  },
+  "morphe-tiktok": {
+    "last_attempt": "2026-10-23T14:47:25.045818+00:00",
+    "release_tag": "morphe-tiktok-34.1.2",
+    "status": "success",
+    "version": "34.1.2"
+  },
+  "morphe-twitch": {
+    "last_attempt": "2026-10-23T14:47:31.767772+00:00",
+    "release_tag": "morphe-twitch-19.3.1-beta",
+    "status": "success",
+    "version": "19.3.1"
+  },
+  "morphe-twitter": {
+    "last_attempt": "2026-10-23T14:47:10.760154+00:00",
+    "release_tag": "morphe-twitter-10.38.0-release.0-beta",
+    "status": "success",
+    "version": "10.38.0-release.0"
+  },
+  "morphe-youtube": {
+    "last_attempt": "2026-10-23T14:46:57.181195+00:00",
+    "release_tag": "morphe-youtube-19.16.39",
+    "status": "success",
+    "version": "19.16.39"
+  },
+  "morphe-youtube-music": {
+    "last_attempt": "2026-10-23T14:46:59.511968+00:00",
+    "release_tag": "morphe-youtube-music-7.02.52",
+    "status": "success",
+    "version": "7.02.52"
+  }
+}
