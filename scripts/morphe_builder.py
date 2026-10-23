@@ -22,6 +22,8 @@ from typing import Any, Optional
 
 logger = logging.getLogger("morphe-sync")
 
+ROOT = str(Path(__file__).resolve().parents[1])
+
 MORPHE_BUNDLES_URL = "https://morphe-patches.software/data/bundles.json"
 MORPHE_DESKTOP_REPO = "MorpheApp/morphe-desktop"
 DEFAULT_USER_AGENT = "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
@@ -206,14 +208,23 @@ class MorphePatcher:
         self.cli_jar_path = cli_jar_path
 
     def locate_or_download_cli(self, dest_dir: str) -> Optional[str]:
-        """Find local morphe-desktop jar or download from official releases."""
+        """Find local morphe-desktop jar or download from official releases with caching."""
         if self.cli_jar_path and os.path.exists(self.cli_jar_path):
             return self.cli_jar_path
 
         jar_candidate = os.path.join(dest_dir, "morphe-desktop.jar")
-        if os.path.exists(jar_candidate):
+        if os.path.exists(jar_candidate) and os.path.getsize(jar_candidate) > 0:
             self.cli_jar_path = jar_candidate
             return jar_candidate
+
+        cached_jar = os.path.join(ROOT, "data", "morphe-desktop.jar")
+        if os.path.exists(cached_jar) and os.path.getsize(cached_jar) > 0:
+            try:
+                shutil.copyfile(cached_jar, jar_candidate)
+                self.cli_jar_path = jar_candidate
+                return jar_candidate
+            except Exception:
+                pass
 
         # Check if java is installed
         try:
@@ -222,18 +233,26 @@ class MorphePatcher:
             logger.warning("Java runtime not found on system. Morphe CLI patching will operate in simulation mode.")
             return None
 
-        # Fetch latest release asset of Morphe Desktop
+        # Fetch latest release asset of Morphe Desktop with streaming timeout
         try:
             api_url = f"https://api.github.com/repos/{MORPHE_DESKTOP_REPO}/releases/latest"
-            req = urllib.request.Request(api_url, headers={"User-Agent": DEFAULT_USER_AGENT})
-            with urllib.request.urlopen(req, timeout=15) as resp:
+            headers = {"User-Agent": DEFAULT_USER_AGENT}
+            token = os.environ.get("GITHUB_TOKEN")
+            if token:
+                headers["Authorization"] = f"Bearer {token}"
+            req = urllib.request.Request(api_url, headers=headers)
+            with urllib.request.urlopen(req, timeout=5) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
                 for asset in data.get("assets", []):
                     name = asset.get("name", "")
                     if name.endswith("-all.jar") or name.endswith(".jar"):
                         dl_url = asset.get("browser_download_url")
                         logger.info("Downloading Morphe Desktop CLI: %s", dl_url)
-                        urllib.request.urlretrieve(dl_url, jar_candidate)
+                        dl_req = urllib.request.Request(dl_url, headers={"User-Agent": DEFAULT_USER_AGENT})
+                        with urllib.request.urlopen(dl_req, timeout=15) as dl_resp, open(jar_candidate, "wb") as out_f:
+                            shutil.copyfileobj(dl_resp, out_f)
+                        os.makedirs(os.path.dirname(cached_jar), exist_ok=True)
+                        shutil.copyfile(jar_candidate, cached_jar)
                         self.cli_jar_path = jar_candidate
                         return jar_candidate
         except Exception as e:
@@ -242,31 +261,46 @@ class MorphePatcher:
         return None
 
     def fetch_patch_bundle(self, repo: str, dest_dir: str) -> Optional[str]:
-        """Download latest .mpp patch bundle from the bundle's GitHub repository."""
+        """Download latest .mpp patch bundle from the bundle's repository with caching."""
         mpp_dest = os.path.join(dest_dir, f"{repo.replace('/', '-')}.mpp")
-        if os.path.exists(mpp_dest):
+        if os.path.exists(mpp_dest) and os.path.getsize(mpp_dest) > 0:
+            return mpp_dest
+
+        # Check persistent data cache first
+        data_cache = os.path.join(ROOT, "data", "bundles", f"{repo.replace('/', '-')}.mpp")
+        if os.path.exists(data_cache) and os.path.getsize(data_cache) > 0:
+            shutil.copyfile(data_cache, mpp_dest)
             return mpp_dest
 
         try:
+            headers = {"User-Agent": DEFAULT_USER_AGENT}
+            token = os.environ.get("GITHUB_TOKEN")
+            if token and "gitlab" not in repo.lower():
+                headers["Authorization"] = f"Bearer {token}"
+
             api_url = f"https://api.github.com/repos/{repo}/releases/latest"
-            req = urllib.request.Request(api_url, headers={"User-Agent": DEFAULT_USER_AGENT})
-            with urllib.request.urlopen(req, timeout=10) as resp:
+            req = urllib.request.Request(api_url, headers=headers)
+            with urllib.request.urlopen(req, timeout=4) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
                 for asset in data.get("assets", []):
                     name = asset.get("name", "")
                     if name.endswith(".mpp"):
                         dl_url = asset.get("browser_download_url")
                         logger.info("Downloading bundle %s from %s", name, dl_url)
-                        dl_req = urllib.request.Request(dl_url, headers={"User-Agent": DEFAULT_USER_AGENT})
-                        with urllib.request.urlopen(dl_req, timeout=15) as dl_resp, open(mpp_dest, "wb") as out_f:
+                        dl_req = urllib.request.Request(dl_url, headers=headers)
+                        with urllib.request.urlopen(dl_req, timeout=10) as dl_resp, open(mpp_dest, "wb") as out_f:
                             shutil.copyfileobj(dl_resp, out_f)
+                        os.makedirs(os.path.dirname(data_cache), exist_ok=True)
+                        shutil.copyfile(mpp_dest, data_cache)
                         return mpp_dest
         except Exception as e:
-            logger.warning("Could not download bundle from GitHub releases (%s). Creating fallback bundle spec.", e)
+            logger.warning("Could not download bundle for %s (%s). Using bundle spec.", repo, e)
 
         # Fallback local bundle representation
         with open(mpp_dest, "wb") as f:
             f.write(f"MORPHE_BUNDLE:{repo}\n".encode("utf-8"))
+        os.makedirs(os.path.dirname(data_cache), exist_ok=True)
+        shutil.copyfile(mpp_dest, data_cache)
         return mpp_dest
 
     def patch_apk(

@@ -10,5 +10,8 @@ build/
 *.apk
 *.zip
 *.tmp
+*.jar
+*.mpp
+data/bundles/
 .DS_Store
 Thumbs.db
