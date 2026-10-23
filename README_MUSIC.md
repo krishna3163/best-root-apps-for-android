@@ -19,9 +19,9 @@
 
 | App | Package Name | Status / Channel | Version | Bundle Source | Key Patches | Download APK | SHA-256 Checksum | Last Updated |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| **AudioRelay (Lain Patches)** | `com.azefsw.audiorelay` | `📦 Release` | `0.27.5` | [Lain](https://github.com/kiraio-moe/Lain-Patches) | • Premium Unlocked<br>• Multi-Device Audio Routing<br>• Ultra-Low Latency Mode | [⬇️ **Download**](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/lain-audiorelay-0.27.5) | `36d37293b4e2…` | 2026-10-23 |
-| **Spotify (Morphe)** | `com.spotify.music` | `📦 Release` | `8.9.18.512` | [morphe-patches](https://github.com/MorpheApp/morphe-patches) | • Unlimited Skips<br>• No Audio Ads<br>• Canvas Enabled<br>_and 1 more…_ | [⬇️ **Download**](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/morphe-spotify-8.9.18.512) | `771fdfc5a92d…` | 2026-10-23 |
-| **YouTube Music (Morphe)** | `com.google.android.apps.youtube.music` | `🚀 AutoBuild` | `7.02.52` | [morphe-patches](https://github.com/MorpheApp/morphe-patches) | • Background Audio<br>• No Audio Ads<br>• High Quality Unlock<br>_and 1 more…_ | [⬇️ **Download**](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/morphe-youtube-music-7.02.52) | `b9f7c3e461b4…` | 2026-10-23 |
+| **AudioRelay (Lain Patches)** | `com.azefsw.audiorelay` | `📦 Release` | `0.27.5` | [Lain](https://github.com/kiraio-moe/Lain-Patches) | • Premium Unlocked<br>• Multi-Device Audio Routing<br>• Ultra-Low Latency Mode | [⬇️ **Download**](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/lain-audiorelay-0.27.5) | `82e4c39aa9af…` | 2026-10-23 |
+| **Spotify (Morphe)** | `com.spotify.music` | `📦 Release` | `8.9.18.512` | [morphe-patches](https://github.com/MorpheApp/morphe-patches) | • Unlimited Skips<br>• No Audio Ads<br>• Canvas Enabled<br>_and 1 more…_ | [⬇️ **Download**](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/morphe-spotify-8.9.18.512) | `a08b2ae2234b…` | 2026-10-23 |
+| **YouTube Music (Morphe)** | `com.google.android.apps.youtube.music` | `🚀 AutoBuild` | `7.02.52` | [morphe-patches](https://github.com/MorpheApp/morphe-patches) | • Background Audio<br>• No Audio Ads<br>• High Quality Unlock<br>_and 1 more…_ | [⬇️ **Download**](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/morphe-youtube-music-7.02.52) | `b072f7f21a50…` | 2026-10-23 |
 
 ---
 

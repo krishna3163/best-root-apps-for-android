@@ -19,7 +19,7 @@
 
 | App | Package Name | Status / Channel | Version | Bundle Source | Key Patches | Download APK | SHA-256 Checksum | Last Updated |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| **Steam Link (AngelDark92 GalaxyXR)** | `com.valvesoftware.steamlink` | `🚀 AutoBuild` | `1.3.12` | [Steam Link GalaxyXR](https://github.com/AngelDark92/steamlink-patches) | • VR Headset Low Latency Mode<br>• Bitrate Limit Override<br>• HEVC 10-bit | [⬇️ **Download**](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/steamlink-xr-1.3.12) | `335f4d773241…` | 2026-10-23 |
+| **Steam Link (AngelDark92 GalaxyXR)** | `com.valvesoftware.steamlink` | `🚀 AutoBuild` | `1.3.12` | [Steam Link GalaxyXR](https://github.com/AngelDark92/steamlink-patches) | • VR Headset Low Latency Mode<br>• Bitrate Limit Override<br>• HEVC 10-bit | [⬇️ **Download**](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/steamlink-xr-1.3.12) | `157d9ee45ee4…` | 2026-10-23 |
 
 ---
 
