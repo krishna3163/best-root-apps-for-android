@@ -241,7 +241,7 @@ class MorphePatcher:
             if token:
                 headers["Authorization"] = f"Bearer {token}"
             req = urllib.request.Request(api_url, headers=headers)
-            with urllib.request.urlopen(req, timeout=5) as resp:
+            with urllib.request.urlopen(req, timeout=10) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
                 for asset in data.get("assets", []):
                     name = asset.get("name", "")
@@ -249,7 +249,7 @@ class MorphePatcher:
                         dl_url = asset.get("browser_download_url")
                         logger.info("Downloading Morphe Desktop CLI: %s", dl_url)
                         dl_req = urllib.request.Request(dl_url, headers={"User-Agent": DEFAULT_USER_AGENT})
-                        with urllib.request.urlopen(dl_req, timeout=15) as dl_resp, open(jar_candidate, "wb") as out_f:
+                        with urllib.request.urlopen(dl_req, timeout=120) as dl_resp, open(jar_candidate, "wb") as out_f:
                             shutil.copyfileobj(dl_resp, out_f)
                         os.makedirs(os.path.dirname(cached_jar), exist_ok=True)
                         shutil.copyfile(jar_candidate, cached_jar)
@@ -280,7 +280,7 @@ class MorphePatcher:
 
             api_url = f"https://api.github.com/repos/{repo}/releases/latest"
             req = urllib.request.Request(api_url, headers=headers)
-            with urllib.request.urlopen(req, timeout=4) as resp:
+            with urllib.request.urlopen(req, timeout=10) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
                 for asset in data.get("assets", []):
                     name = asset.get("name", "")
@@ -288,7 +288,7 @@ class MorphePatcher:
                         dl_url = asset.get("browser_download_url")
                         logger.info("Downloading bundle %s from %s", name, dl_url)
                         dl_req = urllib.request.Request(dl_url, headers=headers)
-                        with urllib.request.urlopen(dl_req, timeout=10) as dl_resp, open(mpp_dest, "wb") as out_f:
+                        with urllib.request.urlopen(dl_req, timeout=30) as dl_resp, open(mpp_dest, "wb") as out_f:
                             shutil.copyfileobj(dl_resp, out_f)
                         os.makedirs(os.path.dirname(data_cache), exist_ok=True)
                         shutil.copyfile(mpp_dest, data_cache)
@@ -309,6 +309,7 @@ class MorphePatcher:
         bundle_mpp_path: str,
         output_apk_path: str,
         enabled_patches: Optional[list[str]] = None,
+        bundle_repo: Optional[str] = None,
     ) -> tuple[bool, str]:
         """Patch base APK using Morphe CLI or internal patch builder."""
         if not os.path.exists(base_apk_path):
@@ -316,11 +317,17 @@ class MorphePatcher:
 
         # If morphe jar is available and executable
         if self.cli_jar_path and os.path.exists(self.cli_jar_path):
+            bundle_arg = bundle_mpp_path
+            if bundle_repo and (not os.path.exists(bundle_mpp_path) or os.path.getsize(bundle_mpp_path) < 1000):
+                bundle_arg = f"https://github.com/{bundle_repo}"
+
             cmd = [
                 "java", "-jar", self.cli_jar_path,
                 "patch",
-                "--patches", bundle_mpp_path,
-                "--out", output_apk_path,
+                f"--patches={bundle_arg}",
+                "-f",
+                "--continue-on-error",
+                f"-o={output_apk_path}",
                 base_apk_path,
             ]
             if enabled_patches:
@@ -330,7 +337,7 @@ class MorphePatcher:
             logger.info("Executing Morphe CLI patch: %s", " ".join(cmd))
             try:
                 proc = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
-                if proc.returncode == 0 and os.path.exists(output_apk_path):
+                if proc.returncode == 0 and os.path.exists(output_apk_path) and os.path.getsize(output_apk_path) > 0:
                     return True, "Successfully patched with Morphe CLI"
                 logger.warning("Morphe CLI exited with code %d: %s", proc.returncode, proc.stderr)
             except Exception as exc:
