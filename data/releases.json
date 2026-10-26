@@ -1,22 +1,22 @@
 {
   "magisk": {
     "source_repository": "topjohnwu/Magisk",
-    "source_release_id": 289304729,
-    "source_tag": "v30.7",
-    "source_published_at": "2026-02-23T08:07:01Z",
-    "synced_at": "2026-08-22T12:40:47.993949+00:00",
+    "source_release_id": 423095453,
+    "source_tag": "v31.1",
+    "source_published_at": "2026-10-25T02:03:45Z",
+    "synced_at": "2026-10-26T22:22:54.521764+00:00",
     "assets": [
       {
-        "source_asset_id": 360657866,
-        "filename": "Magisk-v30.7.apk",
-        "original_filename": "Magisk-v30.7.apk",
-        "sha256": "e0d32d2123532860f97123d927b1bb86c4e08e6fd8a48bfc6b5bee0afae9ebd5",
-        "file_size": 11613864,
+        "source_asset_id": 673844395,
+        "filename": "Magisk-v31.1.apk",
+        "original_filename": "Magisk-v31.1.apk",
+        "sha256": "89cefac0a318afa39fb3880c45c87b036c05bc1ebf02a7a715b7f8d7c26ac6e7",
+        "file_size": 10679283,
         "architecture": "arm64-v8a, armeabi-v7a, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "magisk-v30.7",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/magisk-v30.7"
+    "mirror_release_tag": "magisk-v31.1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/magisk-v31.1"
   },
   "app-manager": {
     "source_repository": "MuntashirAkon/AppManager",
@@ -446,7 +446,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-26T12:24:53.207022+00:00",
+    "synced_at": "2026-10-26T22:23:07.513913+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -975,7 +975,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-26T12:25:06.314458+00:00",
+    "synced_at": "2026-10-26T22:23:19.592252+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
