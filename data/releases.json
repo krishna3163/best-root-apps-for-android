@@ -123,30 +123,30 @@
   },
   "sukisu-ultra": {
     "source_repository": "SukiSU-Ultra/SukiSU-Ultra",
-    "source_release_id": 422673870,
-    "source_tag": "v4.2.1-r2",
-    "source_published_at": "2026-10-24T10:52:37Z",
-    "synced_at": "2026-10-24T15:31:16.329732+00:00",
+    "source_release_id": 427569558,
+    "source_tag": "v4.3.0",
+    "source_published_at": "2026-10-29T07:28:35Z",
+    "synced_at": "2026-10-29T12:26:23.956116+00:00",
     "assets": [
       {
-        "source_asset_id": 672045772,
-        "filename": "SukiSU_v4.2.1-r2_41068-release-spoofed.apk",
-        "original_filename": "SukiSU_v4.2.1-r2_41068-release-spoofed.apk",
-        "sha256": "69704be098ff06b0e98880d001eb64db2613368e5ce8039152d72a58ec3b428f",
-        "file_size": 18489765,
+        "source_asset_id": 687762949,
+        "filename": "SukiSU_v4.3.0_41100-release-spoofed.apk",
+        "original_filename": "SukiSU_v4.3.0_41100-release-spoofed.apk",
+        "sha256": "a8d2ee6b0e8302a440dc9d3cae515689675d3c90e9a302c1ef16a1612aeaab4a",
+        "file_size": 19219289,
         "architecture": "arm64-v8a, armeabi-v7a, riscv64, x86_64"
       },
       {
-        "source_asset_id": 672045775,
-        "filename": "SukiSU_v4.2.1-r2_41068-release.apk",
-        "original_filename": "SukiSU_v4.2.1-r2_41068-release.apk",
-        "sha256": "f60ba9fd7c3d8fe3966d7641ab755176f80100bcb8e9fa28d48856ecf931f464",
-        "file_size": 18489765,
+        "source_asset_id": 687762961,
+        "filename": "SukiSU_v4.3.0_41100-release.apk",
+        "original_filename": "SukiSU_v4.3.0_41100-release.apk",
+        "sha256": "a928eb57ad34b105233f92dcd55e54dd883482e417970276329a7d0f0979e212",
+        "file_size": 19219289,
         "architecture": "arm64-v8a, armeabi-v7a, riscv64, x86_64"
       }
     ],
-    "mirror_release_tag": "sukisu-ultra-v4.2.1-r2",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.2.1-r2"
+    "mirror_release_tag": "sukisu-ultra-v4.3.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.3.0"
   },
   "mmrl": {
     "source_repository": "DerGoogler/MMRL",
@@ -446,7 +446,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-29T04:45:22.177029+00:00",
+    "synced_at": "2026-10-29T12:26:30.902960+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -975,7 +975,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-29T04:45:33.607406+00:00",
+    "synced_at": "2026-10-29T12:26:42.879123+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
