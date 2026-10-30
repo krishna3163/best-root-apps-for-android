@@ -77,22 +77,22 @@
   },
   "folkpatch": {
     "source_repository": "LyraVoid/FolkPatch",
-    "source_release_id": 410559361,
-    "source_tag": "115357",
-    "source_published_at": "2026-10-12T12:03:07Z",
-    "synced_at": "2026-10-12T14:39:21.598894+00:00",
+    "source_release_id": 429247963,
+    "source_tag": "115404",
+    "source_published_at": "2026-10-30T16:24:35Z",
+    "synced_at": "2026-10-30T21:59:32.233948+00:00",
     "assets": [
       {
-        "source_asset_id": 633672084,
-        "filename": "FolkPatch_115357_a843c526_on_main-release.apk",
-        "original_filename": "FolkPatch_115357_a843c526_on_main-release.apk",
-        "sha256": "f73a3cd9438f871e3461954123174aabcf9631e53f465225f729f27a3371cb06",
-        "file_size": 17805181,
+        "source_asset_id": 692684648,
+        "filename": "FolkPatch_115404_0f3f42ba_on_main-release.apk",
+        "original_filename": "FolkPatch_115404_0f3f42ba_on_main-release.apk",
+        "sha256": "1d29c147443ce0986e3d9f5241f9d377dc1e9c7a60ea51c165737748c5302d2f",
+        "file_size": 17378611,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "folkpatch-115357",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/folkpatch-115357"
+    "mirror_release_tag": "folkpatch-115404",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/folkpatch-115404"
   },
   "kernelsu-next": {
     "source_repository": "KernelSU-Next/KernelSU-Next",
@@ -446,7 +446,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-30T12:17:58.510473+00:00",
+    "synced_at": "2026-10-30T21:59:40.762996+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -573,22 +573,22 @@
   },
   "ohmykeymint": {
     "source_repository": "qwq233/OhMyKeymint",
-    "source_release_id": 389074732,
-    "source_tag": "1.2.0-preview-a1f3241",
-    "source_published_at": "2026-09-16T04:16:54Z",
-    "synced_at": "2026-10-11T21:36:08.406214+00:00",
+    "source_release_id": 429110288,
+    "source_tag": "1.2.5-17b0eb6",
+    "source_published_at": "2026-10-30T14:51:06Z",
+    "synced_at": "2026-10-30T21:59:45.290918+00:00",
     "assets": [
       {
-        "source_asset_id": 568028419,
-        "filename": "OhMyKeymint-release-arm64-v8a-1.2.0-a1f3241.zip",
-        "original_filename": "OhMyKeymint-release-arm64-v8a-1.2.0-a1f3241.zip",
-        "sha256": "0d672020b1e20b88636af4afcde65cd18ff5294813b7f7d007bcdee5ee6cd9ac",
-        "file_size": 4854133,
+        "source_asset_id": 692322584,
+        "filename": "OhMyKeymint-release-arm64-v8a-1.2.5-17b0eb6.zip",
+        "original_filename": "OhMyKeymint-release-arm64-v8a-1.2.5-17b0eb6.zip",
+        "sha256": "b033deb03a69be95e4d2c0b5a8c335b76f54b009ba8d7d0cb7edc1add2b53a84",
+        "file_size": 4933635,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "ohmykeymint-1.2.0-preview-a1f3241",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-1.2.0-preview-a1f3241"
+    "mirror_release_tag": "ohmykeymint-1.2.5-17b0eb6",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-1.2.5-17b0eb6"
   },
   "play-integrity-fix-inject": {
     "source_repository": "KOWX712/PlayIntegrityFix",
@@ -975,7 +975,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-30T12:18:11.745702+00:00",
+    "synced_at": "2026-10-30T21:59:54.553115+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
