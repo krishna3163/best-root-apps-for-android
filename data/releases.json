@@ -446,7 +446,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-10-29T22:30:35.834372+00:00",
+    "synced_at": "2026-10-30T04:44:53.192764+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -535,22 +535,22 @@
   },
   "komodo-build-props": {
     "source_repository": "Elcapitanoe/Komodo-Build-Prop",
-    "source_release_id": 419490465,
-    "source_tag": "20261021",
-    "source_published_at": "2026-10-21T11:44:20Z",
-    "synced_at": "2026-10-21T16:45:44.611818+00:00",
+    "source_release_id": 428613939,
+    "source_tag": "v26.1030",
+    "source_published_at": "2026-10-30T03:08:29Z",
+    "synced_at": "2026-10-30T04:44:57.397614+00:00",
     "assets": [
       {
-        "source_asset_id": 662321617,
-        "filename": "Komodo_beta_DP11.261002.005.zip",
-        "original_filename": "Komodo_beta_DP11.261002.005.zip",
-        "sha256": "278ee04866fe40ff7068f6af5f0bcbb5ff179f3542b178bea2d22ad3967002fa",
-        "file_size": 70922,
+        "source_asset_id": 690747576,
+        "filename": "Komodo_beta_DP11.261016.003.zip",
+        "original_filename": "Komodo_beta_DP11.261016.003.zip",
+        "sha256": "2da1f38c1af12b81583c345844526e284757b58335d27ae1b34335042957d6d0",
+        "file_size": 70924,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "komodo-build-props-20261021",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/komodo-build-props-20261021"
+    "mirror_release_tag": "komodo-build-props-v26.1030",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/komodo-build-props-v26.1030"
   },
   "nohello": {
     "source_repository": "MhmRdd/NoHello",
@@ -975,7 +975,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-10-29T22:30:52.510437+00:00",
+    "synced_at": "2026-10-30T04:45:09.340751+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
