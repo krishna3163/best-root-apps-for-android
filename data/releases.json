@@ -123,30 +123,22 @@
   },
   "sukisu-ultra": {
     "source_repository": "SukiSU-Ultra/SukiSU-Ultra",
-    "source_release_id": 427569558,
-    "source_tag": "v4.3.0",
-    "source_published_at": "2026-10-29T07:28:35Z",
-    "synced_at": "2026-10-29T12:26:23.956116+00:00",
+    "source_release_id": 432863997,
+    "source_tag": "v4.3.0-r1",
+    "source_published_at": "2026-11-03T15:17:47Z",
+    "synced_at": "2026-11-03T22:58:16.954590+00:00",
     "assets": [
       {
-        "source_asset_id": 687762949,
-        "filename": "SukiSU_v4.3.0_41100-release-spoofed.apk",
-        "original_filename": "SukiSU_v4.3.0_41100-release-spoofed.apk",
-        "sha256": "a8d2ee6b0e8302a440dc9d3cae515689675d3c90e9a302c1ef16a1612aeaab4a",
-        "file_size": 19219289,
-        "architecture": "arm64-v8a, armeabi-v7a, riscv64, x86_64"
-      },
-      {
-        "source_asset_id": 687762961,
-        "filename": "SukiSU_v4.3.0_41100-release.apk",
-        "original_filename": "SukiSU_v4.3.0_41100-release.apk",
-        "sha256": "a928eb57ad34b105233f92dcd55e54dd883482e417970276329a7d0f0979e212",
-        "file_size": 19219289,
+        "source_asset_id": 706265239,
+        "filename": "SukiSU_v4.3.0-r1_41140-release.apk",
+        "original_filename": "SukiSU_v4.3.0-r1_41140-release.apk",
+        "sha256": "79a0db803e1f0bb952760f19250e5fc92566e2569581e4123c9db0b5e3c46bb9",
+        "file_size": 19693021,
         "architecture": "arm64-v8a, armeabi-v7a, riscv64, x86_64"
       }
     ],
-    "mirror_release_tag": "sukisu-ultra-v4.3.0",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.3.0"
+    "mirror_release_tag": "sukisu-ultra-v4.3.0-r1",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.3.0-r1"
   },
   "mmrl": {
     "source_repository": "DerGoogler/MMRL",
@@ -446,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-11-03T13:45:27.544364+00:00",
+    "synced_at": "2026-11-03T22:58:23.670488+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -975,7 +967,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-11-03T13:45:44.163785+00:00",
+    "synced_at": "2026-11-03T22:58:36.544738+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
