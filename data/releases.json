@@ -446,7 +446,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-11-03T00:39:33.140148+00:00",
+    "synced_at": "2026-11-03T13:45:27.544364+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -611,22 +611,22 @@
   },
   "play-integrity-fork-pif": {
     "source_repository": "osm0sis/PlayIntegrityFork",
-    "source_release_id": 379053762,
-    "source_tag": "v18",
-    "source_published_at": "2026-08-29T17:33:56Z",
-    "synced_at": "2026-08-29T20:31:43.545128+00:00",
+    "source_release_id": 432187980,
+    "source_tag": "v19",
+    "source_published_at": "2026-11-03T02:01:41Z",
+    "synced_at": "2026-11-03T13:45:33.412248+00:00",
     "assets": [
       {
-        "source_asset_id": 535519268,
-        "filename": "PlayIntegrityFork-v18.zip",
-        "original_filename": "PlayIntegrityFork-v18.zip",
-        "sha256": "625ebe65631f761e1521009f10a205d74255adf2e35732923d65106643cad9a6",
-        "file_size": 227895,
+        "source_asset_id": 703897042,
+        "filename": "PlayIntegrityFork-v19.zip",
+        "original_filename": "PlayIntegrityFork-v19.zip",
+        "sha256": "83b4d5f32743805c5b5a69361d73b8ab9c095325e24f20711afa1abea837b58f",
+        "file_size": 341951,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "play-integrity-fork-pif-v18",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fork-pif-v18"
+    "mirror_release_tag": "play-integrity-fork-pif-v19",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/play-integrity-fork-pif-v19"
   },
   "playcurlnext": {
     "source_repository": "daboynb/playcurlNEXT",
@@ -975,7 +975,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-11-03T00:39:47.883465+00:00",
+    "synced_at": "2026-11-03T13:45:44.163785+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
