@@ -123,22 +123,22 @@
   },
   "sukisu-ultra": {
     "source_repository": "SukiSU-Ultra/SukiSU-Ultra",
-    "source_release_id": 432863997,
-    "source_tag": "v4.3.0-r1",
-    "source_published_at": "2026-11-03T15:17:47Z",
-    "synced_at": "2026-11-03T22:58:16.954590+00:00",
+    "source_release_id": 435362774,
+    "source_tag": "v4.3.0-r2",
+    "source_published_at": "2026-11-05T15:13:49Z",
+    "synced_at": "2026-11-06T05:30:18.157763+00:00",
     "assets": [
       {
-        "source_asset_id": 706265239,
-        "filename": "SukiSU_v4.3.0-r1_41140-release.apk",
-        "original_filename": "SukiSU_v4.3.0-r1_41140-release.apk",
-        "sha256": "79a0db803e1f0bb952760f19250e5fc92566e2569581e4123c9db0b5e3c46bb9",
-        "file_size": 19693021,
+        "source_asset_id": 713872223,
+        "filename": "SukiSU_v4.3.0-r2_41150-release.apk",
+        "original_filename": "SukiSU_v4.3.0-r2_41150-release.apk",
+        "sha256": "6fe64e7bcf9fd768c58f46afea2f27ee9fb85d2783472a7e81334df21e700636",
+        "file_size": 20131351,
         "architecture": "arm64-v8a, armeabi-v7a, riscv64, x86_64"
       }
     ],
-    "mirror_release_tag": "sukisu-ultra-v4.3.0-r1",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.3.0-r1"
+    "mirror_release_tag": "sukisu-ultra-v4.3.0-r2",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.3.0-r2"
   },
   "mmrl": {
     "source_repository": "DerGoogler/MMRL",
@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-11-05T14:09:44.278208+00:00",
+    "synced_at": "2026-11-06T05:30:25.484632+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -565,22 +565,22 @@
   },
   "ohmykeymint": {
     "source_repository": "qwq233/OhMyKeymint",
-    "source_release_id": 429110288,
-    "source_tag": "1.2.5-17b0eb6",
-    "source_published_at": "2026-10-30T14:51:06Z",
-    "synced_at": "2026-10-30T21:59:45.290918+00:00",
+    "source_release_id": 436106663,
+    "source_tag": "1.2.6-9069c6c",
+    "source_published_at": "2026-11-06T05:00:33Z",
+    "synced_at": "2026-11-06T05:30:30.842227+00:00",
     "assets": [
       {
-        "source_asset_id": 692322584,
-        "filename": "OhMyKeymint-release-arm64-v8a-1.2.5-17b0eb6.zip",
-        "original_filename": "OhMyKeymint-release-arm64-v8a-1.2.5-17b0eb6.zip",
-        "sha256": "b033deb03a69be95e4d2c0b5a8c335b76f54b009ba8d7d0cb7edc1add2b53a84",
-        "file_size": 4933635,
+        "source_asset_id": 715967882,
+        "filename": "OhMyKeymint-release-arm64-v8a-1.2.6-9069c6c.zip",
+        "original_filename": "OhMyKeymint-release-arm64-v8a-1.2.6-9069c6c.zip",
+        "sha256": "045d72dd0e5804001e3f227611e74df1eb0ac466747ff2aa0e8af8948f2e0d07",
+        "file_size": 4930351,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "ohmykeymint-1.2.5-17b0eb6",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-1.2.5-17b0eb6"
+    "mirror_release_tag": "ohmykeymint-1.2.6-9069c6c",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-1.2.6-9069c6c"
   },
   "play-integrity-fix-inject": {
     "source_repository": "KOWX712/PlayIntegrityFix",
@@ -967,7 +967,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-11-05T14:10:22.451377+00:00",
+    "synced_at": "2026-11-06T05:30:43.766577+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
