@@ -1460,7 +1460,7 @@ The table below is updated automatically from daily GitHub searches for new Andr
 | **YuriKey** | dpejoh | `v3.0.6` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/yurikey-v3.0.6) | [GitHub](https://github.com/dpejoh/yurikey) |
 | **ZeroMount** | Enginex0 | `v2.0.216-dev` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zeromount-v2.0.216-dev) | [GitHub](https://github.com/Enginex0/zeromount) |
 | **Zygisk Assistant** | snake-4 | `v2.1.4` | 2026-08-22 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-assistant-v2.1.4) | [GitHub](https://github.com/snake-4/Zygisk-Assistant) |
-| **Zygisk Next** | Dr-TSNG | `v1.5.2` | 2026-10-15 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-next-v1.5.2) | [GitHub](https://github.com/Dr-TSNG/ZygiskNext) |
+| **Zygisk Next** | Dr-TSNG | `v1.5.3` | 2026-11-07 | [⬇️ Download](https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-next-v1.5.3) | [GitHub](https://github.com/Dr-TSNG/ZygiskNext) |
 
 </details>
 <!-- AUTO-GENERATED-APPS-END -->

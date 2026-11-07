@@ -321,22 +321,22 @@
   },
   "zygisk-next": {
     "source_repository": "Dr-TSNG/ZygiskNext",
-    "source_release_id": 413314320,
-    "source_tag": "v1.5.2",
-    "source_published_at": "2026-10-15T01:00:18Z",
-    "synced_at": "2026-10-15T03:35:33.016000+00:00",
+    "source_release_id": 437695261,
+    "source_tag": "v1.5.3",
+    "source_published_at": "2026-11-07T16:32:11Z",
+    "synced_at": "2026-11-07T21:31:20.788306+00:00",
     "assets": [
       {
-        "source_asset_id": 642213398,
-        "filename": "Zygisk-Next-1.5.2-864-a4a72ce-release.zip",
-        "original_filename": "Zygisk-Next-1.5.2-864-a4a72ce-release.zip",
-        "sha256": "ce50b13fecb9e4456db69ef17b715f7cfbc094004dd9f30f7d6348dfab619a96",
-        "file_size": 6714344,
+        "source_asset_id": 721250705,
+        "filename": "Zygisk-Next-1.5.3-880-22a1bf5-release.zip",
+        "original_filename": "Zygisk-Next-1.5.3-880-22a1bf5-release.zip",
+        "sha256": "186a0a26c9fcb895af1954b42de831433c23d72d1bd0758b986069154359db67",
+        "file_size": 6638473,
         "architecture": "arm64-v8a, armeabi-v7a, riscv64, x86, x86_64"
       }
     ],
-    "mirror_release_tag": "zygisk-next-v1.5.2",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-next-v1.5.2"
+    "mirror_release_tag": "zygisk-next-v1.5.3",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/zygisk-next-v1.5.3"
   },
   "neozygisk": {
     "source_repository": "JingMatrix/NeoZygisk",
@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-11-07T12:36:19.312929+00:00",
+    "synced_at": "2026-11-07T21:31:23.416439+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -967,7 +967,7 @@
     "source_release_id": 370325307,
     "source_tag": "V7",
     "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-11-07T12:36:30.121027+00:00",
+    "synced_at": "2026-11-07T21:31:34.008582+00:00",
     "assets": [
       {
         "source_asset_id": 513939776,
