@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-11-09T05:00:50.534258+00:00",
+    "synced_at": "2026-11-09T15:27:09.197468+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -964,22 +964,22 @@
   },
   "hyperos-security-center": {
     "source_repository": "Mods-Center/HyperOS-Security-Center",
-    "source_release_id": 370325307,
-    "source_tag": "V7",
-    "source_published_at": "2026-08-14T03:09:26Z",
-    "synced_at": "2026-11-09T05:01:02.319313+00:00",
+    "source_release_id": 439061688,
+    "source_tag": "V8",
+    "source_published_at": "2026-11-09T11:42:07Z",
+    "synced_at": "2026-11-09T15:27:27.656658+00:00",
     "assets": [
       {
-        "source_asset_id": 513939776,
-        "filename": "hyperos_securityv7-kashis_cringey_stuffs.zip",
-        "original_filename": "HyperOS_SecurityV7@kashis_cringey_stuffs.zip",
-        "sha256": "b1722752144805f15e8e7d2d619403257594b05f123afb5ff61af004ba642d9c",
-        "file_size": 94570252,
+        "source_asset_id": 727529249,
+        "filename": "hyperos_securityv8-kashis_cringey_stuffs.zip",
+        "original_filename": "HyperOS_SecurityV8@kashis_cringey_stuffs.zip",
+        "sha256": "1d0ae50870a903b26bdde967d4324c3469a5a7e646fcdf738664b5807f388070",
+        "file_size": 85082691,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "hyperos-security-center-V7",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hyperos-security-center-V7"
+    "mirror_release_tag": "hyperos-security-center-V8",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hyperos-security-center-V8"
   },
   "multi-userui-enabler": {
     "source_repository": "InsertX2k/multiuseruienabler",
