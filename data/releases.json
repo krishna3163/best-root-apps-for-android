@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-11-10T01:15:20.654527+00:00",
+    "synced_at": "2026-11-10T14:28:35.058356+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -660,22 +660,22 @@
   },
   "specter": {
     "source_repository": "dpejoh/specter",
-    "source_release_id": 387552604,
-    "source_tag": "v1.5.0",
-    "source_published_at": "2026-09-12T11:41:38Z",
-    "synced_at": "2026-09-12T15:09:20.457442+00:00",
+    "source_release_id": 440095742,
+    "source_tag": "v2.0.0",
+    "source_published_at": "2026-11-10T08:16:54Z",
+    "synced_at": "2026-11-10T14:28:42.300945+00:00",
     "assets": [
       {
-        "source_asset_id": 559167546,
-        "filename": "specter-v1.5.0.zip",
-        "original_filename": "specter-v1.5.0.zip",
-        "sha256": "9b463c6c62ec9ec7d7231a9c5233a58783eec77876823760898b8729884d9e05",
-        "file_size": 941568,
+        "source_asset_id": 730652392,
+        "filename": "specter-v2.0.0.zip",
+        "original_filename": "specter-v2.0.0.zip",
+        "sha256": "e59dc02b2637c35458aa3c9b07cb5717916f153bf39f7b7c6374f3e9341fcd02",
+        "file_size": 600058,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "specter-v1.5.0",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v1.5.0"
+    "mirror_release_tag": "specter-v2.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/specter-v2.0.0"
   },
   "teesimulator-rs": {
     "source_repository": "Enginex0/TEESimulator-RS",
@@ -967,7 +967,7 @@
     "source_release_id": 439061688,
     "source_tag": "V8",
     "source_published_at": "2026-11-09T11:42:07Z",
-    "synced_at": "2026-11-10T01:15:33.417674+00:00",
+    "synced_at": "2026-11-10T14:28:54.489495+00:00",
     "assets": [
       {
         "source_asset_id": 727529249,
