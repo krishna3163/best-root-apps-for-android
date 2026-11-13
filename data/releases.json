@@ -438,7 +438,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-11-12T23:16:58.771474+00:00",
+    "synced_at": "2026-11-13T05:29:29.448879+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -527,22 +527,22 @@
   },
   "komodo-build-props": {
     "source_repository": "Elcapitanoe/Komodo-Build-Prop",
-    "source_release_id": 428613939,
-    "source_tag": "v26.1030",
-    "source_published_at": "2026-10-30T03:08:29Z",
-    "synced_at": "2026-10-30T04:44:57.397614+00:00",
+    "source_release_id": 443738829,
+    "source_tag": "v26.1113",
+    "source_published_at": "2026-11-13T02:20:10Z",
+    "synced_at": "2026-11-13T05:29:33.336431+00:00",
     "assets": [
       {
-        "source_asset_id": 690747576,
-        "filename": "Komodo_beta_DP11.261016.003.zip",
-        "original_filename": "Komodo_beta_DP11.261016.003.zip",
-        "sha256": "2da1f38c1af12b81583c345844526e284757b58335d27ae1b34335042957d6d0",
-        "file_size": 70924,
+        "source_asset_id": 741933249,
+        "filename": "Komodo_beta_DP11.261030.003.zip",
+        "original_filename": "Komodo_beta_DP11.261030.003.zip",
+        "sha256": "1e0ff8add69c45736bf921f9c271774dbf4f7f8eee6ee06be3e6dc7a8f9a26e6",
+        "file_size": 70966,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "komodo-build-props-v26.1030",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/komodo-build-props-v26.1030"
+    "mirror_release_tag": "komodo-build-props-v26.1113",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/komodo-build-props-v26.1113"
   },
   "nohello": {
     "source_repository": "MhmRdd/NoHello",
@@ -967,7 +967,7 @@
     "source_release_id": 439061688,
     "source_tag": "V8",
     "source_published_at": "2026-11-09T11:42:07Z",
-    "synced_at": "2026-11-12T23:17:10.554769+00:00",
+    "synced_at": "2026-11-13T05:29:45.829962+00:00",
     "assets": [
       {
         "source_asset_id": 727529249,
@@ -1002,70 +1002,70 @@
   },
   "noogle-magisk": {
     "source_repository": "SelfRef/noogle-magisk",
-    "source_release_id": 423826687,
-    "source_tag": "v2026.10.26",
-    "source_published_at": "2026-10-26T03:19:17Z",
-    "synced_at": "2026-10-26T03:39:04.671763+00:00",
+    "source_release_id": 443768024,
+    "source_tag": "v2026.11.13",
+    "source_published_at": "2026-11-13T03:07:44Z",
+    "synced_at": "2026-11-13T05:30:30.440406+00:00",
     "assets": [
       {
-        "source_asset_id": 676865300,
-        "filename": "noogle-microg-catfish-v2026.10.26.zip",
-        "original_filename": "noogle-microg-catfish-v2026.10.26.zip",
-        "sha256": "8309b4f0d40dedc20008d77a38807a40ee148187f0b5ca42814db4238eb0f155",
-        "file_size": 106437581,
+        "source_asset_id": 742061138,
+        "filename": "noogle-microg-catfish-v2026.11.13.zip",
+        "original_filename": "noogle-microg-catfish-v2026.11.13.zip",
+        "sha256": "0aea9ca30f8ccbfbe3ddfadcec2ac10034db5a240ea93fe88d78f525fe2e7b4e",
+        "file_size": 106762745,
         "architecture": "universal"
       },
       {
-        "source_asset_id": 676865297,
-        "filename": "noogle-microg-playful-catfish-v2026.10.26.zip",
-        "original_filename": "noogle-microg-playful-catfish-v2026.10.26.zip",
-        "sha256": "d6f473369f27b83a064fb5091eaf8c8dd149d3c33940d2ee8ed7f99c554ac918",
-        "file_size": 103261274,
+        "source_asset_id": 742061140,
+        "filename": "noogle-microg-playful-catfish-v2026.11.13.zip",
+        "original_filename": "noogle-microg-playful-catfish-v2026.11.13.zip",
+        "sha256": "dd3e65c1ff36245ec3bbe5e477f91e82f6e6dd8583800d1d55bcf69cb399347b",
+        "file_size": 103585840,
         "architecture": "universal"
       },
       {
-        "source_asset_id": 676865301,
-        "filename": "noogle-microg-playful-v2026.10.26.zip",
-        "original_filename": "noogle-microg-playful-v2026.10.26.zip",
-        "sha256": "e899b2ad148606f90b7457e858777609cc8ee74e53f38d282f8025b1adf38dbd",
-        "file_size": 103539412,
+        "source_asset_id": 742061137,
+        "filename": "noogle-microg-playful-v2026.11.13.zip",
+        "original_filename": "noogle-microg-playful-v2026.11.13.zip",
+        "sha256": "9f27197d9d1a96ad9abeef27e87faf06dd60ee8810562448cebaf6e333f80ee7",
+        "file_size": 103873946,
         "architecture": "universal"
       },
       {
-        "source_asset_id": 676865295,
-        "filename": "noogle-microg-v2026.10.26.zip",
-        "original_filename": "noogle-microg-v2026.10.26.zip",
-        "sha256": "47efd9267295634c2af8c559bd66f9c91a27190506cc84ce596d6cfd6081dfbf",
-        "file_size": 106796624,
+        "source_asset_id": 742061135,
+        "filename": "noogle-microg-v2026.11.13.zip",
+        "original_filename": "noogle-microg-v2026.11.13.zip",
+        "sha256": "1216257be9b1ebb41f914dcb8d45f8994adbaf322b9e57c4e5185a640e419c5b",
+        "file_size": 107131713,
         "architecture": "universal"
       },
       {
-        "source_asset_id": 676865298,
-        "filename": "noogle-unbundle-fossify-v2026.10.26.zip",
-        "original_filename": "noogle-unbundle-fossify-v2026.10.26.zip",
-        "sha256": "82f7d06d82d2a258142965a205ac816059ea081d590f10c7d4bfe940ef382f4f",
-        "file_size": 85464181,
+        "source_asset_id": 742061139,
+        "filename": "noogle-unbundle-fossify-v2026.11.13.zip",
+        "original_filename": "noogle-unbundle-fossify-v2026.11.13.zip",
+        "sha256": "ccb58cc1c77a31368540cd33d4d0a2ecec8a58ef352b1f1e2afa2c791f64580d",
+        "file_size": 85477670,
         "architecture": "universal"
       },
       {
-        "source_asset_id": 676865462,
-        "filename": "noogle-unbundle-hard-v2026.10.26.zip",
-        "original_filename": "noogle-unbundle-hard-v2026.10.26.zip",
-        "sha256": "e3bb8837d5f2707b545195035b541a3532b97b0f7948bacb1f2018eb26176a09",
-        "file_size": 7514,
+        "source_asset_id": 742061284,
+        "filename": "noogle-unbundle-hard-v2026.11.13.zip",
+        "original_filename": "noogle-unbundle-hard-v2026.11.13.zip",
+        "sha256": "9a2b2b5578b904e4760fca18a41d486327b66dcdb7bdc61bcf2c9806f92952b9",
+        "file_size": 7515,
         "architecture": "universal"
       },
       {
-        "source_asset_id": 676865476,
-        "filename": "noogle-unbundle-v2026.10.26.zip",
-        "original_filename": "noogle-unbundle-v2026.10.26.zip",
-        "sha256": "228a0f3b1a57d2ba637d9a16b804dcace3c8435923f51cb93f5be34f9a4bb9af",
+        "source_asset_id": 742061291,
+        "filename": "noogle-unbundle-v2026.11.13.zip",
+        "original_filename": "noogle-unbundle-v2026.11.13.zip",
+        "sha256": "72bb63033f72eecb7983b78718e50b728f19ec9d74c50c4cf70082ed6b8ab1de",
         "file_size": 5067,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "noogle-magisk-v2026.10.26",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/noogle-magisk-v2026.10.26"
+    "mirror_release_tag": "noogle-magisk-v2026.11.13",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/noogle-magisk-v2026.11.13"
   },
   "secure-element-access": {
     "source_repository": "jqssun/android-se-access",
