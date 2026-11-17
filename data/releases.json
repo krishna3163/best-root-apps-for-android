@@ -123,22 +123,46 @@
   },
   "sukisu-ultra": {
     "source_repository": "SukiSU-Ultra/SukiSU-Ultra",
-    "source_release_id": 435362774,
-    "source_tag": "v4.3.0-r2",
-    "source_published_at": "2026-11-05T15:13:49Z",
-    "synced_at": "2026-11-06T05:30:18.157763+00:00",
+    "source_release_id": 446220185,
+    "source_tag": "v3.0.0",
+    "source_published_at": "2026-11-15T17:07:46Z",
+    "synced_at": "2026-11-17T15:37:30.356941+00:00",
     "assets": [
       {
-        "source_asset_id": 713872223,
-        "filename": "SukiSU_v4.3.0-r2_41150-release.apk",
-        "original_filename": "SukiSU_v4.3.0-r2_41150-release.apk",
-        "sha256": "6fe64e7bcf9fd768c58f46afea2f27ee9fb85d2783472a7e81334df21e700636",
-        "file_size": 20131351,
-        "architecture": "arm64-v8a, armeabi-v7a, riscv64, x86_64"
+        "source_asset_id": 759473083,
+        "filename": "SukiSU_Nova_v3.0.0_35000-arm64-v8a-release.apk",
+        "original_filename": "SukiSU_Nova_v3.0.0_35000-arm64-v8a-release.apk",
+        "sha256": "1202adb835a64d8b3df703da7884a2966f8728c131cffb29fb5f48d31d81ac85",
+        "file_size": 12016450,
+        "architecture": "arm64-v8a"
+      },
+      {
+        "source_asset_id": 759473081,
+        "filename": "SukiSU_Nova_v3.0.0_35000-armeabi-v7a-release.apk",
+        "original_filename": "SukiSU_Nova_v3.0.0_35000-armeabi-v7a-release.apk",
+        "sha256": "dfbc39b662a30419b408a97bfdb2edc836b225a871bf12d38432b7266c104b4d",
+        "file_size": 9554687,
+        "architecture": "armeabi-v7a"
+      },
+      {
+        "source_asset_id": 759473265,
+        "filename": "SukiSU_Nova_v3.0.0_35000-riscv64-release.apk",
+        "original_filename": "SukiSU_Nova_v3.0.0_35000-riscv64-release.apk",
+        "sha256": "d2afae47aab92f016430e2e0ef8466e463e5fb3232351eadb9d601f685ae45e7",
+        "file_size": 9784051,
+        "architecture": "riscv64"
+      },
+      {
+        "source_asset_id": 759473084,
+        "filename": "SukiSU_Nova_v3.0.0_35000-x86_64-release.apk",
+        "original_filename": "SukiSU_Nova_v3.0.0_35000-x86_64-release.apk",
+        "sha256": "d0916d8ac9ee9c154baf05aa0f124025b1eb42fe435c15096db8a2233974db21",
+        "file_size": 11201264,
+        "architecture": "x86_64"
       }
     ],
-    "mirror_release_tag": "sukisu-ultra-v4.3.0-r2",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v4.3.0-r2"
+    "mirror_release_tag": "sukisu-ultra-v3.0.0",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/sukisu-ultra-v3.0.0"
   },
   "mmrl": {
     "source_repository": "DerGoogler/MMRL",
@@ -438,7 +462,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-11-17T01:40:42.319135+00:00",
+    "synced_at": "2026-11-17T15:37:38.111235+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -967,7 +991,7 @@
     "source_release_id": 439061688,
     "source_tag": "V8",
     "source_published_at": "2026-11-09T11:42:07Z",
-    "synced_at": "2026-11-17T01:40:53.890927+00:00",
+    "synced_at": "2026-11-17T15:37:52.430343+00:00",
     "assets": [
       {
         "source_asset_id": 727529249,
