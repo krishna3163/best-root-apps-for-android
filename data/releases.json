@@ -462,7 +462,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-11-21T05:57:05.131723+00:00",
+    "synced_at": "2026-11-21T14:28:22.245394+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -969,29 +969,37 @@
   },
   "hyperos-accessibility-fix": {
     "source_repository": "chickendrop89/hyperos-accessibility-fix",
-    "source_release_id": 356469610,
-    "source_tag": "1.0.5",
-    "source_published_at": "2026-07-20T01:49:07Z",
-    "synced_at": "2026-08-22T12:43:35.384833+00:00",
+    "source_release_id": 453614595,
+    "source_tag": "1.0.6",
+    "source_published_at": "2026-11-21T10:37:15Z",
+    "synced_at": "2026-11-21T14:28:35.911985+00:00",
     "assets": [
       {
-        "source_asset_id": 482925428,
+        "source_asset_id": 775226469,
+        "filename": "hyperos-accessibility-fix-1.0.6.zip",
+        "original_filename": "hyperos-accessibility-fix-1.0.6.zip",
+        "sha256": "6dd6d0dd02ada973ae51845cd1abbea985e531bad7baf2ff6fab64889dadfce1",
+        "file_size": 23726,
+        "architecture": "universal"
+      },
+      {
+        "source_asset_id": 775226467,
         "filename": "hyperos-accessibility-fix.zip",
         "original_filename": "hyperos-accessibility-fix.zip",
-        "sha256": "476a7ee8664f45a9147989f9bfea721aaf5bc6eadfad3a517ec2ee0306be23f9",
-        "file_size": 23459,
+        "sha256": "6dd6d0dd02ada973ae51845cd1abbea985e531bad7baf2ff6fab64889dadfce1",
+        "file_size": 23726,
         "architecture": "universal"
       }
     ],
-    "mirror_release_tag": "hyperos-accessibility-fix-1.0.5",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hyperos-accessibility-fix-1.0.5"
+    "mirror_release_tag": "hyperos-accessibility-fix-1.0.6",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/hyperos-accessibility-fix-1.0.6"
   },
   "hyperos-security-center": {
     "source_repository": "Mods-Center/HyperOS-Security-Center",
     "source_release_id": 439061688,
     "source_tag": "V8",
     "source_published_at": "2026-11-09T11:42:07Z",
-    "synced_at": "2026-11-21T05:57:14.819554+00:00",
+    "synced_at": "2026-11-21T14:28:37.385661+00:00",
     "assets": [
       {
         "source_asset_id": 727529249,
