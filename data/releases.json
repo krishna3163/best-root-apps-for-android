@@ -462,7 +462,7 @@
     "source_release_id": 359969440,
     "source_tag": "v1.5.2+_R28",
     "source_published_at": "2026-07-26T09:11:01Z",
-    "synced_at": "2026-11-22T05:31:32.463425+00:00",
+    "synced_at": "2026-11-22T14:12:42.015929+00:00",
     "assets": [
       {
         "source_asset_id": 490214327,
@@ -589,22 +589,22 @@
   },
   "ohmykeymint": {
     "source_repository": "qwq233/OhMyKeymint",
-    "source_release_id": 436106663,
-    "source_tag": "1.2.6-9069c6c",
-    "source_published_at": "2026-11-06T05:00:33Z",
-    "synced_at": "2026-11-06T05:30:30.842227+00:00",
+    "source_release_id": 453666378,
+    "source_tag": "1.3.0-7742865",
+    "source_published_at": "2026-11-22T09:25:29Z",
+    "synced_at": "2026-11-22T14:12:46.928441+00:00",
     "assets": [
       {
-        "source_asset_id": 715967882,
-        "filename": "OhMyKeymint-release-arm64-v8a-1.2.6-9069c6c.zip",
-        "original_filename": "OhMyKeymint-release-arm64-v8a-1.2.6-9069c6c.zip",
-        "sha256": "045d72dd0e5804001e3f227611e74df1eb0ac466747ff2aa0e8af8948f2e0d07",
-        "file_size": 4930351,
+        "source_asset_id": 775499287,
+        "filename": "OhMyKeymint-release-arm64-v8a-1.3.0-7742865.zip",
+        "original_filename": "OhMyKeymint-release-arm64-v8a-1.3.0-7742865.zip",
+        "sha256": "8991387df497c2b0feb1a61f101d1cfc5513a859c54633358a45ef65a642d8c8",
+        "file_size": 4511524,
         "architecture": "arm64-v8a"
       }
     ],
-    "mirror_release_tag": "ohmykeymint-1.2.6-9069c6c",
-    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-1.2.6-9069c6c"
+    "mirror_release_tag": "ohmykeymint-1.3.0-7742865",
+    "mirror_release_url": "https://github.com/krishna3163/best-root-apps-for-android/releases/tag/ohmykeymint-1.3.0-7742865"
   },
   "play-integrity-fix-inject": {
     "source_repository": "KOWX712/PlayIntegrityFix",
@@ -999,7 +999,7 @@
     "source_release_id": 439061688,
     "source_tag": "V8",
     "source_published_at": "2026-11-09T11:42:07Z",
-    "synced_at": "2026-11-22T05:31:42.933618+00:00",
+    "synced_at": "2026-11-22T14:12:56.088815+00:00",
     "assets": [
       {
         "source_asset_id": 727529249,
